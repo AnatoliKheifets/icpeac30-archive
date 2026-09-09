@@ -1,0 +1,124 @@
+name: Build and publish ICPEAC 30 archive
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/archive_icpeac30.py
+      - scripts/icpeac30_manifest.txt
+      - .github/workflows/build-and-publish-icpeac30.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source revision
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+
+      - name: Restore archived website
+        run: |
+          rm -rf /tmp/icpeac30-site
+          python3 scripts/archive_icpeac30.py --output /tmp/icpeac30-site
+
+      - name: Independently verify restored website
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path('/tmp/icpeac30-site')
+          files = [path for path in root.rglob('*') if path.is_file()]
+          html_files = [path for path in files if path.suffix == '.html']
+
+          if len(files) != 295:
+              raise SystemExit(f'expected 295 website files, found {len(files)}')
+          if len(html_files) != 27:
+              raise SystemExit(f'expected 27 HTML files, found {len(html_files)}')
+
+          required = (
+              'index.html',
+              'scope.html',
+              'posterlist.html',
+              'speakers.html',
+              'registration.html',
+              'iswamp/program.html',
+              '_files/icpeacabstract.tar.gz',
+              '_includes/style.css',
+              '_images/logo-4.png',
+          )
+          missing = [name for name in required if not (root / name).is_file()]
+          if missing:
+              raise SystemExit(f'missing required files: {missing}')
+
+          index = (root / 'index.html').read_text(encoding='utf-8')
+          for target in ('scope.html', 'speakers.html', 'posterlist.html'):
+              if target not in index:
+                  raise SystemExit(f'index.html does not reference {target}')
+          for target in ('scope.php', 'speakers.php', 'posterlist.php'):
+              if target in index:
+                  raise SystemExit(f'index.html still references {target}')
+
+          attribute = re.compile(
+              r'''\b(?:href|src|action|poster|data)\s*=\s*(["'])(.*?)\1''',
+              re.IGNORECASE | re.DOTALL,
+          )
+          bad_references = []
+          for page in html_files:
+              text = page.read_text(encoding='utf-8')
+              for match in attribute.finditer(text):
+                  reference = match.group(2).strip()
+                  path = reference.split('#', 1)[0].split('?', 1)[0]
+                  if path.lower().endswith('.php'):
+                      bad_references.append(
+                          f'{page.relative_to(root)}: {reference}'
+                      )
+          if bad_references:
+              raise SystemExit(
+                  'browser-facing PHP references found:\n' + '\n'.join(bad_references)
+              )
+
+          print(f'verified {len(files)} files and {len(html_files)} HTML pages')
+          PY
+
+      - name: Publish site to gh-pages
+        env:
+          SITE_DIR: /tmp/icpeac30-site
+        run: |
+          set -euo pipefail
+
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+
+          publish_dir="$(mktemp -d)"
+          git worktree add --detach "$publish_dir" "$GITHUB_SHA"
+
+          if git fetch origin gh-pages:refs/remotes/origin/gh-pages; then
+            git -C "$publish_dir" switch --create gh-pages --track origin/gh-pages
+          else
+            git -C "$publish_dir" switch --orphan gh-pages
+          fi
+
+          find "$publish_dir" -mindepth 1 -maxdepth 1 ! -name .git \
+            -exec rm -rf -- {} +
+          cp -a "$SITE_DIR"/. "$publish_dir"/
+          : > "$publish_dir/.nojekyll"
+
+          published_count="$(find "$publish_dir" -type f ! -path "$publish_dir/.git" | wc -l)"
+          test "$published_count" -eq 296
+
+          git -C "$publish_dir" add --all
+          if git -C "$publish_dir" diff --cached --quiet; then
+            echo 'Published contents are already current.'
+            exit 0
+          fi
+
+          git -C "$publish_dir" commit -m 'Publish ICPEAC 30 archive'
+          git -C "$publish_dir" push origin gh-pages

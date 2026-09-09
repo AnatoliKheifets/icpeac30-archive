@@ -1,0 +1,17 @@
+# Locally generated archive and site output
+/archive/
+/build/
+/dist/
+/site/
+/icpeac30-site/
+/tmp/
+/.tmp/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Temporary build files
+*.tmp
+*.temp
+*~
