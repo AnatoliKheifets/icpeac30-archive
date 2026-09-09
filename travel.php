@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ICPEAC 2017 - Travel</title>
+<link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+
+<link href="_includes/fonts/Open Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Open Sans Condensed/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Oswald/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/PT Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="924" border="0" align="center" cellpadding="0" cellspacing="0" id="container">
+  <tr>
+    <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" id="content">
+      <tr>
+        <td align="center" valign="middle" class="header"><table width="100%" border="0" cellpadding="0" cellspacing="0" id="headerTable">
+              <tr>
+                <td align="left" valign="middle" class="logoCell"><img src="_images/logo-4.png" width="108" height="128" / style="padding-left:40px;"></td>
+                <td align="left" valign="middle" class="pageTitleCell"><span class="icpeacHeading"><span class="icpeacHeadingDark">INTERNATIONAL CONFERENCE</span><span class="icpeacHeadingMed"> ON 
+                  PHOTONIC 
+                  ELECTRONIC</span>
+                  <span class="icpeacHeadingLight">AND 
+                  ATOMIC COLLISIONS</span></span><span class="icpeacDate">26 JULY - 1 AUGUST 2017  <span class="icpeacDateSpace">|</span>  CAIRNS CONVENTION CENTRE  <span class="icpeacDateSpace">|</span>  queensland, australia</span></td>
+              </tr>
+            </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="contentCell"><table width="900" border="0" cellpadding="0" cellspacing="0" id="contentTable">
+          <tr>
+            <td align="left" valign="top" class="links">
+<a href='/index.php'>WELCOME</a>
+<a href='/scope.php'>SCOPE AND PROGRAM</a>
+<a href='/speakers.php'>SPEAKERS</a>
+<a href='/posterlist.php'>ABSTRACTS/POSTERS</a>
+<a href='/dates.php'>DATES / ANNOUNCEMENTS</a>
+<a href='/venue.php'>LOCATION AND VENUE</a>
+<a href='/accommodation.php'>ACCOMMODATION</a>
+<a href='/registration.php'>REGISTRATION</a>
+<span class="current">TRAVEL</span>
+<a href='/proceedings.php'>PROCEEDINGS & MEDIA</a>
+<a href='/social_programme.php'>SOCIAL PROGRAM</a>
+<a href='/prizes.php'>SUPPORT AND PRIZES</a>
+<a href='/meetings.php'>SATELLITE MEETINGS</a>
+<a href='/exhibitors_sponsors.php'>SPONSORS / EXHIBITORS</a>
+<a href='/committees.php'>COMMITTEES</a>
+<a href='/contacts.php'>CONTACTS</a>
+<table width="165" border="0" cellpadding="0" cellspacing="0" id="anuTable">
+                <tr>
+                  <td class="sponsorcell"><p>MAJOR SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.curtin.edu.au"><img src="_images/curtinuniversity-logo.png" width="160" height="27" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.queensland.com/"><img src="_images/QLD-tourism-logo.png" width="155" height="46" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><p>OTHER SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.anu.edu.au"><img src="_images/ANU-logo-4.png" width="100" height="35" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.griffith.edu.au/"><img src="_images/Griffith-logo.png" width="110" height="31" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.iop.org/"><img src="_images/IOP-logo.png" width="125" height="41" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://iupap.org/"><img src="_images/IUPAP-logo.jpg" width="120" height="36" /></a></td>
+                </tr>
+
+                </table>
+            </td>
+            <td align="left" valign="top" class="content">
+ 
+<h1>Travel</h1>
+
+<img src="/_images/Connections-592x410.jpg" width="592" height="410" />
+
+<p>Cairns International Airport is Australia’s gateway to the Asia Pacific and is located only 10 minutes from the centre of Cairns.</p>
+
+<p>A number of international flights land at Cairns. These include flights from Singapore and Japan (Jetstar), Hong Kong (Cathay Pacific, Qantas) and North America via Auckland (United). There are also many domestic connections to Cairns for international flights that arrive in other Australian cities, e.g. Brisbane, Sydney or Melbourne.</p>
+
+<h3 style="clear:both;">Visa Application</h3>
+
+<p>All visitors to Australia  (except for New Zealand passport holders) must have a valid visa. Please refer to the following documents for more information:</p>
+ 
+<ul>
+<li><a href="_files/Visa options for conferences.pdf">Business Fact Sheet</a>: for guidance on the visa options that may be most suitable for you</li>
+<li><a href="_files/General Information for Visa Applicants.pdf">Visa Application Requirements Factsheet</a>: for information on visa application requirements.</li>
+ </ul>
+
+<p>It is suggested that all visitors should apply for a visa at least two months prior to their intended date of departure, and four months prior for people with character or health concerns.</p>
+
+<p>If you require assistance with your visa application, please provide Conference Logistics with your passport details (country of passport, passport number, current country of residence and name in full as it appears on your passport)via email at <a href="mailto:icpeac30@conlog.com.au">icpeac30@conlog.com.au</a>, these details will then be forwarded to the Australian Department of Immigration and Border Protection. However you will still need to register for the conference and make your own visa application through your nearest Australian Embassy.</p>
+
+<h3>Letters of invitation</h3>
+
+<p>Letters of invitation will be sent upon request to <a href="mailto:icpeac30@conlog.com.au">icpeac30@conlog.com.au</a>. Please make sure you include your full address. Invited speakers may request a letter starting 21 January 2017. For participants submitting contributed abstracts, requests should be made as soon as possible after 10 April 2017, following review of the abstracts by the ICPEAC Program Committee.</p>
+
+<p>Please note that such an invitation letter does not imply any obligation, financial or otherwise, by ICPEAC XXX.</p>
+
+          
+</td>
+          </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="footer"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td align="right" valign="middle" class="footerLeft" ><span class="footerSponsorsTitle">icpeac XXX<br />
+sponsors</span></td>
+            <td align="left" valign="top" class="footerRight"><table border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="287" align="left" valign="top" style="padding-right:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.curtin.edu.au">Curtin University</a></li>
+                  <li> <a href="http://www.queensland.com/">Tourism and Events Queensland</a></li>
+                  </span></td>
+                <td width="287" align="left" valign="top" style="padding-left:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.anu.edu.au">Australian National University</a></li>
+                  <li><a href="http://www.griffith.edu.au">Griffith University</a></li>
+                  <li><a href="http://iupap.org">IUPAP</a></li>
+		  <li><a href="http://www.iop.org/">IOP/JPB</a></li>
+                  </span></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93820-12', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

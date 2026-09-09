@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>ISWAMP 2017</title>
+
+<link href="_includes/style.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="/iswamp/pics/iswampfavicon.ico">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<body>
+<table width="924" border="0" align="center" cellpadding="0" cellspacing="0" id="container">
+  <tr>
+    <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" id="content">
+      <tr>
+        <td align="center" valign="middle" class="header" ><table width="100%" border="0" cellpadding="0" cellspacing="0" id="headerTable">
+              <tr>
+                <td align="center" valign="middle" class="logoCell"><img src="/iswamp/pics/iswampLogo2.png" width="188" height="154" /></td>
+                <td align="left" valign="middle" class="pageTitleCell"><span class="icpeacHeading"><span class="icpeacHeading-title">satellites to icpeac 2017
+</span><span class="icpeacHeading-subtitle" style="padding-bottom:0px;">Intense field, Short Wavelength Atomic and Molecular Processes (ISwamp)</span>
+<span class="icpeacHeading-date">July 22-24, Ship Inn, South Bank, Brisbane, Australia </span>               
+                
+                
+                </span></td>
+              </tr>
+            </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="contentCell"><table width="900" border="0" cellpadding="0" cellspacing="0" id="contentTable">
+          <tr>
+            <td align="left" valign="top" class="links">
+<a href='/iswamp/index.php'>HOME</a>
+<a href='/iswamp/venue.php'>LOCATION AND VENUE</a>
+<span class="current">ACCOMMODATION</span>
+<a href='/iswamp/registration.php'>REGISTRATION</a>
+<a href='/iswamp/travel.php'>TRAVEL</a>
+<a href='/iswamp/contacts.php'>CONTACT</a>
+<a href='/iswamp/committee.php'>LOCAL COMMITTEE</a>
+<a href='/iswamp/board.php'>ADVISORY BOARD</a>
+<a href='/iswamp/program.php'>PROGRAM</a>
+<a href='/iswamp/submission.php'>ABSTRACT SUBMISSION</a>
+
+<table width="165" border="0" cellpadding="0" cellspacing="0" id="anuTable">
+  <tbody>
+    <tr>
+      <td class="sponsorcell"><p style="text-transform:capitalize;">Main Conference</p></td>
+    </tr>
+    <tr>
+      <td><a href='/'>ICPEAC30</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="165" border="0" cellpadding="0" cellspacing="0" id="anuTable">
+  <tbody>
+    <tr>
+      <td class="sponsorcell"><p style="text-transform:capitalize;">Sponsors</p></td>
+    </tr>
+    <tr>
+      <td><a href='https://www.griffith.edu.au/science-aviation/centre-quantum-dynamics'>Centre for Quantum Dynamics</a></td>
+    </tr>
+    <tr>
+
+      <td><a href='https://www.griffith.edu.au/science-aviation/school-natural-sciences'>School of Natural Sciences</a></td>
+    </tr>  
+</tbody>
+</table>
+              
+            </td>
+            <td align="left" valign="top" class="content"><h1>Accommodation</h1>
+              
+              
+
+<div class="introText"><p>Swiss-Belhotel Brisbane is a premium, full service hotel designed for business and leisure travellers looking for comprehensive and well-appointed international-standard facilities enhanced with efficient and attentive service.</p></div>
+
+<p>Conveniently located in South Brisbane the hotel is within easy walking distance of Southbank Parklands, the Mater Hospital and Lady Cilento Children’s Hospital precinct, Brisbane Convention & Exhibition Centre, the QLD Performing Arts Complex, Gallery of Modern Art and the QLD Museum. The Goodwill Bridge provides direct walking and cycling access to QUT Gardens Point and the Brisbane CBD.</p>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" id="contentImageTable">
+    <tr align="right" valign="top">
+        <td  style="padding-right:15px;"><img src="_images/superior_twin.jpg" width="176" height="130" />
+            <div style="clear:both;"><strong>Superior</strong><br>
+                Size 32 -45 m<sup>2</sup><br>
+                155  AUD / Night</div></td>
+        <td style="padding-right:15px;"><img src="_images/river_view.jpg" width="176" height="130" />
+            <div style="clear:both;"><strong>River View</strong><br>
+                Size 45 m<sup>2</sup><br>
+                170 AUD / Night</div></td>
+        <td style="padding-right:15px;"><img src="_images/deluxe_suite.jpg" width="176" height="130" />
+            <div style="clear:both;"><strong>Deluxe Suite</strong><br>
+                Size 45 m<sup>2</sup><br>
+                185 AUD / Night</div></td>
+        <td style=""><img src="_images/swiss-supersuite.jpg" width="176" height="130" />
+            <div style="clear:both;"><strong>Swiss-SuperSuite</strong><br>
+                Size 54-56 m<sup>2</sup><br>
+                200 AUD / Night</div></td>
+    </tr>
+</table>
+
+<p>From Superior Rooms to Swiss-SuperSuites and interconnecting rooms, many with views of the Brisbane River, city skyline or Story Bridge and Kangaroo Point cliffs, Swiss-Belhotel Brisbane has well-appointed guest accommodation with contemporary interior design and comfortable furnishings. Complimentary high speed Wi-Fi is available to all guests.</p>
+
+<p>For more information please visit the the <a href="http://www.swiss-belhotel.com/en-gb/swiss-belhotel-brisbane">Swiss-Belhotel Brisbane website</a>. A <a href="http://www.swiss-belhotel.com/iswamp2017">special page has been created</a> for participants of ISWAMP 2017 to receive their special delegates rate for stay on 21-26 July.</p>
+
+<h2>FACILITIES</h2>
+<p>The hotel features a gymnasium and indoor heated pool.</p>
+
+<p>Swiss-Belhotel Brisbane’s Café 63 offers breakfast, lunch and dinner 7 days a week as well as room service for all guests. Café 63 serves authentic Australian style cuisine with fresh produce sourced from local farms.</p>
+
+
+<div class="introText"><p>For more accommodation options, please visit <a href="https://www.tripadvisor.com.au/HotelsNear-g255068-d256516-South_Bank_Parklands-Brisbane_Brisbane_Region_Queensland.html" style="font-size:19px;">Trip Advisor</a></p></div>        
+
+             </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="links">&nbsp;</td>
+            <td align="left" valign="top" class="content">&nbsp;</td>
+          </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="footer">
+        </td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>

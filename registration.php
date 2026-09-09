@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ICPEAC 2017 - Registration</title>
+<link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+
+<link href="_includes/fonts/Open Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Open Sans Condensed/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Oswald/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/PT Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="924" border="0" align="center" cellpadding="0" cellspacing="0" id="container">
+  <tr>
+    <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" id="content">
+      <tr>
+        <td align="center" valign="middle" class="header"><table width="100%" border="0" cellpadding="0" cellspacing="0" id="headerTable">
+              <tr>
+                <td align="left" valign="middle" class="logoCell"><img src="_images/logo-4.png" width="108" height="128" / style="padding-left:40px;"></td>
+                <td align="left" valign="middle" class="pageTitleCell"><span class="icpeacHeading"><span class="icpeacHeadingDark">INTERNATIONAL CONFERENCE</span><span class="icpeacHeadingMed"> ON 
+                  PHOTONIC 
+                  ELECTRONIC</span>
+                  <span class="icpeacHeadingLight">AND 
+                  ATOMIC COLLISIONS</span></span><span class="icpeacDate">26 JULY - 1 AUGUST 2017  <span class="icpeacDateSpace">|</span>  CAIRNS CONVENTION CENTRE  <span class="icpeacDateSpace">|</span>  queensland, australia</span></td>
+              </tr>
+            </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="contentCell"><table width="900" border="0" cellpadding="0" cellspacing="0" id="contentTable">
+          <tr>
+            <td align="left" valign="top" class="links">
+<a href='/index.php'>WELCOME</a>
+<a href='/scope.php'>SCOPE AND PROGRAM</a>
+<a href='/speakers.php'>SPEAKERS</a>
+<a href='/posterlist.php'>ABSTRACTS/POSTERS</a>
+<a href='/dates.php'>DATES / ANNOUNCEMENTS</a>
+<a href='/venue.php'>LOCATION AND VENUE</a>
+<a href='/accommodation.php'>ACCOMMODATION</a>
+<span class="current">REGISTRATION</span>
+<a href='/travel.php'>TRAVEL</a>
+<a href='/proceedings.php'>PROCEEDINGS & MEDIA</a>
+<a href='/social_programme.php'>SOCIAL PROGRAM</a>
+<a href='/prizes.php'>SUPPORT AND PRIZES</a>
+<a href='/meetings.php'>SATELLITE MEETINGS</a>
+<a href='/exhibitors_sponsors.php'>SPONSORS / EXHIBITORS</a>
+<a href='/committees.php'>COMMITTEES</a>
+<a href='/contacts.php'>CONTACTS</a>
+<table width="165" border="0" cellpadding="0" cellspacing="0" id="anuTable">
+                <tr>
+                  <td class="sponsorcell"><p>MAJOR SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.curtin.edu.au"><img src="_images/curtinuniversity-logo.png" width="160" height="27" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.queensland.com/"><img src="_images/QLD-tourism-logo.png" width="155" height="46" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><p>OTHER SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.anu.edu.au"><img src="_images/ANU-logo-4.png" width="100" height="35" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.griffith.edu.au/"><img src="_images/Griffith-logo.png" width="110" height="31" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.iop.org/"><img src="_images/IOP-logo.png" width="125" height="41" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://iupap.org/"><img src="_images/IUPAP-logo.jpg" width="120" height="36" /></a></td>
+                </tr>
+
+                </table>
+            </td>
+            <td align="left" valign="top" class="content">
+ 
+<h1>Registration</h1>
+
+<p>Please register for the 30th International Conference on Photonic, Electronic and Atomic Collisions (ICPEAC XXX)</p>
+
+<center>
+<p style="display:inline;" class="button"><a href="https://conlog.eventsair.com/icpeac-2017/registration">Delegates</a></p>
+<p style="display:inline;" class="button"><a href="https://conlog.eventsair.com/icpeac-2017/accompany">Accompanying Persons</a></p>
+</center>
+
+
+
+<h2>Registration Fees</h2>
+
+<p>All prices are given in Australian dollars. The conversion rates as of January 2017 are as follows:<br />
+1AU$ = 0.71€ = 0.75US$ = 0.62£ (<a href="https://www.google.com.au/search?num=100&site=&source=hp&q=convert+australian+dollars+&oq=convert+australian+dollars+&gs_l=hp.3..0l10.2070.8659.0.9357.32.16.1.11.11.0.275.2010.0j1j8.9.0....0...1c.1.64.hp..12.19.1637.0..35i39k1j0i13k1.VZveRxTz4pM">up-to-date rates</a>).</p>
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" id="contentTable">
+<tbody>
+<tr><td class="contentListTitleCell"><span class="contentListTitle">Type<br />&nbsp;</span></td>
+    <td class="contentListTitleCell"><span class="contentListTitle">Early bird<br />(before 2 June)</span></td>
+    <td class="contentListTitleCell"><span class="contentListTitle">Standard<br /> (from 20 May)</span></td>
+</tr>
+<tr><td class="contentListData">Full Registration</td><td class="contentListData">$700</td><td class="contentListData">$855</td></tr>
+<tr><td class="contentListData">Student* Registration</td><td class="contentListData">$400</td><td class="contentListData">$555</td></tr>
+<tr><td class="contentListData">One Day Registration</td><td class="contentListData">$300</td><td class="contentListData">$300</td></tr>
+<tr><td class="contentListData">Accompanying Person Registration</td><td class="contentListData">$195</td><td class="contentListData">$195</td></tr>
+<tr><td class="contentListData">Conference Dinner - standard</td><td class="contentListData">$80</td><td class="contentListData">$80</td></tr>
+<tr><td class="contentListData">Conference Dinner - student</td><td class="contentListData">$50</td><td class="contentListData">$50</td></tr>
+<tr><td class="contentListData">Welcome Reception - additional</td><td class="contentListData">$50</td><td class="contentListData">$50</td></tr>
+</tbody></table>
+<p><i>*students are requested to send proof of Student ID to <a href="mailto:icpeac30@conlog.com.au">icpeac30@conlog.com.au</a></i></p>
+
+<h2>Inclusions</h2>
+<p>Both <b>standard and student registration</b> fees include access to the welcome reception, conference and poster sessions, public lecture, exhibition, morning and afternoon teas, internet access, a printed conference handbook and a USB containing the complete conference program including abstracts.</p>
+
+<p>The <b>one day registration</b> fee includes access to the conference and poster sessions, exhibition, morning and afternoon teas, internet access for your nominated day, as well as a printed conference handbook and a USB containing the complete conference program including abstracts.</p>
+
+<p>The <b>accompanying person registration</b> fee includes access to the welcome reception on Tuesday, Australiana themed Accompanying Persons Welcome on Wednesday, the public lecture on Wednesday evening and morning and afternoon teas throughout the conference. Accompanying person registrations can be purchased separately above. Also, day tours on Thursday, Friday, Monday and Tuesday have been organised at a discounted rate. <a href="http://www.cairnsconferences.com.au/events/icpeac2017/">Find out more information and book your tours</a>.</p>
+
+<p>Please note the conference dinner is not included in any of the registration types. Tickets can be purchased through the online through the registration process.</p>
+
+<h2>Payment</h2>
+<p>The payment page is the last stage of the online registration process. It is possible to request a tax invoice for EFT payment or you can pay using the following credit cards: VISA, MasterCard and American Express. If paying by International EFT, you will need to elect to pay the International Monetary Transfer fee of $20.</p>
+
+<h2>Cancellation and Refund Policy</h2>
+<p>Delegates who find themselves unable to attend ICPEAC XXX after submitting a registration form are most welcome to nominate a substitute. All substitutions and cancellations must be made in writing to <a href="mailto:icpeac30@conlog.com.au">icpeac30@conlog.com.au</a>. Cancellations received before 25 May 2017 will be refunded, less an administration fee of $99. Cancellations received between 25 May 2017 and 25 June 2017 will be refunded 50% of the registration fee. Cancellations after 25 June 2017 are not refundable. Exceptions are at the discretion of the Organising Committee. No refunds will be made in case of cancelled sessions or program changes.</p>
+
+<p>For cancellation of hotel bookings, please see the <a href="accommodation.php">accommodation page</a> of the website.</p>
+
+<h2>Financial Support Policy</h2>
+<p>Limited funds are available to support participants presenting invited talks or posters. Participants from developing regions and students will be prioritised. An application letter with signature should be submitted to <a href="mailto:icpeac30@conlog.com.au">icpeac30@conlog.com.au</a> before 20 February 2017 (ATTN: ICPEAC Financial Support). Applicants will be notified of the outcome of the decision by March 2017.</p>
+
+<p><b>Participants from developing regions</b> must submit the application stating their citizenship, affiliation, professional status, personal data, and the amount of support requested.</p>
+
+<p><b>Students</b> must submit the application stating their citizenship, affiliation, personal data, and the amount of support requested. The application must be accompanied by a recommendation letter from the student's supervisor or the head of the department.</p>
+
+
+
+ 
+</td>
+          </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="footer"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td align="right" valign="middle" class="footerLeft" ><span class="footerSponsorsTitle">icpeac XXX<br />
+sponsors</span></td>
+            <td align="left" valign="top" class="footerRight"><table border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="287" align="left" valign="top" style="padding-right:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.curtin.edu.au">Curtin University</a></li>
+                  <li> <a href="http://www.queensland.com/">Tourism and Events Queensland</a></li>
+                  </span></td>
+                <td width="287" align="left" valign="top" style="padding-left:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.anu.edu.au">Australian National University</a></li>
+                  <li><a href="http://www.griffith.edu.au">Griffith University</a></li>
+                  <li><a href="http://iupap.org">IUPAP</a></li>
+		  <li><a href="http://www.iop.org/">IOP/JPB</a></li>
+                  </span></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93820-12', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

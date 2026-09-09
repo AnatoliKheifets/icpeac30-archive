@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ICPEAC 2017 - Satellite Meetings</title>
+<link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+
+<link href="_includes/fonts/Open Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Open Sans Condensed/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Oswald/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/PT Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="924" border="0" align="center" cellpadding="0" cellspacing="0" id="container">
+  <tr>
+    <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" id="content">
+      <tr>
+        <td align="center" valign="middle" class="header"><table width="100%" border="0" cellpadding="0" cellspacing="0" id="headerTable">
+              <tr>
+                <td align="left" valign="middle" class="logoCell"><img src="_images/logo-4.png" width="108" height="128" / style="padding-left:40px;"></td>
+                <td align="left" valign="middle" class="pageTitleCell"><span class="icpeacHeading"><span class="icpeacHeadingDark">INTERNATIONAL CONFERENCE</span><span class="icpeacHeadingMed"> ON 
+                  PHOTONIC 
+                  ELECTRONIC</span>
+                  <span class="icpeacHeadingLight">AND 
+                  ATOMIC COLLISIONS</span></span><span class="icpeacDate">26 JULY - 1 AUGUST 2017  <span class="icpeacDateSpace">|</span>  CAIRNS CONVENTION CENTRE  <span class="icpeacDateSpace">|</span>  queensland, australia</span></td>
+              </tr>
+            </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="contentCell"><table width="900" border="0" cellpadding="0" cellspacing="0" id="contentTable">
+          <tr>
+            <td align="left" valign="top" class="links">
+<a href='/index.php'>WELCOME</a>
+<a href='/scope.php'>SCOPE AND PROGRAM</a>
+<a href='/speakers.php'>SPEAKERS</a>
+<a href='/posterlist.php'>ABSTRACTS/POSTERS</a>
+<a href='/dates.php'>DATES / ANNOUNCEMENTS</a>
+<a href='/venue.php'>LOCATION AND VENUE</a>
+<a href='/accommodation.php'>ACCOMMODATION</a>
+<a href='/registration.php'>REGISTRATION</a>
+<a href='/travel.php'>TRAVEL</a>
+<a href='/proceedings.php'>PROCEEDINGS & MEDIA</a>
+<a href='/social_programme.php'>SOCIAL PROGRAM</a>
+<a href='/prizes.php'>SUPPORT AND PRIZES</a>
+<span class="current">SATELLITE MEETINGS</span>
+<a href='/exhibitors_sponsors.php'>SPONSORS / EXHIBITORS</a>
+<a href='/committees.php'>COMMITTEES</a>
+<a href='/contacts.php'>CONTACTS</a>
+<table width="165" border="0" cellpadding="0" cellspacing="0" id="anuTable">
+                <tr>
+                  <td class="sponsorcell"><p>MAJOR SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.curtin.edu.au"><img src="_images/curtinuniversity-logo.png" width="160" height="27" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.queensland.com/"><img src="_images/QLD-tourism-logo.png" width="155" height="46" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><p>OTHER SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.anu.edu.au"><img src="_images/ANU-logo-4.png" width="100" height="35" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.griffith.edu.au/"><img src="_images/Griffith-logo.png" width="110" height="31" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.iop.org/"><img src="_images/IOP-logo.png" width="125" height="41" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://iupap.org/"><img src="_images/IUPAP-logo.jpg" width="120" height="36" /></a></td>
+                </tr>
+
+                </table>
+            </td>
+            <td align="left" valign="top" class="content">
+ 
+<h1>Satellite Meetings</h1>
+
+<table>
+
+<tr><td><span class="contentListTitle">POSMOL 2017</span></td></tr>
+<tr><td style="padding-bottom:20px;">
+<p style="margin-top:0px;font-weight:bold;">XIX International Workshop on Low Energy Positron<br />
+and Positronium Physics and XX International Symposium on Electron Molecule Collisions and Swarms</p>
+
+<p>Chairs: James Sullivan (ANU), Ron White (JCU) and Michael Bromley (UQ)</p>
+
+<p>Venue and Location: Amaroo On Mandalay Resort,  Magnetic Island, Queensland, Australia<br />
+Dates: 22 July - 24 July, 2017</p>
+
+<p>Contact: James Sullivan<br />
+E-mail: <a href="mailto:posmol2017@gmail.com">posmol2017@gmail.com</a><br />
+Web: <a href="http://posmol2017.edu.au/">posmol2017.edu.au</a>
+</p>
+</td></tr>
+
+
+<tr><td><span class="contentListTitle">ISIAC 2017</span></td></tr>
+<tr><td style="padding-bottom:20px;">
+<p style="margin-top:0px;font-weight:bold;">The 25th International Symposium on Ion Atom Collisions</p>
+
+<p>Chair: Alisher Kadyrov<br />
+Venue and Location:  Hotel Grand Chancellor, Palm Cove, Queensland, Australia<br />
+Dates: 23-25 July 2017</p>
+
+<p>Contact: Alisher Kadyrov<br />
+Email: <a href="mailto:A.Kadyrov@curtin.edu.au">A.Kadyrov@curtin.edu.au</a><br />
+Web: <a href="http://atom.curtin.edu.au/isiac">atom.curtin.edu.au/isiac</a></p>
+</td></tr>
+
+<tr><td><span class="contentListTitle">(e,2e) 2017</span></td></tr>
+<tr><td style="padding-bottom:20px;">
+<p style="margin-top:0px;font-weight:bold;">International Symposium on (e,2e), Double Photoionization and Related Topics<br />
+19th International Symposium on Polarization and Correlation in Electronic and Atomic Collisions</p>
+
+<p>Chair: Igor Bray<br />
+Venue and Location:  Hotel Grand Chancellor, Palm Cove, Queensland, Australia <br />
+Dates: August 1-4, 2017 </p>
+
+<p>Contact : Igor Bray<br />
+Email: <a href="mailto:I.Bray@curtin.edu.au">I.Bray@curtin.edu.au</a><br />
+Web: <a href="http://atom.curtin.edu.au/e2epol">atom.curtin.edu.au/e2epol</a></p>
+</td></tr>
+<tr><td><span class="contentListTitle">ISWAMP - 4</span></td></tr>
+<tr><td style="padding-bottom:20px;">
+<p style="margin-top:0px;font-weight:bold;">Intense field, Short Wavelength Atomic and Molecular Processes</p>
+
+<p>Chairs: Igor Litvinyuk and Robert Sang<br />
+Venue and Location: Ship Inn, South Bank, Brisbane, Australia<br />
+Dates: July 22-25, 2017</p>
+
+<p>Contact: Igor Litvinyuk<br />
+Email: <a href="mailto:i.litvinyuk@griffith.edu.au">i.litvinyuk@griffith.edu.au</a><br />
+Web: <a href="http://icpeac30.edu.au/iswamp/">icpeac30.edu.au/iswamp</a></p>
+	</td></tr>
+</table>
+
+<h2>RELATED MEETINGS</h2>
+
+<table style="width:100%">
+<tr><td><span class="contentListTitle">ISACC 2017</span></td></tr>
+<tr><td style="padding-bottom:20px;">
+<p style="margin-top:0px;font-weight:bold;">International Symposium on Atomic Cluster Collisions</p>
+
+<p>Chairs: Jes&uacute;s Rubayo Soneira & Andrey V. Solov'yov<br />
+Place: Varadero, Cuba<br />
+Dates: October 2-6, 2017.</p>
+
+<p>Web: <a href="http://www.isacc-cuba.org/">www.isacc-cuba.org</a></p>
+</td></tr>
+</table>          
+</td>
+          </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="footer"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td align="right" valign="middle" class="footerLeft" ><span class="footerSponsorsTitle">icpeac XXX<br />
+sponsors</span></td>
+            <td align="left" valign="top" class="footerRight"><table border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="287" align="left" valign="top" style="padding-right:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.curtin.edu.au">Curtin University</a></li>
+                  <li> <a href="http://www.queensland.com/">Tourism and Events Queensland</a></li>
+                  </span></td>
+                <td width="287" align="left" valign="top" style="padding-left:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.anu.edu.au">Australian National University</a></li>
+                  <li><a href="http://www.griffith.edu.au">Griffith University</a></li>
+                  <li><a href="http://iupap.org">IUPAP</a></li>
+		  <li><a href="http://www.iop.org/">IOP/JPB</a></li>
+                  </span></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93820-12', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

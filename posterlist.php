@@ -1,0 +1,13175 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ICPEAC 2017 - Poster Listing</title>
+<link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+
+<link href="_includes/fonts/Open Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Open Sans Condensed/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Oswald/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/PT Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="924" border="0" align="center" cellpadding="0" cellspacing="0" id="container">
+  <tr>
+    <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" id="content">
+      <tr>
+        <td align="center" valign="middle" class="header"><table width="100%" border="0" cellpadding="0" cellspacing="0" id="headerTable">
+              <tr>
+                <td align="left" valign="middle" class="logoCell"><img src="_images/logo-4.png" width="108" height="128" / style="padding-left:40px;"></td>
+                <td align="left" valign="middle" class="pageTitleCell"><span class="icpeacHeading"><span class="icpeacHeadingDark">INTERNATIONAL CONFERENCE</span><span class="icpeacHeadingMed"> ON 
+                  PHOTONIC 
+                  ELECTRONIC</span>
+                  <span class="icpeacHeadingLight">AND 
+                  ATOMIC COLLISIONS</span></span><span class="icpeacDate">26 JULY - 1 AUGUST 2017  <span class="icpeacDateSpace">|</span>  CAIRNS CONVENTION CENTRE  <span class="icpeacDateSpace">|</span>  queensland, australia</span></td>
+              </tr>
+            </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="contentCell"><table width="900" border="0" cellpadding="0" cellspacing="0" id="contentTable">
+          <tr>
+            <td align="left" valign="top" class="links">
+<a href='/index.php'>WELCOME</a>
+<a href='/scope.php'>SCOPE AND PROGRAM</a>
+<a href='/speakers.php'>SPEAKERS</a>
+<span class="current">ABSTRACTS/POSTERS</span>
+<a href='/dates.php'>DATES / ANNOUNCEMENTS</a>
+<a href='/venue.php'>LOCATION AND VENUE</a>
+<a href='/accommodation.php'>ACCOMMODATION</a>
+<a href='/registration.php'>REGISTRATION</a>
+<a href='/travel.php'>TRAVEL</a>
+<a href='/proceedings.php'>PROCEEDINGS & MEDIA</a>
+<a href='/social_programme.php'>SOCIAL PROGRAM</a>
+<a href='/prizes.php'>SUPPORT AND PRIZES</a>
+<a href='/meetings.php'>SATELLITE MEETINGS</a>
+<a href='/exhibitors_sponsors.php'>SPONSORS / EXHIBITORS</a>
+<a href='/committees.php'>COMMITTEES</a>
+<a href='/contacts.php'>CONTACTS</a>
+<table width="165" border="0" cellpadding="0" cellspacing="0" id="anuTable">
+                <tr>
+                  <td class="sponsorcell"><p>MAJOR SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.curtin.edu.au"><img src="_images/curtinuniversity-logo.png" width="160" height="27" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.queensland.com/"><img src="_images/QLD-tourism-logo.png" width="155" height="46" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><p>OTHER SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.anu.edu.au"><img src="_images/ANU-logo-4.png" width="100" height="35" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.griffith.edu.au/"><img src="_images/Griffith-logo.png" width="110" height="31" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.iop.org/"><img src="_images/IOP-logo.png" width="125" height="41" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://iupap.org/"><img src="_images/IUPAP-logo.jpg" width="120" height="36" /></a></td>
+                </tr>
+
+                </table>
+            </td>
+            <td align="left" valign="top" class="content">
+ 
+<h1>Poster Listing</h1>
+
+
+<h2>1. Photon - Atom/Ion (weak field phenomena)<span style='mso-spacerun:yes'> 
+</span></h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-spacerun:yes'> </span>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/adcc2e26350044a4ba3775eaf9d319ad">WE-1</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Autoionization of very-high-n strontium Rydberg atoms</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>F. Barry Dunning, Xinyue Zhang, Gavin Fields, Shuhei
+  Yoshida, Joachim Burgdorfer </i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/98f0de3c4660490f9d02406a21a22583">WE-2</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photoionization of neutral iron from ground and
+  metastable states</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Oleg Zatsarinny, Luis Fernández-Menchero, Klaus
+  Bartschat</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6254725c7b174cd89852dc088cb37df3">WE-3</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Low-energy outer-shell photodetachment of the negative
+  ion of aluminum</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Oleg Zatsarinny, Klaus Bartschat, Elizabeth Nagy,
+  Sergey Gedeon, Viktor Gedeon, Vladimir Lazur</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bff09a110b5f4ceba45fe66a75a4ae97">WE-4</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photoexcitation of atoms by Laguerre-Gaussian beams</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Stephan Fritzsche, Anton Peshkov</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/246a392ec86f48349eed685985e70309">WE-5</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Multi-electron processes in K-shell double and triple
+  photodetachment of oxygen anions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Stefan Schippers, Randolph Beerwerth, Levente Abrok,
+  Sadia Bari, Michael Martins, Sandor Ricz, Jens Viefhaus, Stephan Fritzsche,
+  Alfred Müller</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/fe47fba242214a66826c7d66a3e38e90">WE-7</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Two-photon K-shell ionization cross sections for
+  neutral atoms</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Stephan Fritzsche, Jiri Hofbrucker</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/4be8f38b5093430e882276f2110bf348">WE-8</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Atomic photoionisation calculated using the
+  singularity-free convergent close-coupling method</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Alexander Bray, Anatoli Kheifets, Igor Bray</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/584d7beb685f47c7a74e0af4a0669cc3">WE-9</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photoionization of atomic fluorine </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jiayu Sun, Jinlei Liu, Jianhua Wu, Jianmin Yuan, Zengxiu
+  Zhao</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c37dafe9ec264fb49c80a82bd89dc408">WE-10</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photodetachment microscopy in time-dependent fields</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ilya Fabrikant, Harindranath Ambalampitiya</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e2e54462e10d45a9a11c7e819a411f78">WE-11</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Relativistic Effects in Photoionization of Outer ns
+  Subshells of Heavy Atoms</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>David Keating, Pranawa Deshmukh, Steven Manson</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/00f200e023cd483b9d22cb3324921ff8">WE-12</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Decay of inner-shell holes in potassium and rubidium
+  investigated by multielectron spectroscopy</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mehdi Khalal, Pascal Lablanquie, Francis Penent, Jérôme
+  Palaudoux, Lidija Andric, Jean-Marc Bizau, Denis Cubaynes, Kenji Ito, Kari
+  Jänkälä</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/781ec79ea54e47128213b7b6ab7de4b1">WE-13</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>K-shell Excitation in the Photoionization of the
+  Open-shell Cl Atom</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=NO-BOK style='mso-ansi-language:NO-BOK'>Zineb
+  Felfli, Steven Manson, Alfred Msezane</span></i><span lang=NO-BOK
+  style='mso-ansi-language:NO-BOK'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/64fc1b01326f4c4c969cf2bc99a6a5ec">WE-14</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Calculations of electron shakeoff probabilities using
+  pseudostates</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Takeshi Mukoyama </i><span
+  style='mso-spacerun:yes'>  </span><i style='mso-bidi-font-style:normal'>and
+  Nobuyuki Tamura</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/883037865def4a5597da8d18a6c080f7">WE-15</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photodetachment Spectroscopy of Bound and Quasibound
+  States of the Negative Ion of Lanthanum</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=DE style='mso-ansi-language:DE'>C.W. Walter,
+  N.D. Gibson, N.B. Lyman, J. Wang</span></i><span lang=DE style='mso-ansi-language:
+  DE'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/644876d3410b42309b853c3ef8f0a536">WE-16</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photoionization and Photoabsorption in the Rydberg
+  resonance region</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jacques Dubau, Igor Ivanov </i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/dfdf9eed0f31412695d59ed55d04c717">WE-17</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Fully differential single photon double photoionization
+  of atomic magnesium</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Frank Yip, Thomas N. Rescigno, C. William McCurdy</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a58b3940342949a2b0d26de1cb559bf4">WE-18</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>PCI Recapture of Photoelectrons: Conjugate Processes
+  and Angular correlations </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yoshiro Azuma, Satoshi Kosugi, Norihiro Suzuki, Naoki
+  Kumagai, Fumihiro Koike, Hiroshi Iwayama, Eiji Shigemasa</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2616b8e4c7444ab782b92457a6fa83d2">WE-19</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Limitations in photoionization of helium by an extreme
+  ultraviolet vortex</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Tatsuo Kaneyasu, Yasumakasa Hikosaka, Masaki Fujimoto,
+  Taro Konomi, Masahiro Katoh, Hiroshi Iwayama, Eiji Shigemasa</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0afd5e2162c643f5852f63b0b39148d6">WE-20</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Observation of electron back-to-back emission from the
+  quasifree mechanism of helium at 800 eV photon energy</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sven Grundmann, Florian Trinter, Sebastian Eckart, Jonas
+  Rist, Gregor Kastirke, Daniel Metz, Jens Viefhaus, Till Jahnke, Lothar Ph. H.
+  Schmidt, Reinhard Dörner, Markus S. Schöffler</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/238ba817ca7a4628aab5f64f5c2c0e8f">WE-21</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Distorted wave photoionization cross sections for use
+  in NLTE model atmospheres: Ni<sup>+</sup> - Ni<sup>10+</sup></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Simon Preval, Nigel Badnell</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7615d1332d7a483781747c524a08da39">WE-22</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photon-Atom Scattering Cross-sections of Atomic
+  Hydrogen and Helium</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Swaantje Grunefeld, Emily Kahl, Yongjun Cheng, Michael
+  Bromley</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b6cc37a60eb0468f9cec2c19016f2210">WE-23</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Double Photoionization of Atomic Oxygen: Feshbach
+  Resonances in the Two-Electron Continuum</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Madhushani Wickramarathna, Thomas Gorczyca, Connor
+  Ballance, Wayne Stolte</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ab386128ec2c4d59bb16eb4cfad18de8">WE-24</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photoionization of polarized Ne II in the region of autoionizing
+  states</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Alexei Grum-Grzhimailo, Elena Gryzlova, Svetlana
+  Strakhova, Sergej Burkov, Kiyoshi Ueda, Michael Meyer, Giuseppe Sansone</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/70774af3ae5744a18a28a2ccda6c680e">WE-25</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Measurement and analysis of EUV emission spectrum from
+  laser produced Pr plasma</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Shiquan Cao, Maogen Su, Qi Min, Duixiong Sun, Chenzhong
+  Dong</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/02effd0619434c4abc6e9488dbe83ccd">WE-26</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Radiation properties and hydrodynamics evolution of
+  highly charged ions in laser-produced silicon plasma</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Qi Min, Maogen Su, Shiquan Cao, Duixiong Sun, Chenzhong
+  Dong</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/acd6905dc6a74bd39a4c18c44d3ee4f1">WE-27</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The influence of ambient gas on laser produced plasmas
+  and the crater mor-phology of laser-ablated Al</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Duixiong Sun, Yongqiang Wang, Maogen Su, Qi Min,
+  Shiquan Cao, Chenzhong Dong</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1f63f4fb0d5149579de0457aba9e452f">WE-28</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Low-energy photon-alkali atom scattering cross-sections</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Michael Bromley, Swaantje Grunefeld, Emily Kahl, Julian
+  Berengut, Jun Jiang</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/882d75a5f80840a5b4e567f60550b6ef">WE-29</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photodetachment of O- : the complete picture</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=FR style='mso-ansi-language:FR'>Matthieu
+  Génévriez, Arnaud Dochain, Xavier Urbain</span></i><span lang=FR
+  style='mso-ansi-language:FR'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/56deb80d1b194205bb350aca8d877e7a">WE-30</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Time-Resolved Two-Colour Photoionization from the 5P
+  and 6P states of Rb</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>James Pursehouse, Andrew Murray</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:61'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/dd42b1b27dbb4a62aec8707099d09f34">WE-31</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Resonance induced population transfer of Fe XVII ions
+  in plasma environment</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:62'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Chensheng Wu, Xiang Gao</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:63'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/257db737f23049709a781b6f7957b918">WE-32</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Towards understanding the Auger cascade following Xe 3d<sub>5/2</sub>
+  photoionisation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Boon Lee, Tibor Kibedi, Andrew Stuchbery, Maarten Vos</i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>2. Photon - Molecule (strong field and ultrafast phenomena)</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7f33fdb67655486ca2b2fe3d17b919a7">WE-33</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Observing electron localization in a dissociating
+  molecule in real time</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Han Xu, </i><i style='mso-bidi-font-style:normal'>X.
+  Wang, A. Atia-Tul-Noor, D. Kielpinski, R. T. Sang, and <st1:place w:st="on">I.</st1:place>
+  V. Litvinyuk</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b176815fa60b43159d1cb1a3b788c052">WE-34</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Imaging ultrafast molecular wave-packets with a single
+  chirped UV pulse</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=ES style='mso-ansi-language:ES'>Denis
+  Jelovina, Johannes Feist, Fernando Martín, Alicia Palacios</span></i><span
+  lang=ES style='mso-ansi-language:ES'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/4f72c623ee324908bd75fe9bcd08397c">WE-35</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Role of electron-nuclear coupled dynamics on charge
+  migration in glycine induced by attosecond pulses</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Manuel Lara-Astiaso, Alicia Palacios, Piero Decleva,
+  Ivano Tavernelli, Fernando Martín</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6f6cd3b4fd844c06917076dcdafa1cdb">WE-36</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Modelling laser-matter interactions for simple
+  molecules</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Alexander Galstyan, Yuri Popov, Franciska Mota-Furtado,
+  Patrick O'Mahony, Bernard Piraux</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/50ec1eeedc214c509c212e320eabcc28">WE-37</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Perturbative expansions for laser-atom interactions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yuri Popov, Alexander Galstyan, Franciska Mota-Furtado,
+  Patrick O'Mahony, Bernard Piraux</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/4d16d19291ca4f8584ef5185ec3c0b83">WE-39</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Enhanced ionization of acetylene in intense laser pulses
+  is due to energy up-shift and field coupling of multiple orbitals</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sonia Erattupuzha, Cody L. Covington, Arthur Russakoff,
+  Erik Lötstedt, Seyedreza Larimian, Vaclav Hanus, Markus Schöffler, Sergiy
+  Bubin, Markus Koch, Stefanie Gräfe, Andrius Baltuska, Xinhua Xie, Kaoru
+  Yamanouchi, Kálmán Varga, Markus Kitzler</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/970eab2e803a44aaab920f9d879a7fb4">WE-40</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Selective bond breaking of CO<sub>2</sub><sup>2+</sup>
+  in phase-locked two-color intense laser fields</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Tomoyuki Endo, Hikaru Fujise, Yuuna Kawachi, Ayaka
+  Ishihara, Akitaka Matsuda, Mizuho Fushitani, Hirohiko Kono, Akiyoshi
+  Hishikawa</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/48091cee9736443993e3401bb24ab709">WE-41</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Above-threshold ionization processes in diatomic
+  molecules driven by strong laser fields</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Noslen Suárez, Alexis Chacón, Marcelo F. Ciappina, Jens
+  Biegert, Maciej Lewenstein</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1eb8e9d8f6684672b1a8c328c406ab11">WE-42</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>High-order harmonic generation in polyatomic systems</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Noslen Suárez, Alexis Chacón, Jose A. Pérez-Hernández,
+  Jens Biegert, Maciej Lewenstein, Marcelo F. Ciappina</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/22ad5fdffc50436a8d7d25f25eafe710">WE-43</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>High-Order Harmonic Generation of hydrogen molecule
+  ions in a large internuclear distance</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xiao-xin Zhou, Ling-Ling Du, Peng-Cheng Li, Hong-Shan
+  Chen</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1ada5d5333ba4246a6f4f0d3a2734df2">WE-44</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Imaging the Temporal Evolution of Molecular Orbitals
+  during Ultrafast Dissociation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Miriam Weller, Hendrik Sann, Thilo Havermeier,
+  Christian Müller, Hong-Keun Kim, Florian Trinter, Markus Waitz, Jörg Voigtsberger,
+  Felix Sturm, Tobias Bauer, Robert Wallauer, Deborah Schneider, Christoph
+  Goihl, Jan Tross, Kyra Cole, Jian Wu, Markus S. Schöffler, Horst
+  Schmidt-Böcking, Till Jahnke, Marc Simon, Reinhard Dörner</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c5ac256ccd654995980f0cec0fa35ae3">WE-45</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Commissioning a new COLTRIMS-Reaction Microscope for
+  the SQS instrument at European XFEL</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Gregor Kastirke, Markus Schöffler, Miriam Weller,
+  Kilian Fehre, Lothar P.H. Schmidt, Juliane Siebert, Joseph Hoehl, Isabel
+  Vela-Perez, Daniel Trabert, Yannick Hermann, Sven Grundmann, Markus Waitz,
+  Till Jahnke, Etienne Bloch, Markus Ilchen, Yevheniy Ovacharenko, Thomas
+  Baumann, Daehyun You, Brandon Griffin, Marc Simon, Michael Meyer, Reinhard
+  Dörner</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/27e28d1f503b459ca7ff42ab75fd7f5c">WE-46</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Real Time Observation of the Ultrafast Dynamics Induced
+  by XFEL Pulses in CH2I2 Molecule</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>&nbsp;<o:p></o:p></i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>T. Takanashi, H.
+  Fukuzawa, K. Motomura, K. Nagaya, S. Wada , Y. Kumagai, D. Iablonskyi, S.
+  Mondal, Y. Ito, T. Tachibana, S. Yamada, Y. Sakakibara, D. You, T. Nishiyama
+  , K. Matsunami , T. Sakai , K. Asa , Y. Sato , T. Umemoto , K. Kariyazono ,
+  Y. Takahashi , M. Kanno , K. Nakamura , K. Yamazaki, S. Kajimoto , H. Sotome
+  , E. Kukk , K. Kooser, C. Nicolas, C. Miron, M. Schöffler, G. Kastirke, P.
+  Johnsson, T. Asavei , L. Neagu, X.–J. Liu, S. Molodtsov, T. Togashi, K. Ogawa
+  , S. Owada , T. Katayama , K. Tono, M. Yabashi , A. Rudenko, H. Fukumura , M.
+  Yao , H. Kono and<span style='mso-bidi-font-style:italic'> Kiyoshi Ueda</span><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/21ca591b9b4d4d298fd34eaa2399aca0">WE-47</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>A dressed harmonic study in laser-assisted photoionization
+  of water molecules by attopulses</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Lara Martini, Diego Boll, Omar Fojón</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/fe2ff17f825e4275a73dfeff8959dc15">WE-49</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dynamical origin of below- and near-threshold harmonic
+  generation of H2+ in an intense NIR laser field</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>John Heslar, Shih-I <st1:place w:st="on">Chu</st1:place></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a807b46b74184c5da091c8919cc610b6">WE-50</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Rydberg-state excitation suppression of diatomic
+  molecules in strong near-infrared laser fields</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Hang Lv, Lei Zhao, Haifeng Xu, Mingxing Jin, Dajun
+  Ding, Shilin Hu, Jing Chen</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2e413bf809ee4a93a6cb62e5b2c6f9ba">WE-51</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Strong-field ionization and dissociation of linear
+  triatomic molecules irradiated by 800-nm and 400nm femtosecond laser fields</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Wanlong Zuo, Hang Lv, Lei Zhao, Qi Zhang, Li Yang,
+  Haifeng Xu</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8afc275db68c43718ce76779214f29bf">WE-52</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The Role of Super-Atom Molecular Orbitals in Doped
+  Fullerenes in a Femtosecond Intense Laser Field</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Nora Berrah</i>, <i style='mso-bidi-font-style:normal'>H.
+  Xiong, B. Mignolet , L. Fang , T. Osipov , T. J. A. Wolf<span
+  style='mso-spacerun:yes'>  </span>, E. Sistrunk , M. Gühr, and F. Remacle</i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>5. Lepton - Atom/Ion</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/254c6f2e46624da399c8cb6c916eea12">WE-53</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Doubly-differential cross sections for electron and
+  positron impact ionization of argon </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Radu Campeanu</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/25f28556c37a4ee1b99d340b08ea0067">WE-57</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Study of multiply charged Argon-ions formed by decay of
+  2p-hole state under e<sup>-</sup>-Ar collision employing energy selected ion
+  coincidence technique</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sunil Kumar, </i><i style='mso-bidi-font-style:normal'>Suman
+  Prajapati, Bhupendra Singh, B.K.Singh, R.Shanker<o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8ab634b5f2ff4a0aa3eaf32eb865d47f">WE-58</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron impact L and M-subshell ionization cross
+  sections for atoms (14≤ Z ≤92) including the relativistic effects</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>B. C. Saha, A. K. Basak, M. A. Uddin, A. K. F. Haque,
+  M. A. R. Patoary, M. M. Haque, M. Ismail Hossain, M. Maaza</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/08fcca49a89941419376652608816dae">WE-59</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron impact excitation of O III</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Swaraj Tayal, Oleg Zatsarinny</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/9b7e84edd58c413fbca5498db31b411a">WE-60</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Benchmark calculations for electron-impact excitation
+  of Mg<sup>4+</sup></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Kedong Wang, Luis Fernández-Menchero, Oleg Zatsarinny,
+  Klaus Bartschat</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5d24b3b0b8d5407d9316f8b34255d0e9">WE-61</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>B-spline R-matrix with pseudo-states calculations for
+  electron-impact excitation and ionization of magnesium</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Oleg Zatsarinny, Klaus Bartschat</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c04be89f1d3e412aad5151a2e3e96dd3">WE-62</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Low-energy collisions of excited positronium with
+  antiprotons</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ilya Fabrikant, Alisher Kadyrov, Igor Bray, Michael
+  Charlton</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/488ce04555ca434d8aca372f75f0443e">WE-63</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>On the mean kinetic energy of recoil ions produced in
+3.5keV electron-argon collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Suman Prajapati, Sunil Kumar, Bhupendra Singh,
+Bhartendu K Singh, Rama Shanker</i></p>
+  </td>
+ </tr>
+ 
+ 
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c3846ede4cf7464bb2e35ca4ab23752e">WE-64</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photorecombination of berylliumlike and boronlike
+  silicon ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Dietrich Bernhardt, Arno Becker, Carsten Brandau,
+  Manfred Grieser, Michael Hahn, Claude Krantz, Michael Lestinsky, Oldrich Novotný,
+  Roland Reponow, Daniel Wolf Savin, Kaija Spruck, Andreas Wolf, Alfred Müller,
+  Stefan Schippers</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/38b3998e4ab04e77830ea2a86aaa36c2">WE-65</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron shakeoff subsequent to β<sup>+</sup> decay of
+  trapped <sup>35</sup>Ar<sup>+</sup> and <sup>19</sup>Ne<sup>+ </sup>trapped
+  ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xavier Fléchard, Bernard Pons, Gilles Ban, Martin
+  Breitenfeldt, C. Couratin, P. Delahaye, D. Durand, X. Fabian, B. Fabre, P. Finlay,
+  A. Leredde, E. Liénard, A. Méry, O. Naviliat-Cuncic, T. Porobic, G. Quemener,
+  D. Rodriguez, N. Severjins, J-C. Thomas, S. Van Gorp</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/22b324703c2740d59eae5000a42e870b">WE-66</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Study on KLL dielectronic recombination for highly
+  charged tungsten ions at Shanghai EBIT</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Bingsheng Tu, Jun Xiao, Ke Yao, Yang Yang, Baoren Wei,
+  Roger Hutton, Yamin Zou</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8a661ec427be42e5a692d16445eda921">WE-67</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Spin evolution of two valence electrons in two
+  separated ions </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Biplab Goswami, Stephan Fritzsche</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c44e0f9b13264e3db5658114d40fdeb2">WE-68</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron impact ionization of calcium atoms inside
+  quadrupole trap</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Lukasz Klosowski, Mariusz Piwinski, Szymon Wojtewicz,
+  Daniel Lisak, Michael Drewsen, Katarzyna Pleskacz, Stanislaw Chwirot</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/cda48d43f6be48b2afb8ef81c428ccd1">WE-69</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Energy and momentum transfer in electron-ion elastic
+  collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Lukasz Klosowski, Mariusz Piwinski</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/cffd5ce32d7b42c5a7e14db2add38e6e">WE-70</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electronic excitation of P-state of cadmium and zinc
+  atoms</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mariusz Piwinski, Lukasz Klosowski, Dariusz Dziczek,
+  Stanislaw Chwirot</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/408e9feadda54e59bbcfe34cd7ac07d4">WE-71</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Benchmark calculations of double ionization of Ne in
+  Graphics Processing Units</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Flavio
+  Colavecchia, Michael Schulz, T Kirchner, Marcelo Ciappina</span></i><span
+  lang=IT style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/9af0b931c9254001b6172c65bbcffb6c">WE-72</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Multiple scattering of slow muons in an electron gas</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Claudio Archubi, Diego Arbó, Néstor Arista</i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>6. Lepton - Molecule</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b3bf0837d8494438b44ac3c46403a621">WE-73</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Isotopical effects in electron and atom molecular
+  scattering</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Serguey Pozdneev</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/21a9750d11f14b44bdde918035006578">WE-74</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Resonances in Electron Scattering by Molecules </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Serguey Pozdneev</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bd6f046c8e834fbba49b2bbc43570c40">WE-75</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Application of few-body approximation to the scattering
+  hydrogen halide molecules by slow electron</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Serguey Pozdneev</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/43e9722809a64146a9cf4f16c75b4bf1">WE-76</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dissociative electron attachment</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Serguey Pozdneev</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/70e739b212494b63bc475f24c5271300">WE-77</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Application quantum theory of scattering for guided
+  control of chemical reaction and creation of the new molecular structures </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Serguey Pozdneev</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/71cabe9b7e854513a1b495e9fe51f924">WE-78</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The peak shape of electrons scattered ‘elastically’
+  from H<sub>2</sub> not a delta function or a Gaussian but almost a cusp</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Maarten Vos</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3aa2789c1088466ea72ca5927b084635">WE-80</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>A novel approach to deconvolve overlapping features in
+  molecular spectra: <st1:place w:st="on">Monte Carlo</st1:place> random walk
+  routine and its application</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Weiqing Xu, Xiao-Xun Mei, Ya-Wei Liu, Lin-Fan Zhu</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/93c82deec50e458d8149c6664975b95d">WE-82</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Low energy elastic cross section of fluoroacetylene by
+  electron impact </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Dhanoj Gupta, Heechol Choi, Mi-Young Song</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/cc5580e489ed4a80b59d62023fba3087">WE-83</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>(e, 2e) Impact ionization cross section of biomolecules
+  </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Prithvi Singh,</i> G. Purohit and<span
+  style='mso-spacerun:yes'>  </span>C. Champion</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5ca8bf4d3eca494a94bfe06f796d6729">WE-84</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Ultrafast gas electron diffraction by THz-wave assisted
+  electron scattering: Numerical simulations of time-resolved electron
+  diffraction patterns</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Reika Kanya, Kaoru Yamanouchi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d1f82b0b6f6444a88814a90072543167">WE-85</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Low-energy electron interactions with chromium
+  hexacarbonyl Cr(CO)<sub>6</sub></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'><span lang=DE
+  style='mso-ansi-language:DE'>J. Khreis , J.Ameixa , M. Neustetter, J.
+  Reitshammer<span style='mso-bidi-font-style:italic'> .Filipe Ferreira Da
+  Silva and </span>S. Denifl<o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bd3381269b224529adb7d983cd466aec">WE-86</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Shake-up processes in Auger Cascades of Light and
+  Medium Elements</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Stephan Fritzsche, Randolf Beerwerth</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8694583819794597a98e82dd39ab6107">WE-87</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron-Impact Ionization of Laser-Aligned Atoms –
+  Contributions from both Natural and <st1:place w:st="on"><st1:PlaceName
+   w:st="on">Unnatural-Parity</st1:PlaceName> <st1:PlaceType w:st="on">States</st1:PlaceType></st1:place>.</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Andrew Murray, James Colgan, Don Madison, Matthew
+  Harvey, Ahmad Sakaamini</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/78b74c6c60d9451c83f1e3ea5f6e4198">WE-88</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>(e,2e) Ionization Studies of N<sub>2</sub> at Low to
+  Intermediate Energies from a Coplanar Geometry to the Perpendicular Plane</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ahmad Sakaamini, Matthew Harvey, Sadek Amami, Andrew
+  Murray, Don Madison, Chuangang Ning</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/05b86159053c4fbca4b22685f3767713">WE-89</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dissociative electron attachment to CO molecule probed
+  by velocity slice imaging technique</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><st1:place w:st="on"><i>Pamir</i></st1:place><i> Nag,
+  Dhananjay Nandi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ef440e71b36b43d08a60747d39e52029">WE-90</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dipolar dissociation dynamics in electron collisions
+  with carbon monoxide</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Dipayan Chakraborty, <st1:place w:st="on">Pamir</st1:place>
+  Nag, Dhananjay Nandi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/faf3a9dca71748b79770ca4b11b0dbea">WE-91</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>New insights in low-energy electron-fullerene
+  interactions </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Alfred Msezane, Zineb Felfli</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d7e21baba40444259c2f866e2750595a">WE-92</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Binding energies of fullerene and complex atomic
+  negative ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Alfred Msezane, Zineb Felfli</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/959b8bd9a5244edf91acf4a73ce8aa2a">WE-93</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Resonances in low-energy electron elastic scattering
+  from Fullerenes </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Zineb Felfli, Alfred Msezane</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5b12942b5a0a44f581704f5f47d99958">WE-94</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Integral cross sections of the dipole-allowed
+  excitations of nitrogen studied by fast electron scattering and X-ray
+  scattering</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ya-wei Liu,</i> <i style='mso-bidi-font-style:normal'>Long-Quan
+  Xu, Dong-Dong Ni, Xin Xu, Xin-Chao Huang, Lin-Fan Zhu</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b2e83d241ffc415ca2b7e59b75764aa1">WE-95</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron scattering from molecular hydrogen</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Dmitry Fursa, Mark Zammit, Jeremy Savage, Igor Bray</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/9e7fb38560ca4fde8ba11870a57cbf2e">WE-96</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron stopping powers in H<sub>2</sub></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Dmitry Fursa, Robert Threlfall, Mark Zammit, Igor Bray</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/49428a30f13c44e9b576585474d421f5">WE-98</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Positive ion mass spectrometry for fragmentation of
+  anthracene by low energy electron impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Melissa Dunne, Marcin Gradziel, Peter van der Burgt</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/903d5f77108c4b0eb9b3a7070239a7ed">WE-99</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Positive ion mass spectrometry for fragmentation of
+  5-fluorouracil by low energy electron impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=DE style='mso-ansi-language:DE'>Michael
+  Brown, Peter van der Burgt</span></i><span lang=DE style='mso-ansi-language:
+  DE'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bb5434f6b4664f989d97b6a01c0d8aac">WE-100</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Differential Measurements of Ionization and Excitation
+  of H<sub>2 </sub>by 250 eV Positrons</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=ES style='mso-ansi-language:ES'>Oscar G de
+  Lucio, Robert D DuBois</span></i><span lang=ES style='mso-ansi-language:ES'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/4fb4dbcadc3047c69cfc6d52b3b83dd6">WE-101</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Investigation of low energy electron interaction with
+  silane molecules</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Arvind Kumar Jain</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2d65de81e26041d68af1e99ec0789454">WE-102</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Laser-assisted electron momentum spectroscopy of H<sub>2</sub><sup>+</sup></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Andrew Bulychev, Konstantin Kouzakov</i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>7 Lepton - Condensed Matter</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0acf1f10c4374d3abab87135b72a76e9">WE-103</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron impact secondary electron emissions from
+  atomic and molecular solid targets</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Abul Kalam Fazlul Haque, M. A. Uddin, A. K. Basak, B.
+  C. Saha, M. Maaza, M. A. R. Patoary, M. M. Haque, M. Ismail Hossain</i></p>
+  </td>
+ </tr>
+ 
+ 
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6eee6df5d4cd47eabd8cf453afae60cb">WE-104</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Measurement of angular distributions of K x-ray
+intensity of Ti and Cu thick targets following impact
+of 10-25 keV electrons</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Bhupendra Singh, Sunil Kumar, Suman Prajapati,
+Bhartendu K Singh, Xavier Llovet, Rama Shanker</i></p>
+  </td>
+ </tr>
+ 
+ 
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c1da4de9c2f046a2b7175cd4ec2a4c2a">WE-106</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Diffraction in matter-antimatter binding: Positronium
+  formation from C<sub>60</sub></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Himadri Chakraborty, Anzumaan Chakraborty, Paul-Antoine
+  Hervieux</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d2e67f2af5e049a1ba90fd3a087ce91c">WE-107</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Fragmentation of condensed diazenes</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Lilian Ellis-gibbings, Andrew Bass, Pierre Cloutier, <st1:place
+  w:st="on"><st1:City w:st="on">Gustavo Garcia</st1:City>, <st1:country-region
+   w:st="on">Leon</st1:country-region></st1:place> Sanche</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/f81e12e1b539428eb0cf4a00c7d136bd">WE-108</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron transmission through macroscopic metallic
+  capillaries</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Dusko Borka, Karoly Tökesi, Christoph Lemell</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/22049602bbfe4930aef59130d6e5b686">WE-110</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The nonlinear electron scattering spectroscopy of the
+  surface plasmon resonance for Au nano-structures on graphite surface</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Chunkai Xu, Meng Li, Zhean Li, Yi Luo, Xiangjun Chen</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6db2f677bba3410b9e8b71f481ed1127">WE-111</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Characterization measurements with a transverse
+  electron target at a crossed-beams setup</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sabrina Geyer, Sarah Lamprecht, Thorsten Conrad, Holger
+  Podlech, Oliver Kester</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5bf44ccd75184f189c8552e1750b92d8">WE-112</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Theoretical dielectronic recombination rate
+  coefficients for lowly charged tungsten ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Duck-Hee Kwon</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/71ce74c220924f28ab9afcec2c3595f0">WE-113</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The Monte Carlo
+  simulation of electron transmission through Al<sub>2</sub>O<sub>3</sub>
+  nanocapillary</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ai-xiang Yang, </i><i style='mso-bidi-font-style:normal'>B.
+  H. Zhu, X. M. Chen, J. X. Shao</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/51d3a8fe59724a79a4469bce00d68203">WE-114</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The investigation of quasi-characteristic radiation of electrons channeled along the charged axes in the crystals of zinc blende
+</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mykola Maksyuta, Volodymyr Vysotskii, Svitlana Efimenko, Vladislav Syshchenko, Artur Tarnovsky, Alexandr Isupov</i></p>
+  </td>
+ </tr>
+ 
+</table>
+
+<h2>9 Heavy Particle - Atom/Ion</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c426de8c12bb4b52b9077a10b7e1c7c8">WE-116</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Stopping power and collisions for energetic ions in
+  partially ionized plasmas</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Bin He, Jian-Guo Wang</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/20e8c9cef7614f2e8cec30b8d1534db5">WE-117</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>APPA R&amp;D - BMBF collaborative research at FAIR</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Stefan Schippers, Thomas Stöhlker</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1e94eda197d44ac39f9bccd5b0576ba3">WE-118</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Mitigation of EUV emission from laser-induced oxygen
+  plasmas for atom-surface interaction studies in a simulated space environment</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Kumiko Yokota, Junki Ohira, Yugo KImoto, Hiroaki
+  NIshimura, Masahito Tagawa</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ac79940430854c738ced27f119c75780">WE-120</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>On the beam emittance/brilliance of highly charged ions
+  extracted from the <st1:place w:st="on">Frankfurt</st1:place> 14GHz
+  Electron-Cyclotron-Resonance-Ion-Source in standard and enhanced (MD) mode</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=DE style='mso-ansi-language:DE'>Jan Müller,
+  Reinhard Dörner, Frederik King, Leo Schaechter, Kurt Ernst Stiebing</span></i><span
+  lang=DE style='mso-ansi-language:DE'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b8812451de174876896afa8759421f0f">WE-121</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Measurements of the kinetic-energy-release (KER) of
+  vibrational cooled HeH<sup>+</sup> and H<sub>3</sub><sup>+</sup> at the
+  electrostatic <st1:place w:st="on">Frankfurt</st1:place> low energy storage
+  ring (FLSR)</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=DE style='mso-ansi-language:DE'>Jan Müller,
+  Reinhard Dörner, Frederik King, Lothar Schmidt, Markus Schöffler, Kurt Ernst
+  Stiebing</span></i><span lang=DE style='mso-ansi-language:DE'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/343b80599cd4428c93712cae8c5f6b5f">WE-122</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Asymmetries of the electron cusp in heavy-ion atom
+  collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Pierre-Michel Hillenbrand, Siegbert Hagmann, Yuri A.
+  Litvinov, Thomas Stöhlker</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/52cf2ffff8c9426ab3edb19aa29af022">WE-123</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Towards laser-controlled generation of hydrogen-like
+  ions in Rydberg states</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=DE style='mso-ansi-language:DE'>Joan
+  Dreiling, Aung Naing, Joseph Tan</span></i><span lang=DE style='mso-ansi-language:
+  DE'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1d92ecce1b8444c6a969627644cb994d">WE-124</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Universal empirical and theoretical fits to K- and
+  L-shell x-ray production cross sections by protons</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Gregory Lapicki</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/9f4e9b29e79a40379a1ae8fea01f4bdb">WE-125</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Multiple ionization effects on L X-ray in Bi by proton
+  impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sunita Sharma</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e1abc7ceb59c469282d4b60ef9187856">WE-126</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Determination of the <sup>4</sup>P<sup>o</sup>/<sup>2</sup>P
+  ratio in single electron capture of C<sup>4+</sup>(1s2/1s2s <sup>3</sup>S)
+  ion beams in 6-18 MeV collisions with gas targets</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=PT-BR style='mso-ansi-language:PT-BR'>Ioannis
+  Madesis, Aggelos Laoutaris, Emmanuel Benis, Tom Kirchner, Theo Zouros</span></i><span
+  lang=PT-BR style='mso-ansi-language:PT-BR'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/df72e8aab1064fc9a6716d76e96db0aa">WE-127</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Effective solid angle correction factors for long-lived
+  Auger states populated in low-Z ion collisions with gas targets</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=PT-BR style='mso-ansi-language:PT-BR'>Emmanuel
+  Benis, Stefanos Nanos, Ioannis Madesis, Aggelos Laoutaris, Tom Gorczyca, Theo
+  Zouros</span></i><span lang=PT-BR style='mso-ansi-language:PT-BR'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/f5535b454ef4421497501f1c75ebfb78">WE-128</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Investigation of 2s2p <sup>3,1</sup>P excitation and
+  (1s2s <sup>3</sup>S)nl capture lines in 6-18 MeV C<sup>4+</sup> (1s<sup>2</sup>,1s2s
+  <sup>3</sup>S) collisions with gas targets</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=PT-BR style='mso-ansi-language:PT-BR'>Aggelos
+  Laoutaris, Ioannis Madesis, Emmanuel Benis, Theo Zouros</span></i><span
+  lang=PT-BR style='mso-ansi-language:PT-BR'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0e7084fa95a14c8cba049814f00fb164">WE-129</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>A 150 kV Highly Charged Ions Research Platform in <st1:City
+  w:st="on"><st1:place w:st="on">Shanghai</st1:place></st1:City></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Baoren Wei, Xincheng Wang, Yu Zhang, Di Lu, Ke Yao,
+  Roger Hutton, Yaming Zou</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/147510ab0f33418ca535a8c835ef1896">WE-130</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron capture and subsequent radiative decay of fast
+  Xe<sup>54+</sup> ions in collisions with Kr and Xe gaseous targets</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Bian Yang, Deyang Yu, Caojie Shao, Yingli Xue, Wei
+  Wang, Junliang Liu, Rongchun Lu, Mingwu Zhang, Zhangyong Song, Fangfang Ruan,
+  Xiaohong Cai</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1f99ff783d194e51a8a9c1124eb5a902">WE-131</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Atomic structure calculations of He and Li-like Ti ions
+  for interpreting astrophysical spectra</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Gajendra Singh, Ajay Kumar Singh</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/350e5d668ba64cd4aab52c0e418df4c5">WE-132</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Theoretical study on projectile coherence effects in
+  fully differential ionization cross sections</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ladislau Nagy, Borbély Sándor, Ferenc Járai-szabó</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b41ce4695e474e5d9ead4e2440346723">WE-133</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Studies of single- and double-electron capture by
+  highly charged ions isolated at very low energy in a Penning trap</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Joseph Tan, Joan Dreiling, Shannon Hoogerheide, Aung
+  Naing, David Schultz, Yuri Ralchenko</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2ceebe396d3e4a109733ddc279f8f20f">WE-134</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Radiative Double Electron Capture (RDEC) in F<sup>9+</sup>
+  + Ne, He Collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>David La
+  Mantia, P. N. S. Kumara, Asghar Kayani, Anna Simon, John Tanis</span></i><span
+  lang=IT style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/351d2c0443f84bf8afe13dff0b580fb1">WE-135</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Production of low energy “cusp” electrons in slow
+  ion-atom collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Roger Hutton, Baoren Wei</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/fb7dd2f519a7400cb0f483d2c1d579af">WE-136</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Two-centre Born approach to fully differential
+  proton-impact ionisation of hydrogen: coherent versus incoherent combination
+  of amplitudes</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jackson Bailey, Ilkhom Abdurakhmanov, Alisher Kadyrov,
+  Igor Bray</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5f5273594c6b46d992d18efb2f60126d">WE-137</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Calculations of stopping power for protons in hydrogen</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jackson Bailey, Ilkhom Abdurakhmanov, Alisher Kadyrov,
+  Igor Bray</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2265faeb13514f0598a77ee7afe7ab08">WE-138</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Competition between radiative and Auger decay processes
+  of doubly excited Li-like C, N and O ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Naoki Numadate, Yoshiyuki Uchikura, Kento Shimada,
+  Takuto Akutsu, Hajime Tanuma</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ce435d62a96e4dbeba4f504981ef5df8">WE-139</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The effect of coupled states on the differential and
+  total cross section in excitation channel</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mohammad Bolorizadeh</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ebce2397e55f4c7aaca82b210ef314ed">WE-140</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>A Quasi Four-Body FWL Treatment of Single Charge
+  Transfer in Energetic Proton-Helium Collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mohammad Bolorizadeh, Zohre Safarzade, Reza Fathi,
+  Farideh Shojaei Akbarabadi, Michael Brunger</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/367ef65d2a224fc1bd82fa10d8e1228a">WE-141</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Single electron transfer in the collision of He<sup>+</sup>
+  ion with Hydrogen atom</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mohammad Bolorizadeh, Sh Azizan, Reza Fathi, Farideh
+  Shojaei </i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/4f864e79b4744325b323eae36aae9150">WE-142</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Single ionization of Helium at 0.5 - 2 MeV proton
+  impact: On the quest for projectile coherence effects</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>J. Gatzke, F.
+  Navarrete, M. Ciappina, H. Gatzke, O. Chuluunbaatar, S. A. Zaytsev, A. A. Bulychev,
+  K. A. Kouzakov, A. Galstyan, M. Waitz , H.-K. Kim, T. Bauer , A. Laucke , S.
+  Eckart, G. Kastirke, J. Müller, M. Ritzer, E. Bloch, M. Richter, K. Fehre, M.
+  Kunitski, Ch. Müller, J. Voigtsberger, J. Rist, K. Pahl, M. Honig, M. Pitzer,
+  M. Weller, I. Vela Pérez, J. Hoehl, G. Nalin, S. Grundmann, H. Maschkiwitz,
+  C. Janke, S. Zeller, C. Goihl, Y. Herrman, D. Trabert, T. Jahnke, L. Ph. H.
+  Schmidt, Yu. V. Popov, R. Dörner, R. O. Barrachina, and</i> <i>Markus
+  Schöffler</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8a6400fd5bdf4b80a1422562a1dbb652">WE-143</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Time evolution of the population distribution in charge
+  exchange collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Kento Shimada, Naoki Numadate, Yoshiyuki Uchikura,
+  Takuto Akutsu, Ling Liu, Jianguo Wang, Hajime Tanuma</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3ae82bbc73e04766928738b91e2017c1">WE-144</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Single Ionization of Helium toms in the collision of
+  fast protons</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mohammad Bolorizadeh, Farideh Shojaei, Reza Fathi, Sh
+  Azizan, M Rahmanian</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e5b57746a7a04f3b816746b42035410e">WE-145</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Prior collision interactions in differential cross
+  sections for charge transfer processes</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mohammad Bolorizadeh, Farideh Shojaei, Reza Fathi, M
+  Rahmanian</i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>1. Photon - Atom/Ion (strong field and ultrafast phenomena)</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/60207728afcb41aea3cc3a0d60c79dad">TH-1</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>PENNING-TRAP EXPERIMENTS FOR EXTREME-FIELD PHYSICS</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Manuel Vogel, Z Andelkovic, G Birkl, M Ebrahimi, Z Guo,
+  T Murböck, W Nörtershäuser, W Quint, S Ringleb, S Schmidt, N Stallkamp, Th
+  Stöhlker, M Wiesel</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/af755013bdc4405bbb56fe406d2e37cf">TH-2</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Correlation Dynamics in Double Photoionization of
+  Excited Helium Atom by a Single Ultrashort XUV Pulse</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Aihua Liu, Dajun Ding, Uwe Thumm</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/930e2d36a537427d9799898d47475f09">TH-3</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Observing the ultrafast buildup of a Fano resonance</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Alexander Blättermann, Andreas Kaldun, Veit Stooß,
+  Stefan Donsa, Hui Wei, Renate Pazourek, Stefan Nagele, Christian Ott,
+  Chii-Dong Lin, Joachim Burgdörfer, Thomas Pfeifer</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/464b17975bb14798aeffae8322233dbd">TH-4</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron Matter-Wave Vortices in Double Photoionization
+  of Helium by Attosecond Pulses</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>J. M. Ngoko Djiokap, A. V. Meremianin, N. L. Manakov,
+  S. X. Hu, L.B. Madsen, Anthony F Starace</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/4bf6338286654f81a3eb5b3a7910c103">TH-5</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Impact of fullerene polarizability on Wigner time delay
+  in photodetachment of fullerene anions C<sub>N</sub><sup>-</sup></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Valeriy Dolmatov</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/13da7bd07e6c4e8b858e179962e7e064">TH-6</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Coherence effects in laser-induced ultrafast response
+  of complex atoms</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yongqiang Li</i><span style='mso-spacerun:yes'> 
+  </span>and Jianmin Yuan</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5b6d14a3cde84dd39e4e6367d97f35e4">TH-7</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Disentangling intracycle interferences in the
+  photoelectron spectrum of argon using orthogonally polarized two-colour laser
+  pulses</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xinhua Xie, Tian Wang, ShaoGang Yu, XuanYang Lai,
+  Stefan Roither, Daniil Kartashov, Markus Schöffler, XiaoJun Liu, André
+  Staudte, Markus Kitzler</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/72c6b29332e442809f80a190405e13c2">TH-8</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Mechanisms of near-threshold harmonic generation in
+  atoms</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Wei-Hao Xiong, Qihuang Gong, Liang-You Peng</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5b9c38202d3849c3803e8503691d11aa">TH-9</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Perspectives of AMO endstation at Shanghai XFEL</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yizhu Zhang, Jing Zhu, Xincheng Wang, Yuhai Jiang</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/df458eeabab741cfa743db63eeae3749">TH-10</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Attosecond time delays in the valence photoionization
+  of xenon and iodine at energies degenerate with core emissions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Maia Magrakvelidze, Himadri Chakraborty</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/af072e2146b34f2cb4834513228f5969">TH-11</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Localizing High-Lying Rydberg Wave Packets with
+  Orthogonally-Polarized Two-Color Laser Fields</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Seyedreza Larimian, Ji-Wei Geng, Stefan Roither, Daniil
+  Kartashov, Li Zhang, Mu-Xue Wang, Qihuang Gong, Liang-You Peng, Christoph
+  Lemell, Shuhei Yoshida, Joachim Burgdörfer, Andrius Baltuška, Markus Kitzler,
+  Xinhua Xie</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7f4d11a99fe24a6cae1630c960105711">TH-13</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Sideband and streaking regimes in two-color
+  photoionization by twisted X-waves in strong infrared fields</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Birger Böning, Stephan Fritzsche</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/968900dfa5814b0093d581849a4de6ef">TH-14</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Intracycle interference in laser assisted XUV atomic
+  hydrogen ionization</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Ana Gramajo,
+  Renata Della Picca, Roberto Garibotti, Diego Arbó</span></i><span lang=IT
+  style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/78884f8cd78d4b16898b019a57b577b7">TH-15</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Non-perturbative semiclassical model for strong-field
+  ionization</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Nikolay Shvetsov-Shilovski, Manfred Lein, L Madsen, E
+  Räsäsen, Christoph Lemell, Joachim Burgdörfer, Diego Arbó, Károly Tokesi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/996b3a691cb64cd0a52703c49128b3e9">TH-16</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Intensity-dependent shift in transverse electron
+  momentum distribution for strong field ionization</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Nida Haram, Han Xu, Atia-tu-Noor Atia-tul-Noor, Sainadh
+  Satya Undurti, Igor Ivanov, Igor Litvinyuk, R. T. Sang</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/51cc6a97415a404fbc8dff09d64c8d71">TH-17</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Attosecond Time Delay in Photoemission and Electron
+  Scattering near Threshold</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Alexander Bray, Anatoli Kheifets, Igor Bray</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a6f2180e52ae4f86bfc400d7e84061c4">TH-18</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Study of atomic delays in negative ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jan Marcus Dahlström, Eva Lindroth</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/85ecbc8dd15b4814a5f0e57f3ec5df76">TH-19</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Tunneling ionization imaging of photoexcitation of NO
+  by ultrafast laser pulses</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Tomoyuki Endo, Akitaka Matsuda, Mizuho Fushitani,
+  Tomokazu Yasuike, Oleg I. Tolstikhin, Toru Morishita, Akiyoshi Hishikawa</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b242e0ac1f0746be8f80a00f87c30186">TH-20</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Two-center interferences in atomic RABBITT-like
+  experiments</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Diego Boll, Omar Fojón</i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>2. Photon - Molecule (weak field phenomena)</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ 
+ 
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b68faa03e5cc45b9844466b76aa69933">TH-22</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Disentangling energy transport in photosynthetic
+  proteins using action spectroscopy on fast ions beams</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mark Stockett, Christina Kjær, Jørgen Houmøller, Bjarke
+  Pedersen, Lihi Musbat, Yoni Toker, Bruce Milne, Angel Rubo, Steen Brøndsted
+  Nielsen</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/baf51be6605b44619bf7b1ff82680f2f">TH-23</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Inelastic squared form factors of the valence-shell
+  excitations of hydrogen studied by high-resolution inelastic x-ray scattering</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Long-Quan Xu, Ya-Wei Liu, Lin-Fan Zhu</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/fbbda123a0254f889dede65194bee231">TH-24</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The observation of the pair of Lyman-</b><b><span
+  style='font-family:Symbol'>a</span> and Lyman-</b><b><span style='font-family:
+  Symbol'>b</span> photons produced in the photodissociation of H<sub>2</sub></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Kouichi Hosaka, Yutaro Torizuka, Philipp Schmidt,
+  Takeshi Odagiri, Andre Knie, Kari Jankala, Arno Ehresmann, Masashi Kitajima,
+  Noriyuki Kouchi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ff6598ceb9dc432696c0f5a4f2839b30">TH-25</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Comparative study of carbon dioxide by high-resolution
+  inelastic x-ray and electron scattering</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Dongdong Ni, Longquan Xu, Yawei Liu, Linfan Zhu</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/cbd7111df2754e86b5c4d653f96f0a1d">TH-26</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron pair escape from fullerene cage via collective
+  modes</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Paola Bolognesi, Emma Sokell, Michael Schuler, Yaroslav
+  Pavlyukh, Jamal Berakdar, Lorenzo Avaldi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0c03d2f7a47f448dacbb6b085d3933fe">TH-27</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dynamics of ion-molecule reactions of SO<sub>2</sub><sup>+</sup>
+  with H<sub>2</sub>O and CH<sub>4</sub></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Antonella
+  Cartoni, Daniele Catone, Paola Bolognesi, Mauro Satta, Pal Markus , Lorenzo
+  Avaldi</span></i><span lang=IT style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/505dbf8f11ce4162bb1a0e2191d67ca2">TH-28</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Evidence for Efficient Pathway to Produce Slow
+  Electrons by Ground-state Dication in Clusters</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>Daehyun You,
+  Hironobu Fukuzawa, Yuta Sakakibara, Tsukasa Takanashi, Yuta Ito, Gianluigi G.
+  Maliyar, Koji Motomura, Kiyonobu Nagaya, Toshiyuki Nishiyama, Kazuki Asa,
+  Yuhiro Sato, Norio Saito, Masaki Oura, Markus Schöffler, Gregor Kastirke, Uwe
+  Hergenhahn, Vasili Stumpf, Kirill Gohkberg, Alexander I. Kuleff, Lorenz S.
+  Cederbaum, and<span style='mso-bidi-font-style:italic'> Kiyoshi Ueda</span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/65cd1b452e4340cf92e6d20ee1d5dc47">TH-30</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Vector correlation </b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'><span lang=DE
+  style='mso-ansi-language:DE'>F. Trinter, L. Ph. H. Schmidt, T. Jahnke, M. S.
+  Schöffler, O. Jagutzki, A. Czasch1,<span style='mso-spacerun:yes'>  </span>J.
+  Lower, T. A. Isaev, R. Berger, A. L. Landers, Th. </span>Weber, R. Dörner,<span
+  style='mso-bidi-font-style:italic'><span style='mso-spacerun:yes'> 
+  </span>and Horst Schmidt-Böcking</span></i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c722f2fc43d54a18b1320f72612f7b7d">TH-31</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Disentangling sequential from concerted three-body
+  fragmentation of molecules</b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jyoti Rajput, T Severt, B Berry, B Jochim, P Feizollah,
+  P Kanaka Raju, M Zohrabi, U Ablikim, F Ziaee, B Kaderiya, D Rolles, A
+  Rudenko, K D Carnes, B D Esry, I Ben-Itzhak</i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8e007e65241845e082949f7ffbb7cea0">TH-32</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photoionisation of allene and propyne</b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>John Neville, Priya Bhutani, Egill Antonsson, Safia
+  Benkoula, Christophe Nicolas, Minna Patanen, Catalin Miron</i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/4feba490c82e46ceab2fe9ce4d786e39">TH-33</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Single-or double-electron emission within the Keldysh
+  nonequilibrium Green’s function – a diagrammatic approach</b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yaroslav Pavlyukh, Michael Schueler, Jamal Berakdar</i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/79f9443d2d6d4b09954054ac20981da9">TH-34</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Direct monitoring of photon induced isomerization,
+  dissociation and electron detachment of the green fluorescent protein chromophore
+  anion</b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=ES style='mso-ansi-language:ES'>Eduardo
+  Carrascosa, Michael S. Scholz, James N. Bull, Evan J. Bieske</span></i><span
+  lang=ES style='mso-ansi-language:ES'><o:p></o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span lang=ES style='font-size:10.0pt;mso-ansi-language:
+  ES'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span lang=ES style='font-size:10.0pt;mso-ansi-language:
+  ES'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/181fe2ccf7d1416f9bbb66f7f13f96f1">TH-35</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Spectator Auger decays of
+  cis-1,1,2,2,3,4-hexafluorocyclobutane in the F 1s region</b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Kazumasa Okada, Takuma Kaneda, Hiroshi Iwayama, Eiji
+  Shigemasa</i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5857f243682944c5be7c8a1ff84d54a7">TH-36</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Multicoincidence Studies of Ionization of Chiral
+  Molecules in Strong Laser Fields</b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Kilian Fehre, Marksim Kunitski, Lothar Ph. Schmidt,
+  Christian Janke, Stefan Zeller, Martin Pitzer, Till Jahnke, Reinhard Dörner,
+  Markus Schöffler</i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1989604172714690b1f583e8eb0afc81">TH-37</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>A method to determine the energy-transfer distribution
+  in ion-molecule collisions via PEPICO experiments: the case of glycine</b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Paola
+  Bolognesi, Jacopo Chiarinelli, Alicja Domaracka, Patrick Rousseau, Robert
+  Richter, Lorenzo Avaldi</span></i><span lang=IT style='mso-ansi-language:
+  IT'><o:p></o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span lang=IT style='font-size:10.0pt;mso-ansi-language:
+  IT'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span lang=IT style='font-size:10.0pt;mso-ansi-language:
+  IT'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/76c7cb25d55347e7a7a0df2ae354ca39">TH-38</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>PLEIADES: an ultra-high resolution soft x-ray beamline
+  for spectroscopy of dilute species</b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>John Bozek, Christophe Nicolas, Aleksandar
+  Milosavljevic, Emmanuel Robert, Jean-Marc Bizau, Catalin Miron</i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d6a72ef09ef34b6f9399240bc4e0e6c1">TH-39</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>X-ray absorption spectra of excited triplet states of
+  organic molecules</b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Atsunari Hiraya, Haruka Inui, Sho Yamahira, Osamu
+  Takahasi</i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/da39b3d2b6d94fc8bccda23dbff90ef5">TH-40</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>“Position” does matter : the photofragmentation of the nitroimidazole
+  isomers </b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Jacopo
+  Chiarinelli, Paola Bolognesi, Annarita Casavola, Antonella Cartoni, Mattea
+  Castrovilli, Daniele Catone, Robert Richter, Stefano Borocci, Sanja Tosic, Hanan
+  Sa'adeh, Masa Masic, Bratislav Marinkovic, Kevin Prince, Lorenzo Avaldi</span></i><span
+  lang=IT style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span lang=IT style='font-size:10.0pt;mso-ansi-language:
+  IT'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span lang=IT style='font-size:10.0pt;mso-ansi-language:
+  IT'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3232d054227343b78db4b5d049954cc9">TH-41</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photodetachment cross sections for molecular anions of
+  astrophysical interest</b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Lorenzo Ugo Ancarani, Carlos Mario Granados-Castro,
+  Miguel Lara, Thierry Stoecklin</i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e7015c8cb4c44b28a02587bca3b67958">TH-42</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>NOO peroxy isomer discovered in the velocity-map imaged
+  photoelectron spectrum of NO<sub>2</sub><sup>-</sup></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Benjamin Laws, Steven Cavanagh, Brenton Lewis, Stephen
+  Gibson</i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/38aec717d0694131925dc0e05ade5321">TH-43</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Double Photoionization of tribromoborazine</b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ralf Wehlitz, Mike MacDonald, Lucia Zuin, Antonio
+  Santos, Narayan Appathurai</i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+
+</table>
+
+<h2>6. Lepton - Molecule</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/48bea9b48d8b4ea0b191019a37d6ba38">TH-45</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Single and Double differential cross sections for ionization
+  of water molecules in the liquid state by fast electrons. </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Maria Laura De Sanctis, Marie-Françoise Politis,
+  Rodolphe Vuilleumier, Carlos Raúl Stia, Omar Ariel Fojón</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d2d7943837ba42598bc0faba895aad20">TH-46</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Development of the Time-Resolved Electron Momentum
+  Spectroscopy Apparatus in <st1:City w:st="on"><st1:place w:st="on">Hefei</st1:place></st1:City></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yaguo Tang, Xu Shan, Zhaohui Liu, Shanshan Niu, Enliang
+  Wang, Xiangjun Chen</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/9196d37fccc34ca2a69572fe265932fe">TH-47</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron Momentum Spectroscopy Investigation of <st1:City
+  w:st="on"><st1:place w:st="on">Valence</st1:place></st1:City> Electronic
+  Structures of CH<sub>3</sub>I</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yaguo Tang, Shanshan Niu, Zhaohui Liu, Yufeng Shi,
+  Enliang Wang, Xu Shan, Xiangjun Chen</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b849a2a8ffe84ec09a259f5a6730520f">TH-48</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Positron scattering upon a &quot;simple&quot;
+  endohedral</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Miron Amusia, Larissa Chernysheva</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/f1f038b22c5744f9aa4c30ada4c0c003">TH-49</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>N<sub>2</sub> dissociative ionization by electron
+  impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=DE style='mso-ansi-language:DE'>Y. Zhang, X.
+  Wang, L. F. Zhu, D. Lu, R. Hutton, Y. Zou, B. Wei</span></i><span lang=DE
+  style='mso-ansi-language:DE'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/17730367c927427fa0667cd73bce7a48">TH-50</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Analytical Fits for Total and Ionization Cross Sections
+  of Electron Impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Bhushit Vaishnav, Siddharth Pandya, Kamalnayan
+  Joshipura</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8ea085cc45dd4184a5d03a13a1efd8f0">TH-52</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Resonances in low-energy electron scattering from
+  para-Benzoquinone</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=ES style='mso-ansi-language:ES'>Alexandra
+  Loupas, Jimena D. Gorfinkiel</span></i><span lang=ES style='mso-ansi-language:
+  ES'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d1f6bb69ff744fbab4ad20635b56977c">TH-53</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Computation of electron impact total cross sections for
+  Glycine over an exten-sive range of impact energy (0.1 – 5000 eV) </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mohit Swadia, Ashok Chaudhary, Minaxi Vinodkumar,
+  Chetan Limbachiya</i></p>
+  </td>
+ </tr>
+ 
+ 
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/da8de6a3b1a544239d78781a2d3d649f">TH-56</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Effect of microhydration on the resonances of pyridine
+  and thymine</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jimena D. Gorfinkiel, Agnieszka Sieradzka</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/57136ed2d39b4c8da1eb16488f21213b">TH-57</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Excitation of guanine molecules in gas phase under the
+  low energy electron beam</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>Svida Yu.Yu., Shafranyosh
+  M.I., Margitich M.O., Sukhoviya and</i> <i>Miroslav Shafranyosh</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2ec516e39a84473da253f6eca2a67cb0">TH-58</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>High resolution measurements of positron and electron
+  scattering from water</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Rina
+  Kadokura, Andrea Loreti, Samuel Fayer, Ákos Kövér, Gaetana Laricchia</span></i><span
+  lang=IT style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b9309cf650454044b55881f51ae0d934">TH-59</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Spectroscopic wavelength shifts characterizing the
+  phase transition of helium adsorbed on fullerene cations</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yang Wang, M. Kuhn, M. Renzler, J. Postler, S. Ralser,
+  S. Spieler, M. Simpson, H. Linnartz, A. G. G. M. Tielens, J. Cami, A.
+  Mauracher, M. Alcamí, F. Martín, M. K. Beyer, R. Wester, A. Lindinger, Paul
+  Scheier</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0ec9c57c15ae4bfb909c743457d7e6ef">TH-60</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>A space-charge-effect-compensated electron monochromator
+  for electron-impact multi-coincidence measurements</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Takuma Okumura, <st1:City w:st="on"><st1:place w:st="on">Yuma</st1:place></st1:City>
+  Mori, Hirofumi Akasaka, Kouichi Hosaka, Masashi Kitajima, Noriyuki Kouchi</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1b5242767e3c4be4a5064e5b32364359">TH-62</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Positron and Electron Scattering with Biological
+  Molecules</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Joshua Machacek, David Stevens, Tamara Babij, Michael
+  Brunger, Stephen Buckman, James Sullivan</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3faa6dee690f483795eb8fcb5133719c">TH-63</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Kinetic energy release of fragments from electron impact
+  dissociation of the molecular hydrogen ion</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Liam Scarlett, Mark Zammit, Dmitry Fursa, Igor Bray</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e835840b98414d82b8662fae1a37654c">TH-64</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><st1:City w:st="on"><st1:place w:st="on"><b>Valence</b></st1:place></st1:City><b>
+  electronic structures of isopropyl iodide investigated by using electron
+  momentum spectroscopy</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Minfu Zhao, Xu Shan, Shanshan Niu, Yaguo Tang, Zhaohui
+  Liu, Xiangjun Chen</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bab9675fc0eb43a2b8993acdf6023f74">TH-65</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Molecular-frame EELS experiment on inner-valence
+  ionization of N<sub>2</sub></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Noboru Watanabe, So Yamada, Masahiko Takahashi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a02fe3e0b9cf4166b69faf3577aacefb">TH-66</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Relationship between interference pattern and molecular
+  orbital shape: a binary (e, 2e) study on SF<sub>6</sub></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Noboru Watanabe, Masakazu Yamazaki, Masahiko Takahashi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6a9eda0997ea41049827cfff6d5d0ca1">TH-67</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Absolute cross sections for silver clusters (Ag<sub>n</sub>,
+  n=1-4) by electron impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Paresh Modak, Bobby Antony</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/03e9b3f7c9154e99a763a3e3be07a287">TH-68</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Coherence and symmetry breaking in dissociative electron
+  attachment to molecular hydrogen</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Erumathadathil Krishnakumar, Vaibhav S Prabhudesai,
+  Nigel J Mason</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:51'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0e6ec33156f6410bab639f4473f81790">TH-70</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Experimental scaling of plane-Born cross sections for
+  the electron-impact excitation to the b<sup>1</sup>Π<sub>u</sub> state of N<sub>2</sub>
+  molecule</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Atsuya Tanaka, Hidetoshi Kato, Masamitsu Hoshino,
+  Hiroshi Tanaka</i></p>
+  </td>
+ </tr>
+ 
+ 
+ <tr style='mso-yfti-irow:57'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3ce755f1d8c8460297ad21637b016ca3">TH-73</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Theoretical investigation of water ionization by
+  electron impact at low energies</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>István Tóth, Ladislau Nagy</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/09ec3564c5cb455daa9605541ed51681">TH-74</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Absolute elastic differential cross sections for PF<sub>3</sub>
+  molecule by electron impact: A comparative study with XF3 (X=B,C,N and CH)
+  molecules</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Naoki Hishiyama, Masamitsu Hoshino, Francisco Blanco,
+  Gustavo Garcia, Hiroshi Tanaka</i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>8. Heavy Particles (cold collisions)</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/579d074aa78e44b2b5d3af7205ef4c49">TH-75</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Universal Properties of p-Wave Fermi Gases</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Zhenhua Yu</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/42675d201c404253a6fb87751c04086c">TH-76</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Lifetimes of ultralong-range strontium Rydberg
+  molecules in a dense BEC</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>F. Barry Dunning, Francisco Camargo, Joseph Whalen,
+  Roger Ding, Thomas Killian, Jesus Perez-Rios, Shuhei Yoshida, Joachim
+  Burgdorfer</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7c55453a3b044db0bac8f9ff0fab90df">TH-77</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Rydberg atom scattering in K(12p)-CH<sub>3</sub>NO<sub>2</sub>
+  collisions: role of transient ion pair formation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>F. Barry Dunning, Michael Kelley, Sitti Buathong</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/62277d6a48c84c70997714aa32d5b73e">TH-78</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Fermi liquid nature in one-dimensional strongly
+  attractive Hubbard model</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xiwen Guan</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/fa3ca4e03f834b21a81ef07803754683">TH-79</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>OPTICAL FIELDS TO CONTROL ULTRACOLD ATOMIC/MOLECULAR
+  COLLISIONS</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>A. Orbán, O. Dulieu,
+  and</i> <i>Nadia Bouloufa-maafa</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/9b99cb52b49f46c9814842774622aa0e">TH-82</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Anisotropic blockade using pendular long-range Rydberg
+  molecules</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Matthew Eiles, Hyunwoo Lee, Jesus Perez-Rios, Chris
+  Greene</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/51eef0379c1e49d5b0d0565aa7f3fe9c">TH-83</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Ultracod Collision between Spin-Orbit-Coupled Dipoles</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Christiaan Hougaard, Jia Wang, Brendan Mulkerin, Xia-ji
+  Liu, Hui Hu</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8673ec28f35a4f5e915d0c7738fc42bc">TH-84</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Calculations<span style='mso-spacerun:yes'>  </span>of
+  long-range three-body interactions for </b><b style='mso-bidi-font-weight:
+  normal'>He(n<sub>0</sub> </b><b style='mso-bidi-font-weight:normal'><sup><span
+  style='font-family:Symbol'>l</span></sup>S) - He(n<sub>0 </sub></b><b
+  style='mso-bidi-font-weight:normal'><sup><span style='font-family:Symbol'>l</span></sup>S)-He(n<sub>0</sub>’
+  </b><b style='mso-bidi-font-weight:normal'><sup><span style='font-family:
+  Symbol'>l</span></sup>P)</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Pei-Gen Yan, Li-Yan Tang, Zong-Chao Yan, James F Babb</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/dca32b99ea0041fbbaab148f0239748e">TH-85</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Creation of Rydberg Polarons in a Bose Gas</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>F. Camargo, R. Schmidt, J. D. Whalen, R. Ding, G. Woehl
+  Jr., S. Yoshida, J. Burgdorfer, F. B. Dunning, H. R. Sadeghpour, E. Demler,
+  Thomas Killian</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0dd218d8d25d4d5b9939e23c9d95dc08">TH-86</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Direct Photoassociation of Halo Molecules in<sup> 86</sup>Sr</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>J. A. Aman, J. C. Hill, Thomas Killian</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/01481acbba2045d797cc33020a71bbf2">TH-87</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Development of a linear wave Stark velocity filter for studying
+  cold ion-polar molecule reactions in interstellar clouds</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Kunihiro Okada, Yusuke Takada, Naoki Kimura, Michiharu
+  Wada, Hans A. Schuessler</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2f389bed0d9048ee99853b925aeebe66">TH-88</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Ultracold molecules strongly coupled to a nanophotonic
+  crystal: an universal platform for ultracold chemistry experiments </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jesus Perez Rios, May Kim, Chen-Lung Hung</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5fc370a4f93643ab93f76a34044222a6">TH-89</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Heteroisotopic Feshbach resonances in collisions of
+  cold Ca and Ca<sup>+</sup></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Marko Gacesa, Robin Cote</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3132cfa4531d48e7a9565095701259f4">TH-90</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Using trilobite-like Rydberg trimers to probe Efimov
+  states</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Robin Cote and </i><i style='mso-bidi-font-style:normal'><span
+  style='mso-spacerun:yes'> </span>Jovica Stanojevic</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/03c9ce72721f4cd89c59040e66caaa84">TH-91</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Rubidium Magnetic-Optical-Trap Reaction Microscope</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Renyuan Li, </i>Qiuxiang Meng, Junyang Yuan, ‡, Yizhu
+  Zhang, Xincheng Wang, Matthias Weidemueller, Y.H. Jiang</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0a2600584b8a4dd1aea71e637700f76b">TH-92</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Observation of atom-surface interaction near dielectric
+  surface using ultracold rubidium atoms</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Go Tanaka, Yutaka Kobayashi, Kosuke Shibata, Satoshi
+  Tojo</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/adf962c63f8345a29463f3b8c44e31bc">TH-93</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Zeeman and Paschen-Back supctra of rubidium 5S-5D
+  two-photon excitation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ryohei Itoyama, Yuta Komiyama, Kousuke Shibata, Satoshi
+  Tojo</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/acf3eb764b64498b9c0a7aa914b23ebb">TH-95</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Scattering of two particles in a one-dimensional
+  lattice incorporating multi-band effects</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Seth Rittenhouse, P. Giannakeas, Nirav Mehta</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2318682a29f74aff802700c0097737de">TH-96</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dynamic behavior of Bose-Einstein condensates in
+  optical lattices with two- and three-body interactions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yan Chen, KeZhi Zhang</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/40a2e5bf0eac414a850c5dd0d86632a5">TH-98</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Towards laser cooling of atomic negative ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Giovanni
+  Cerchiari, Stefan Erlewein, Alban Kellerbauer</span></i><span lang=IT
+  style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8e5291a13a7448549e6bb52ef2af2ca4">TH-99</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Emerging novel phases of Bose-Einstein Condensate for
+  various topology</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Priyam Das, Ayan Khan, Prasanta K. Panigrahi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/beae92daa1604db4ae9993775845ab18">TH-100</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Elementary excitation of spin-orbit coupled
+  Bose-Einstein condensates in optical lattice</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=FR style='mso-ansi-language:FR'>Ju-kui Xue,
+  Xu-Dian Chai</span></i><span lang=FR style='mso-ansi-language:FR'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/9853b7e08f584b59bbfea698fbbc6b58">TH-101</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Phase transition of soft-core bosons in disordered
+  optical lattice</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ju-kui Xue, Ji-Ming Gao</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0f79c44d62a44532a847738ea53b39b1">TH-102</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Internal cooling of cold Rb<sub>2</sub><sup>+</sup>
+  ions with cold Rb atoms</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=PT-BR style='mso-ansi-language:PT-BR'>Humberto
+  da Silva Jr, Maurice Raoult, Olivier Dulieu</span></i><span lang=PT-BR
+  style='mso-ansi-language:PT-BR'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/9f0df204823049b69f4c4dcfa52b9fd9">TH-103</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Characterization of charge-exchange collisions between
+  ultracold <sup>6</sup>Li atoms and <sup>40</sup>Ca<sup>+</sup> ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ryoichi Saito, Shinsuke Haze, Mizuki Sasakawa, Ryosuke
+  Nakai, Maurice Raoult, Humberto Jr. Da Silva, Olivier Dulieu, Takashi
+  Mukaiyama</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/077589eff7fc440f950a3979e208ac33">TH-104</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photodissociation of cold RbBa<sup>+</sup> ions
+  produced in a hybrid cold atom-ion trap</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Humberto da Silva Jr, Maurice Raoult, Amir Mohammadi,
+  Johannes Hecker Denchlag, Olivier Dulieu</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:61'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ba93afc8936d4b74ab8d010dfdb00e32">TH-105</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Quantum-State Resolved Study of the Ultracold K + KRb
+  Reaction</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:62'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>J. F. E. Croft, C. Makrides, M. Li, A. Petrov, S. Kotochigova,
+  B. K. Kendrick, N. Balakrishnan</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:63'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5c36c7798dae45a4ae74366d5246e8c3">TH-106</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Beam lifetime measurement and longitudinal dynamics
+  investigation for laser cooling at the CSRe</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Hanbing Wang, Weiqiang Wen, Zhongkui Huang, Dacheng
+  Zhang, Bang Hai, Xiaolong Zhu, Dongmei Zhao, Jie Li, Xiaoni Li, Lijun Mao,
+  Ruishi Mao, Jiancheng Yang, Youjin Yuan, Lewin Eidam, Danyal Winters, Tobias
+  Beck, Daniel Kiefer, Benjamin Rein, Thomas Walther, Markus Loeser, Ulrich
+  Schramm, Mathias Siebold, Michael Bussmann, Xinwen Ma</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:65'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1b3e8b9ce56d4847bd43fac6757588fd">TH-107</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Long-range dispersion interactions between excited
+  states of K and rare-gas atoms</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:66'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Denghong Zhang, Yabin Xu, Jun Jiang, Li Jiang, Luyou
+  Xie, Chenzhong Dong</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:67'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a7cf5089971f4121ac4aeec11a7a0c64">TH-108</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Preparation for laser cooling of relativistic Li-like O<sup>5+
+  </sup><span style='mso-spacerun:yes'> </span>at the CSRe</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:68;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Weiqiang Wen, Hanbing Wang, Zhongkui Huang, Dacheng
+  Zhang, Danyal Winters, Michael Bussmann, Bang Hai, Jie Yang, Xiaolong Zhu,
+  Dongmei Zhao, Xiaoni Li, Jie Li, Lijun Mao, Ruishi Mao, Jiancheng Yang,
+  Youjin Yuan, Xinwen Ma</i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>10. Havey Particle - Molecule</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c9f14f59569a489e9cb97087f7a5a21a">TH-109</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Near-cold inelastic collisions of He(<sup>1</sup>S) with
+  the smallest astrophysical anion observed, CN<sup>-</sup>(<sup>1</sup></b><b><span
+  style='font-family:Symbol'>S</span><sup>+</sup>): an accurate quantum
+  dynamical study.</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Fabio
+  Carelli, Francesco Gianturco, Roland Wester</span></i><span lang=IT
+  style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e93a2b343cbb4c24a7588d2205529619">TH-110</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Probing anion resonances in FeO‾: a species of
+  astrophysical relevance</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Roby Chacko, Shreyak Banhatti, Anit K Gupta, Aravind
+  Gopalan</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/86a90b2be9aa4ed6bac4a2a67343ad43">TH-111</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Rotationally cold (&gt;99% J = 0) <st1:State w:st="on"><st1:place
+   w:st="on">OH<sup>-</sup></st1:place></st1:State> molecular ions in a
+  cryogenic storage ring</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Henning T Schmidt, Gustav Eklund, Kiattichart
+  Chartkunchand, Emma Anderson, Magdalena Kaminska, Nathalie de Ruette, Michael
+  Gatchell, Henning Zettergren, Sven Mannervik, Richard Thomas, Henrik
+  Cederquist</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d3f74ed10b9c4e32ad923a188c5868df">TH-112</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Impulse driven fragmentation of biomolecules</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Linda Giacomozi, Michael Gatchell, Nathalie de Ruette,
+  Michael Wolf, Giovanna D'Angelo, Henning Schmidt, Henrik Cederquist, Henning
+  Zettergren</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ab24c97fb5174b8098ee84f14ec6c086">TH-113</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Reactions of O<sup>-</sup> with D<sub>2</sub> at low
+  temperatures 10 – 300 K</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Radek Plasil, Thuy Dung Tran, Stepan Roucka, Pavol
+  Jusko, Dmytro Mulin, Illia Zymak, Petr Dohnal, Juraj Glosik</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7f4064af33624c6b85e4b5d85435889a">TH-114</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Contour of full potential energy curves of molecular
+  hydrogen (N≤3)</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xianfang Yue. </i><i style='mso-bidi-font-style:normal'>Xiang
+  Gao, and Jia-Ming Li<o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/084a762474cf4723bfa9c6066f3028c4">TH-115</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Charge dependence of fragmentation process induced by
+  ion collisions with furan molecule </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=ES style='mso-ansi-language:ES'>Ewa Erdmann,
+  Marta Łabuda, Sergio Díaz-Tendero, Néstor Fabián Aguirre, Manuel Alcamí</span></i><span
+  lang=ES style='mso-ansi-language:ES'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ff7ddae18f8b402cbcbdf6e52f9dfe5a">TH-116</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Excitation and fragmentation in high velocity C<sub>n</sub>N<sup>+</sup>
+  - He collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Thejus Mahajan, Tijani Id Barkach, Nestor Fabian
+  Aguirre, Manuel Alcami, Maëlle Bonnin, Marin Chabot, Sergio Diaz-Tendero,
+  Florian Geslin, Thibaut Hamelin, Fairouz Hammache, Clara Illescas, Aurélie
+  Jallat, Alba Jorge, Thibaut Launoy, Thi-Kim-Cuong Le, Arnaud Le Padellec,
+  Fernando Martin, Anne Meyer, Luc Perrot, Thomas Pino, Bernard Pons, Nicolas
+  de Séréville, Karine Béroff</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/86e80cd3c994480797addac85f5b0d35">TH-117</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Development of transferable water-halide potentials</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Raúl Rodríguez-Segundo, Daniel J. Arismendi-Arrieta, Rita
+  Prosmiti</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ae3b40fb228b42f8b30cba43f0296686">TH-118</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Total cross sections for proton induced electron
+  emission from pyrimidine, THF, and TMP in a screened independent atom model</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=NO-BOK style='mso-ansi-language:NO-BOK'>Hans
+  Juergen Luedde, Tom Kirchner</span></i><span lang=NO-BOK style='mso-ansi-language:
+  NO-BOK'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7c81ca0caaf9471a81fc3803e07fbfac">TH-119</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>K-K electron transfer and K-ionization in fast ion collisions
+  with adenine and water using KLL Auger electron technique</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>Chandan Bagdia, S. Bhattacharjee M. Roychowdhury, A.
+  Mandal<i> and Lokesh Tribedi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/93449b4ae7d944ffa31c8ef37ee59db1">TH-120</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Ionization of water molecules by fast neutral H and He
+  impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Juan Manuel
+  Monti, Michele Arcangelo Quinto, Christophe Champion, Roberto Rivarola</span></i><span
+  lang=IT style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b300f5b3f0e24525b6eb2b03cabb2519">TH-121</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Machine-learning the best potential surfaces for
+  polyatomic molecules and the error bars for non-adiabatic atomic collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'><span lang=PT-BR
+  style='mso-ansi-language:PT-BR'>Daniel Vieira, Rodrigo Vargas and<span
+  style='mso-bidi-font-style:italic'> Roman Krems</span><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e4b993d65575404d829a6140d511f418">TH-122</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Conformation analysis and semiclassical dynamics study
+  of charge exchange process induced by collision of C<sup>2+</sup> ions with
+  tetrahydrofuran</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Marta Łabuda, Ewa Erdmann</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/03e49da9f6e240f3bb1284a7e23f25a8">TH-123</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Benchmarking the performance of
+  density-functional-based approaches on intermolecular interactions of
+  Helium--water complexes</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Maria Blanco de Paz, Daniel J. Arismendi-Arrieta, Rita
+  Prosmiti</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ba10634d23154837b491ee97030c85e7">TH-124</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Fully Differential Study of Capture with Vibrational
+  Dissociation in p + H<sub>2</sub> Collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Michael Schulz, Basu Lamichhane, Thusitha Arthanayaka,
+  Ahmad Hasan, Daniel Fischer, Ramaz Lomsadze, Marcelo Ciappina, Francisco
+  Navarrete, Raul Barrachina</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/14565e78b88f4ab78db1a0853d16e614">TH-125</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Laboratory Measurements for Deuterated Astrochemistry</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=DE style='mso-ansi-language:DE'>Xavier
+  Urbain, Kyle P. Bowen, Pierre-Michel Hillenbrand, Kenneth A. Miller, Nathalie
+  de Ruette, Daniel W. Savin</span></i><span lang=DE style='mso-ansi-language:
+  DE'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5f864779e3e94f7199fd9f676e521aae">TH-126</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron emission in ionization of bromouracil by fast
+  bare carbon ions </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>&nbsp;<o:p></o:p></i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>Madhusree Roy
+  Chowdhury, S. Bhattacharjee, C. Bagadia and <span style='mso-bidi-font-style:
+  italic'>Lokesh Tribedi</span><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7478720064b64349a6fc80d9a2677375">TH-127</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron emission from water molecule in collisions
+  with fast highly charged C, O and Si-ions and scaling law</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Shamik Bhattacharjee, </i><i style='mso-bidi-font-style:
+  normal'>C. D. Bagdia, M. R. Chowdhury, J. Monti, R. D. Rivarola, D. Misra, L.
+  C. Tribedi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e3c42f9def2844b49adb214fd054fd51">TH-128</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Bare C-ion impact ionization of adenine molecules :
+  DDCS and TCS measurements</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Shamik Bhattacharjee, </i><i style='mso-bidi-font-style:
+  normal'>C. D. Bagdia, M. R. Chowdhury, J. Monti, R. D. Rivarola, L. C.
+  Tribedi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/361c1e09a651465d8a2a973c60a6cc00">TH-129</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Knockout fragmentation and endohedral formation in
+  collisions between C<sub>60</sub><sup>+</sup> and noble gas atoms</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=NO-BOK style='mso-ansi-language:NO-BOK'>Mark
+  Stockett, Michael Gachell, Henning Zettergren, Henning Schmidt, Henrik
+  Cederquist</span></i><span lang=NO-BOK style='mso-ansi-language:NO-BOK'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ab7c81939892476bad90e27c341671b1">TH-130</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Investigation of fragmentation dynamics of nitrogen
+  dimers by collisions with highly charged ions </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xiaolong Zhu, Shuncheng Yan, Wentian Feng, Dalong Guo,
+  Yong Gao, Shaofeng Zhang, Zhongkui Huang, Hanbing Wang, Dongbin Qian, Dongmei
+  Zhao, Dapu Dong, Xinwen Ma</i></p>
+  </td>
+ </tr>
+ 
+ 
+ <tr style='mso-yfti-irow:49'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/fdd7f9ee24b346fbb51f0e1f042cc2a0">TH-133</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Development of a cryogenic linear RF ion trap for the
+  TMU E-Ring</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Hiromasa Yanagase, Takeshi Furukawa, Hajime Tanuma,
+  Haruo Shiromaru, Jun Matsumoto, Toshiyuki Azuma</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/25b0ff9594a54be98f8da182edc27576">TH-134</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Formation of covalent carbon molecules inside clusters
+  of C<sub>60 </sub>molecules after collisions with slow Ar<sup>+</sup> ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Rudy Delaunay, Michael Gatchell, Arkadiusz Mika, Alicja
+  Domaracka, Lamri Adoui, Henning Zettergren, Henrik Cederquist, Patrick
+  Rousseau, Bernd A. Huber</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5e8fea30873746d0acc3d99bcd957342">TH-135</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Stereodynamics of asymmetric ion-pair formation in
+  collisions of highly-charged ions with rare gas dimers</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Tomoko Ohyama-Yamaguchi, Atsushi Ichimura</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bb19f5306dd449c0b3a1c53ec672f7d4">TH-136</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Quantum-mechanical calculations of rovibrationally
+  resolved cross sections for the charge transfer and excitation in H<sup>+</sup>+H<sub>2</sub>
+  and H+H<sub>2</sub><sup>+</sup> collisions </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Fuyang Zhou, </i><i style='mso-bidi-font-style:normal'>Yong
+  Wu, Jianguo Wang and Predrag Krstic</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/19582ecae9954c0fa498e9b63bdb5203">TH-137</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Orientation-dependent dissociation dynamics of H<sub>2</sub>O<sub>2</sub></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Nrisimha Murty Madugula, Chandan Bagdia, Lokesh C.
+  Tribedi, Deepankar Misra</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5e2fc732c6b348e7aaf5cf170a3c8828">TH-138</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Theoretical study for the exchange reactions of H'+NH →
+  NH'+H and D+NH → ND+H </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xianfang Yue</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:61'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e6588f2d47804000ac397895ad0f5c95">TH-139</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b><i style='mso-bidi-font-style:normal'>Rotational energy
+  transfer in collisions of ammonia with rare gas atoms and H2</i></b><i
+  style='mso-bidi-font-style:normal'><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:62'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jérôme Loreau and<span style='mso-spacerun:yes'> 
+  </span></i><i style='mso-bidi-font-style:normal'>Ad van der Avoird<o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:63'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0244c71828dd4be08f370103d6a11d1f">TH-140</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Effect of SWCNT charge on a carbon adatom diffusion</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Longtao Han, Predrag Krstic</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:51'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3639176a92944e51aafd2f91f5d1ec36">TH-141</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Charge-patch enhanced surface scattering in the
+  transmission of hundred-keV proton through tapered glass capillary</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jian-Xiong Shao</i>, <i style='mso-bidi-font-style:
+  normal'>A. X. Yang, B. H. Zhu, X. M. Chen</i></p>
+  </td>
+ </tr>
+ 
+ 
+ <tr style='mso-yfti-irow:67'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1c4337536adc4c2fb4d4f313e610cbde">TH-142</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Isotope effect in reactive collisions of O<sup>-</sup>
+  with H<sub>2</sub>, <sub>D2</sub> and HD</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:68;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Martin Cizek, </i><i style='mso-bidi-font-style:normal'>Karel
+  Houfek, Jirí Táborský</i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>1. Photon - Atom/Ion (structure and spectroscopy)</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3d549597fb8b4dc2a5cddd23b2366226">FR-1</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Inelastic x-ray scattering technique and its
+  application on determining the electronic structures of atoms and molecules</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Lin Fan Zhu</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/f730447a40b345578687ce83ee01dc3a">FR-2</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photodissociation of sympathetically crystallized CaH<sup>+</sup></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Naoki Kimura, Masatoshi Kajita, Kunihiro Okada</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8edd0d4881b443338647b91b544cd38e">FR-3</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Accessing the hyperfine splitting in highly charged
+  helium-like ions via angle-resolved x-ray spectroscopic analysis</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Stephan Fritzsche, Zhongwen Wu</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d42de95c81a24e8e828fbd2e4d17319c">FR-4</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>REGLIS3: Rare Elements in-Gas Laser Ionization and
+  Spectroscopy at S<sup>3</sup></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xavier Fléchard, B. Bastin, P. Creemers, P. de Groote,
+  P. Delahaye, R. Ferrer, S. Franchoo, L. P. Gafney, L. Ghys, W. Gins, M.
+  Herbane, M. Huyse, Yu. Kudryavtsev, N. Lecesne, Y. Martinez, E. Mogilevskyi,
+  J. Piot, S. Raeder, H. Savajol, S. Sels, J.-C. Thomas, E. Traykov, C. Van
+  Beveren, P. Van den Bergh, P. Van Duppen, A. Zadvornaya</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8a27ef0ac8974be5a5d2f6d0440aa3c6">FR-5</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photoionization of Ne<sup>+</sup> ions and Ne atoms
+  near the K edge</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Alfred Mueller, Dietrich Bernhardt, Alexander Borovik
+  Jr., Ticia Buhr, Jonas Hellhund, Kristof Holste, Arthur Lewis David Kilcoyne,
+  Stephan Klumpp, Michael Martins, Sandor Ricz, Jörn Seltmann, Jens Viefhaus,
+  Stefan Schippers</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/984028f4dc794ef4889012ad3754d4f6">FR-6</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Impact of laser polarization on spectra of Eu 4f<sup>7</sup>6p<sub>3/2
+  </sub>nl autoionizing states</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=DE style='mso-ansi-language:DE'>Chang-jian
+  Dai, Xin-xin Chang , Jing Wang</span></i><span lang=DE style='mso-ansi-language:
+  DE'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/404977edbdf249878e838e9305b09a18">FR-7</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Studying Cold Potassium Rydberg Atoms with an AC-MOT</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Matthew Harvey, John Agomuo, Ahmad Sakaamini, Andrew
+  Murray</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8c5e3a33fbbc46c896b292a4057b0a8d">FR-8</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Critical free electron densities and temperatures for
+  spectrum lines in hot and dense plasmas</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=DE style='mso-ansi-language:DE'>Xiang-Fu Li,
+  Gang Jiang, Lu-You Xie</span></i><span lang=DE style='mso-ansi-language:DE'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/df131fa936cd49d18ecceb7f53452491">FR-9</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>High precision laser spectroscopy of Li-like Kr<sup>33+</sup>
+  at 136eV and perspectives for hyperfine structure studies at highest Z with
+  FLASH</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Günter Brenner, Sven Bernitt, Michael Blessenohl, André
+  Cieluch, Stepan Dobrodey, Zachary Hockenbery, Steffen Kühn, Janko Nauta,
+  Miguel-Angel Sanchez, René Steinbrügge, Sascha Epp, José Ramon Crespo
+  López-Urrutia</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3778f078d9894cdf80789e569976bb8c">FR-10</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Infrared Photodetachment Spectroscopy Measurement of
+  the Electron Affinity of Gallium and the Fine Structure of <st1:State w:st="on"><st1:place
+   w:st="on">Ga<sup>–</sup></st1:place></st1:State> </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>N.D. Gibson, C.W. Walter, C.T. Crocker, W. Nakayama, J.
+  Wang, J.N. Yukich</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/927e97d61c7a4f6d8cd97a41e596738c">FR-11</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Evolution analysis of EUV radiation from laser-produced
+  tin plasmas</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Maogen Su, Qi Min, Shiquan Cao, Duixiong Sun, P Hayden,
+  Gerry O'Sullivan, Chenzhong Dong</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2d6525a01846437f943a73257407a9ed">FR-12</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Radiative lifetime of metastable Xe<sup>3+</sup>
+  measured using an electrostatic ion beam trap</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Manabu Saito, Asahi Chikaoka, Takuya Majima, Makoto
+  Imai, Hidetsugu Tsuchida</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/010be8c98ccb421ea21381ba1a5f464a">FR-13</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Hyperfine stark shifts of ground states of <sup>87, 85</sup>Rb</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xia Wang, Jun Jiang, Luyou Xie, Denghong Zhang,
+  Chenzhong Dong</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/359e24756efd4e89a80a7bf737c29f7e">FR-14</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Magic wavelengths for the 6s<sup>2</sup> <sup>1</sup>S<sub>0</sub>
+  - 6s6p <sup>3</sup>P<sub>1</sub> transition in ytterbium atom</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Zhiming Tang, Yanmei Yu, Jiguang Li, Chenzhong Dong</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6fe5c0401ca948098e1a2b3284e15b54">FR-15</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Lifetimes of bound excited states of Pt<sup>-</sup></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Kiattichart Chartkunchand, Magdalena Kamińska, Emma K
+  Anderson, Moa K Kristiansson, Gustav Eklund, Odd M Hole, Rodrigo F
+  Nascimento, Mikael Blom, Mikael Björkhage, Anders Källberg, Patrik Löfgren,
+  Peter Reinhed, Stefan Rosén, Ansgar Simonsson, Richard D Thomas, Sven Mannervik,
+  Vernon T Davis, Paul A Neill, Jeffrey S Thompson, Dag Hanstorp, Henning
+  Zettergren, Henrik Cederquist, Henning T Schmidt</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1bd5512f14d4455a93bd569bb77ad6bc">FR-16</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Lamb shifts and many-body effects in neutral atoms</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jacinda Ginges, Julian Berengut</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e941f05f877b4fa7b81e4149e0419b9b">FR-17</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Analytical Property of Scattering Matrix: Spectroscopy
+  Phenomena and Sharp Overlapping Autoionization Resonances</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Rui Jin, Xiao-Ying Han, Xiang Gao, De-Ling Zeng,
+  Jia-Ming Li</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/012af72cb399452485051d6252300794">FR-18</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Laser cooling and spectroscopy of trapped isotope ions
+  injected through Mass Spectrometer</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Shuichi Hasegawa, </i><i style='mso-bidi-font-style:
+  normal'>Kyunhung Jung, Yoshihiro Iwata, Kazuhiro Yamamoto, Yuta Yamamoto,
+  Masabumi Miyabe, Ikuo Wakaida</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7c72ebdb69f5478bb98f3db4e102a72b">FR-19</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Observation of the 1S - 2S transition in trapped
+  antihydrogen</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Stefan Eriksson</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ffce0cc851f94e1982ae20d92cfca8ba">FR-20</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Extended Calculations of Spectroscopic Data for
+  Highly-Charged Ions: Comparison study using MCDHF and RMBPT methods</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Chong-yang Chen, Kai Wang, Ran Si, Chun-Yu Zhang,
+  Yao-Wu Liu, Shuang Li, Xue-Ling Guo, Yan Jun</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:43'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7baedffb7dd24d0b95803bcdbaf21fc7">FR-22</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Lamb shift measurement of antihydrogen for determining
+  the charge radius of antiproton and a stringent test of CPT symmetry</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Naofumi Kuroda, </i><i style='mso-bidi-font-style:normal'>David
+  A. Cooke, Paolo Crivelli, Hiroyuki Higaki, Gianluca Janka, Yasuyuki Matsuda,
+  Balint Radics, Christian Regenfus<o:p></o:p></i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>2. Photon - Molecule (strong field and ultrafast phenomena)</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5f11428a7c5a4462871942faaa3899fc">FR-23</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The possibility for calibrating laser intensity in
+  strong-field-ionization experiments</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Song-Feng Zhao, Anh-Thu Le, Cheng Jin, Xu Wang,
+  Xiao-Xin Zhou, Chii-Dong Lin</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/79fc0717320844b4b1569e8fa2b583d8">FR-24</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Attosecond time delay in harmonic emissions of H<sub>2</sub>
+  and D<sub>2</sub> </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mumta Hena Mustary, Dane Edward Laban, James Barry
+  Oszko Wood, Igor Litvityuk, Robert Sang</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/764745477358448bb716a6d04d4149bb">FR-25</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Observation quasi-periodic structures of laser-air
+  plasma</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xiao-xin Zhou, Zhi-Hong Jiao, Yan-Lei Zuo</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bede959a897b4f38b1b49e6023d51211">FR-26</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Reveal multi-channel dynamics from high-harmonic and
+  terahertz-wave spectroscopy (HATS)</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yindong Huang, Chao Meng, Jing Zhao, Xiaowei Wang,
+  Zhihui Lv, Dongwen Zhang, Jianmin Yuan, Zengxiu Zhao</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/459eeaa990c448aba92b884b7ac86038">FR-27</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Ionization with tailored laser fields from
+  multi-harmonic field synthesizer</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Christian Burger, Wilhelm Frisch, Boris Bergues, Pawel
+  Wnuk, Matthias Kling</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0c77e4918ce94838b4e4193ad2e80eb3">FR-28</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Nanoplasma formed by an ultrashort hard x-ray pulse in
+  Xe clusters</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>&nbsp;<o:p></o:p></i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>Y. Kumagai, H. Fukuzawa,
+  † , K. Motomura, D. Iablonskyi , K. Nagaya, S. Wada, Y. Ito, T. Takanashi, Y.
+  Sakakibara, D. You, T. Nishiyama, K. Asa, Y. Sato, T. Umemoto, K. Kariyazono,
+  E. Kukk, K. Kooser, C. Nicolas, C. Miron, T. Asave, L. Neagu, M. Schöffler,
+  G. Kastirke, X-J Liu, S. Owada, T. Katayama, T. Togashi, K. Tono, M. Yabashi,
+  K. Gokhberg, L. S. Cederbaum, A.I. Kuleff, and <span style='mso-bidi-font-style:
+  italic'>Kiyoshi Ueda</span><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6df5c808c61045a5a33f88d85c696db1">FR-29</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Charge migration dynamics after xuv photo excitation of
+  small iodine containing molecules</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Karolin Mertens, Maximilian Hollstein, Kay Bestmann,
+  Stephan Klumpp, Daniela Pfannkuche, Michael Martins</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/863b5098cc6c4afeaacd66ebbbdacd6c">FR-30</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Time-resolved measurement of Interatomic Coulombic
+  Decay in small helium clusters</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Max Kircher</i><i style='mso-bidi-font-style:normal'>
+  F. Trinter, M. Weller, J. B. Williams, N. Sisourat, S. Kazandjian, M. Waitz,
+  C. Goihl, A. Hartung, H. Sann, A. Schottelius, G. Kastirke, M. Pitzer, D.
+  You, T. Deselaers, Y. Herrmann, M. Tia, M. Schöffler, R. Dörner, T. Jahnke<o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c4bdd50f7e2642dab37ae6b6ab8dc382">FR-31</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Intense-Field Photoionization of Molecules using
+  Ultrashort Radiation Pulses: REMPI in Toluene, Aniline, Phenol, and Fluorobenzene</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Cornelis Uiterwaal, Joshua Beck, Collin McAcy, Timothy
+  Scarborough</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6b968ec4de0746d2bf5500e448d42129">FR-32</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Femtosecond dynamics of correlated many-body states in
+  C<sub>60</sub> fullerenes</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sergey Usenko, Michael Schueler, Armin Azima, Markus
+  Jakob, Leslie Lazzarino, Yaroslav Pavlyukh, Andreas Przystawik, Markus
+  Drescher, Tim Laarmann, Jamal Berakdar</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/68e8a63537474ce1b6c2120fff9769b6">FR-33</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Self-consistent 2D-Bohmian description of photoelectron
+  holography</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Baptiste Fabre, Bernard Pons</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/35911df9afe5461386d3b8925533c577">FR-34</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dissociative ionization processes of D<sub>2</sub>
+  molecule investigated with a-few-pulse attosecond pulse train</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Tomoya Okino, Yasuo Nabekawa, Katsumi Midorikawa</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/70701f5bda9e4cf9b08d83ea8bc9c3af">FR-35</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Effect of hydrogen bond on the charge transfer dynamics
+  in the excited state of coumarin 343: experimental and theoretical study</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>XiaoChun Liu, Hang Yin, Hui Li, DaJun Ding, Ying Shi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3d3e8426083546b1b4facee122cd39bb">FR-36</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Diffractive Imaging of Coherent Nuclear Motion in I<sub>2</sub></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Chaochao Qin and </i>Yuhai Jiang</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a7c4bd376ee54af09ea0b336f50ab020">FR-37</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>High-Harmonic Generation from Aligned N<sub>2 </sub>Molecules
+  Reveals Angle-Resolved Molecular Structures</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ri Ma, Dajun Ding</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/127eb92aea4341b98910e55a6d5d4fa3">FR-39</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Enhanced ionization of C<sub>2</sub>H<sub>2</sub> as a
+  function of CC inter-nuclear separation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=PT-BR style='mso-ansi-language:PT-BR'>Atia
+  Tul Noor</span></i><span lang=PT-BR style='mso-ansi-language:PT-BR'>, <i
+  style='mso-bidi-font-style:normal'>Han Xu , Nida Harem, Robert Sang, I.V.
+  Litvinyuk</i><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/af1ca87abbaa4c00bdad2b6bf046fed9">FR-40</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Site-specific production of H3<sup>+</sup> by core
+  ionization of CH<sub>3</sub>Cl</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Hikaru Fujise, Hiroshi Iwayama, Eiji Shigemasa</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/76a84d4254b24771ab0f578f7071e3c0">FR-41</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Nonlinear resonant Auger spectra and transient x-ray
+  absorption spectra in CO using an x-ray pump-control scheme</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=DE style='mso-ansi-language:DE'>Song Bin
+  Zhang, Victor Kimberg, Nina Rohringer</span></i><span lang=DE
+  style='mso-ansi-language:DE'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2e9b34ce917947cbaa033b69abd7d119">FR-42</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Stereochemical configuration and selective excitation
+  of the chiral molecule halothane</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>Martin Pitzer, Gregor Kastirke, Phillip Burzinsky, Miriam
+  Weller, Daniel Metz, Jonathan Neff, Markus Waitz, Florian Trinter, Lothar Ph
+  H Schmidt, Joshua B Williams, Till Jahnke, Horst Schmidt-Böcking, Robert
+  Berger, Reinhard Dörner and<i> Markus Schöffler</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0189c7a0113649e59037dc1710213efa">FR-43</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Laser-Induced Oxygen Formation from Carbon Dioxide</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Seyedreza Larimian, Sonia Erattupuzha, Markus Schöffler,
+  Sebastian Mai, Philipp Marquetand, Leticia González, Andrius Baltuška, Markus
+  Kitzler, Xinhua Xie</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c0517893744240aead7f990d9a3b1fd8">FR-44</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Static Exchange in the High-harmonic Generation of N<sub>2</sub></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yan Yang,</i> <i style='mso-bidi-font-style:normal'>Lu
+  Liu and Zengxiu Zhao</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/751d76cbb2ec4400b16435d55c73b129">FR-45</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dissociation of H<sub>2</sub><sup>+</sup> in strong
+  inhomogeneous near-fields</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ilhan Yavuz, Marcelo F. Ciappina, Alexis Chacon, Zikri
+  Altun, M. Lewenstein, Matthias F. Kling</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3c8803c310bb458ab509402ea132f02d">FR-46</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Control of H<sub>2</sub> and D<sub>2</sub> dissociative
+  ionization in the non-linear regime using EUV femtosecond pulses @FERMI</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Fabian Holzmeier, Marius Hervé, Alexander Achner,
+  Thomas Baumann, Michael Meyer, Michele Di Fraia, Paola Finetti, Oksana Plekan,
+  Robert Richter, Carlo Callegari, Kevin C. Prince, David Gauthier, Eleonore
+  Roussel, Roger Bello, Alicia Palacios, Fernando Martín, Henri Bachau,
+  Danielle Dowek</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0ec34bf47b1c42278f6d6304b95414eb">FR-47</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Structural retrieval of C<sub>2</sub>H<sub>4</sub>
+  molecules by laser induced rescattering photoelectron spectroscopy</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yuta Ito, Richard Carranza, Misaki Okunishi, Robert R.
+  Lucchese, Kiyoshi Ueda</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e805146f9ec34a81aff1bafb1257c181">FR-48</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Intramolecular interference effects in photoelectron
+  momentum distributions arising due to strong-field molecular ionization</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Vladimir Usachenko, Pavel Pyak</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c889dfda4a0b475eb2053cb1c0086447">FR-49</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Theory of X-ray photoelectron diffraction from
+  molecules undergoing an ultrafast photochemical reaction</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Shota Tsuru, Tokuei Sako, Takashi Fujikawa, Akira
+  Yagishita</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c3dc662ff3bc4c389c60488734fc4ae8">FR-50</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Orientation-selective molecular tunneling ionization by
+  four-color Fourier-synthesized laser fields</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Hideki Ohmura</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d72e168ca61142f180beb86b3e3a4e07">FR-51</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Observation of molecular rotation during femtosecond
+  laser filamentation in air by a pump-probe longitudinal diffraction method</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Qingyi Li, Suyu Li, Anmin Chen, Laizhi Sui, Yuanfei
+  Jiang, Mingxing Jin</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1f73c6b475ea4a18a38474b4b91ea1f0">FR-52</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Studying Molecular Structure and Dynamics via Coulomb
+  Explosion Imaging with X-rays and Ultrafast Laser Pulses</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Utuq Ablikim, Cedric Bomme, Evgeny Savelyev, Hui Xiong,
+  Razib Obaid, Balram Kaderiya, Sven Augustin, Ileana Dumitriu, Rene Bilodeau,
+  David Kilcoyne, Vinod Kumarappan, Rajesh Kushawaha, Farzaneh Ziaee, Timur
+  Osipov, Artem Rudenko, Nora Berrah, Daniel Rolles</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:61'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c3350fdcdbbe43258ef5ce81b45517c4">FR-53</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Laser polarization effect on nitrogen fluorescence
+  emission induced by femtosecond filament in air</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:62'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Suyu Li, Anmin Chen, Yuanfei Jiang, Hang Liu, Mingxing
+  Jin</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:63'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ac519feae377417c93d3fbc1b0e6c1c8">FR-54</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Strong Field dissociative ionization of D<sub>2</sub><sup>+</sup></b><sup><o:p></o:p></sup></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sándor Borbély, Attila Tóth, Gábor József Halász, Ágnes
+  Vibók</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:65'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b5f243e2a8134754bbc35ca8e63ed56b">FR-55</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Hybrid Basis Close-Coupling Interface to Quantum
+  Chemistry Packages for the Treatment of Ionization Problems</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:66'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=ES style='mso-ansi-language:ES'>Carlos Marante,
+  Inés Corral, Luca Argenti, Fernando Martin, Markus Klinker, Jesús
+  González-Vázquez</span></i><span lang=ES style='mso-ansi-language:ES'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:67'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/534984d7740e463e8dbdf6e91aaeceea">FR-56</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Mapping the Evolution of the Coherent Vibrational
+  Wavepacket of Molecules</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:68'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Bing Zhang, <span style='mso-bidi-font-weight:bold'>Shuai
+  Li, Xinli Song, Ying Tang, Bing Zhang</span><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:69'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d59edd3d648348bca0db0e23920decc3">FR-57</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Ultrafast dynamics in CO<sub>2</sub> studied by
+  XUV-pump – NIR-probe experiments</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:70'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Seyyed Javad Robatjazi, Shashank Pathak, W. Lee
+  Pearson, Kanaka Raju Pandiri, Jeffrey Powell, Xiang Li, Balram Kaderiya, Itzhik
+  Ben-Itzhak, Daniel Rolles, Artem Rudenko</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:73'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/064fac42a2d54a81a2bc7e441219cf65">FR-59</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Contribution of resonance excitation on ionization of
+  OCS molecules in a strong laser field </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:74'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jiaqi Yu, Wenhui Hu, Lanhai He, Chuncheng Wang, Sizuo
+  Luo, Dajun Ding</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:75'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3ce7f5356b3a495286dbbcbcdacfb7aa">FR-60</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Two-color wavemixing in Secondary Ion Mass Spectrometry</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:76'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Dusan Lorenc, Monika Jerigova, Dusan Velic</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:77'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6ae5a10a7c8a4b899117bc9dd06d52c3">FR-61</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Adaptive Control-based Femtosecond Laser
+  Post-ionization in Secondary Neu-tral Mass Spectrometry</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:78'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Dusan Velic, Dusan Lorenc, Monika Jerigova, Monika
+  Stupavska</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:79'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5eeedba9b9fd4a5c9fc1a71c62827e06">FR-62</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Mapping the secondary neutral emission in Secondary Ion
+  Mass Spectrometry</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:80'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Monika Jerigova, Dusan Lorenc, Dusan Velic</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:81'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/acf2bd8d407c484d83f45a0ac35854bf">FR-63</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>THz Streaking of the Autoionization Dynamics of O<sub>2</sub>
+  at the Free-Electron-Laser FLASH</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:82;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yifan Liu, Kirsten Schnorr , Georg Schmid , Sven
+  Augustin, Severin Meister , Hannes Lindenblatt , Artem Rudenko, Matthias
+  Kübel, Christian Burger, Nikola Stojanovic , Rolf Treusch , Stefan Düsterer ,
+  Till Jahnke, Matthias Kling , Claus Dieter Schröter , Thomas Pfeifer , Robert
+  Moshammer </i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>5. Lepton - Atom/Ion</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7d51a7013d464069b284d86f9bf9fe95">FR-64</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Spin entanglement in elastic electron scattering from
+  quasi-one electron atoms</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Klaus Bartschat, Samantha Fonseca dos Santos</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/fa528c3ee9e645929bce9a6559aa6f8c">FR-65</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Novel mechanism for creating long-lived metastable
+  atomic negative ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Zineb Felfli, Alfred Msezane</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d2dc0efce27b4aaab2714053f7684f39">FR-66</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Simulating Low Temperature Maxwellian Plasma using
+  SH-HtscEBIT</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Bingsheng Tu, Meichun Li, Zhongzheng Zhao, Yang Shen, Yang
+  Yang, Di Lu, Jun Xiao, Chongyang Chen, Roger Hutton, Yaming Zou</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/49942e83661a4cd8af18a40c376cf054">FR-68</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Low-Cost Computer-Controlled Power Supplies for
+  Optimization and Control of Electron Spectrometers</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ahmad Sakaamini, Matthew Harvey, Andrew Murray</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bf34784c3c5d4d2eb815e7b3a50bff02">FR-69</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Many-body theory of positronium-atom scattering and
+  pick-off annihilation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Dermot Green, A. R. Swann, G. F. Gribakin</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8aec1833a6914853a9e364a1ebc0e52d">FR-70</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Positronium formation in positron-hydrogen collisions
+  in Debye plasma</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jia Ma, Yuancheng Wang</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e7fde0ae0c40448d9c5f7b26b497cb07">FR-71</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Positronium formation in positron-lithium collisions
+  with Debye potentials</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yuancheng Wang, Jia Ma, Liguang Jiao, Yajun Zhou</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a903ee5b62174104bfc1312ff93483d5">FR-72</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Collisional-radiative model for EUV spectra of Pm-like
+  ions in EBIT</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=Default><i>Daiji Kato, </i>Hiroyuki A. Sakaue, Izumi Murakami, and
+  Nobuyuki Nakamura</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/4ea65734bdd247848d04c8917c05d4a8">FR-73</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Visible M1 transitions in 4f open shell heavy ions observed
+  with an electron beam ion trap</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Shunichi
+  Murata, Takayuki Nakajima, Marianna Safronova, Ulyana Safronova, Nobuyuki
+  Nakamura</span></i><span lang=IT style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/9e53c391cd9b41cfa9445c312fc9d0dd">FR-74</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Resonant excitation of highly charged Fe ions observed
+  with a compact electron beam ion trap</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Takashi Tsuda, Erina Shimizu, Safdar Ali, Hiroyuki
+  Sakaue, Daiji Kato, Izumi Murakami, Hirohisa Hara, Tetsuya Watanabe, Nobuyuki
+  Nakamura</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5e200fe5505647738ab167c656c91b52">FR-75</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Cross sections for electrons scattering from silver at
+  low energies</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Harsh Mohan</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/47beceb7e39b40888a4f554992e84128">FR-76</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Measurements of time-resolved EUV spectra for studying
+  the population kinetics in an electron beam ion trap plasma</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Masashi Monobe, Daiji Kato, Nobuyuki Nakamura</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bee65eafc7ff4f93b5d970c61471f6fd">FR-77</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Extreme ultraviolet spectra of multiply charged
+  tungsten ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Momoe Mita, Hiroyuki Sakaue, Daiji Kato, Izumi
+  Murakami, Nobuyuki Nakamura</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d7dc7e9fcd8441cf989894cbd7008098">FR-78</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Vortex rings in the ionization of atoms by positron
+  impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=ES style='mso-ansi-language:ES'>Francisco
+  Navarrete, Raul Oscar Barrachina</span></i><span lang=ES style='mso-ansi-language:
+  ES'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bf71437112354900953e665be425c215">FR-79</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dielectronic Recombination Rate Coefficient of Si-like
+  ions Ni<sup>14+</sup></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Altun Zikri, Erdi Bleda</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a05087d3dfb94cb2bd27486c02f08087">FR-80</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron-impact ionization cross-sections and rate
+  coefficients for the Si-like ions Se<sup>20+</sup></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Altun Zikri, Erdi Bleda</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b7be3cca88574b669514e2c2d5181094">FR-81</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The AC-MOT Cold Atom Electron Source (CAES</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Michael Jones, Matthew Harvey, William Bertsche,
+  Guoxing Xia, Swapan Chattopadhyay, Andrew Murray, Robert Appleby</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/274248e8bc114130ac16ff91c31c3869">FR-82</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Effect of exchange and absorption potentials in
+  distorted wave calculations for electron impact excitation of autoionizing states
+  of alkali atoms</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Chandra Singh, Aguyo Ochieng, Vincent Agutu, John Okumu</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/cbf34827b565496a8d45d21c26196c7a">FR-83</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Ionization of rubidium by electron impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Karoly Tokesi, Takeshi Mukoyama</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/524ad2343c5b496b819670f7931f6fd7">FR-84</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dielectronic Recombination of Tungsten Ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Bowen Li, Gerry O'Sullivan, Chenzhong Dong, Yang Li,
+  Xiaokai Xu, Ximeng Chen</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ca3d2479a887427d8cc57f997e931098">FR-85</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Absolute excitation-emission cross section of electron
+  induced argon excitation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Juraj Országh, Michal Durian, Stefan Matejcik</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8625411855f04e7da1e94a84e14174d8">FR-86</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Measurement of the Integrated Stokes Parameters for Zn
+  468 nm Florescence Excited by Polarized-Electron Impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Nathan Clayburn, Timothy Gay</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/078ce088c3b04db090dc09ded03b8618">FR-88</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The Tungsten Project: A complete set of isonuclear
+  dielectronic recombination rate coefficients for use in magnetically confined
+  fusion plasmas</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Simon
+  Preval, Nigel Badnell, Martin O'Mullane</span></i><span lang=IT
+  style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/4642045d53834801a5f5c0cfb5f93b81">FR-89</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dielectronic resonances in highly-charged heavy ions
+  observed in ion traps</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Alexander Borovik, Joan Dreiling, Roshani Silwal, Dipti
+  Dipti, Endre Takács, John Gillaspy, Ramaz Lomsandze, Vladimir Ovsyannikov,
+  Kurt Huber, Stefan Schippers, Alfred Müller, Yuri Ralchenko</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a08056be488d41c1a50644f5868513e2">FR-90</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Guiding of high-current electron beam by
+  macro-insulating units</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mingwu Zhang, Yingli Xue, Xin Li, Junliang Liu, Bian
+  Yang, Wei Wang, Yipan Guo, Wei Xi, Xiaona Zhu, Liping Yang, Deyang Yu, Caojie
+  Shao, Xiaohong Cai</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/dcbd5109dcec4de79e129f406578bbe0">FR-91</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Ionization of noble gases by positron impact -
+  threshold studies and progress towards a “complete” experiment</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Tamara Babij, <span style='mso-bidi-font-weight:bold'>J.
+  R. Machacek, D. J. Murtagh, E. Knudsen, D. W. Mueller, S. J. Buckman, J. P.
+  Sullivan</span><o:p></o:p></i></p>
+  </td>
+ </tr>
+ 
+ 
+ <tr style='mso-yfti-irow:59'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0f1daca6b7064dfb9fb72d7febeb9831">FR-93</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Emission line spectra of the 2s-2p transitions of S
+  VIII-S XIII in the extreme ul-traviolet region 160–300 Å</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Safdar Ali, Hiroyuki Kato, Nobuyuki Nakamura<o:p></o:p></i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>9 Havy Particle - Atom/Ion</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bee9b5b1db804502b2492db22c952b15">FR-94</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>MeV ion beam extraction into air with a glass capillary
+  filled with He</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Moemi Asamura, Kunikazu Ishii, Hidemi Ogawa</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0b87f5a510c842bd99263ea92b4400b2">FR-95</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Stereoscopic collisions of MeV molecular ion with atom
+  and molecule</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Misaki Masatsugu, Ai Takahashi, Kunikazu Ishii, Hidemi
+  Ogawa</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b2f59f2408f04f8ea3a912da0ff99837">FR-96</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Time-dependent quantum wave packet dynamics to study
+  charge transfer in heavy particle collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=DE style='mso-ansi-language:DE'>Song Bin
+  Zhang, Yong Wu, Jian Guo Wang</span></i><span lang=DE style='mso-ansi-language:
+  DE'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5fe6a6f8f3154a5db5ad24846d3f9d5f">FR-97</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>SPARC experiments with highly charged ions at the HESR
+  of FAIR</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Oleksandr Kovalenko, Yuri Litvinov, Thomas Stöhlker</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a15b7e395710423ca9a101091d614a95">FR-98</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Influence of nuclear interaction on atomic ionization
+  during ion-atom collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Prashant Sharma, Tapan Nandi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/aa3a0cee66f04d42ba314670be3518c0">FR-99</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Polarisabilities and long-range atom-atom interactions
+  of atoms and ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Michael Bromley, Swaantje Grunefeld, Jun Jiang, Yongjun
+  Cheng, Jim Mitroy</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/63e58db51682463cb4b994ec16ab5d28">FR-100</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Radiative electron capture: a tool for studying the
+  charge changing processes during the Heavy ion-atom collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Prashant Sharma, Tapan Nandi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7fb4635eb1af4242989006af15fde7e6">FR-101</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Effects of autoionization in electron loss from
+  helium-like highly charged ions in fast collisions with light atoms</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Konstantin Lyashchenko, Oleg Andreev, Alexander Voitkiv</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/58005d041c1c4d63a900e8be498e2ad7">FR-102</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Storage test of a table-top electrostatic ion storage
+  ring</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jun Matsumoto, Ryujiro Saiba, Haruo Shiromaru</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/01b78bb352c24dac818696920edc92d2">FR-103</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>State-selective electron capture in He<sup>+</sup> + He
+  collisions at intermediate energies</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Dalong Guo, Xinwen Ma, Ruitian Zhang, Shaofeng Zhang,
+  Xiaolong Zhu, Wentian Feng, Yong Gao, Bang Hai, Min Zhang, Hanbing Wang,
+  Zhongkui Huang</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/47848bbb193f4960a7a52e7113b4faa3">FR-104</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Relativistic coupled-channel calculations of
+  differential ionization cross sections</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Andrey I Bondarev, Yury S Kozhedub, Ilya I Tupitsyn,
+  Vladimir M Shabaev, Guenter Plunien</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/728252f90a3b4068b6fa54b70a3f8bc9">FR-105</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Frontiers of atomic physics with highly charged heavy
+  ions at HIAF</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xinwen Ma, Weiqiang Wen, Shaofeng Zhang, Zhongkui
+  Huang, Hanbing Wang, Jie Yang, Xiaolong Zhu, Rui Cheng, Xiaohong Cai, Lijun
+  Mao, Jiancheng Yang, Lina Sheng, Bo Wu, Xiaohong Zhou, Hushan Xu, Youjin
+  Yuan, Jiawen Xia, Hongwei Zhao, Guoqing Xiao, Wenlong Zhan</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c9ae526895284f60b5063f686b93bee3">FR-106</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electromagnetic non-destructive detectors for storage
+  rings</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Shahab Sanjari, Yuri A. Litvinov, Thomas Stöhlker</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/24c3d8394e2342028b544bdffdd995a1">FR-107</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Proton and alpha capture studies for nuclear astrophysics
+  at GSI storage rings</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jan Glorius, Yuri Litvinov, Christoph Langer, Zuzana
+  Slavkovska, René Reifarth</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/442644c598a84bf3a9e6af920c1477aa">FR-108</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Wave-packet continuum-discretisation approach to helium
+  single ionisation by energetic protons</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ilkhom Abdurakhmanov, Alisher Kadyrov, Igor Bray</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8df1f395c8504f3fb33b67f21a56e2b4">FR-109</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Molecular effects in M-shell ionization by slow light
+  ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Marek Pajek, Dariusz Banaś, Łukasz Jabłoński, Takeshi
+  Mukoyama</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/fe58569f93f24ab8bd9ce5c408a577eb">FR-110</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron-positron pair creation in collisions of heavy
+  bare nuclei: One-center approach</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ilia Maltsev, Roman Popov, Andrey Bondarev, Irina
+  Ivanova, Yury Kozhedub, Vladimir Shabaev, Ilya Tupitsyn, Xinwen Ma, Guenter
+  Plunien, Thomas Stöhlker</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/169a6fb382b14101a984ad3fca13dfed">FR-111</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Pair creation in low-energy collisions of heavy nuclei
+  beyond the monopole approximation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ilia Maltsev, Vladimir Shabaev</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/502be8aba8a14956846b5946601096fb">FR-112</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Experimental and Theoretical Study of Projectile
+  Coherence Effects in Ionization of Helium by Ion Impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Michael Schulz, Thusitha Arthanayaka, Basu Lamicchane,
+  Ahmad Hasan, Daniel Fischer, Sandor Borbély, Ferenc Járai-Szabó, Ladislau
+  Nagy</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e15f6bc91a21408ebea2346fb4ef718f">FR-113</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>He<sup>+</sup>-He collisions described within a
+  time-dependent spin-density functional theory approach </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=DE style='mso-ansi-language:DE'>Matthew
+  Baxter, Tom Kirchner, Eberhard Engel</span></i><span lang=DE
+  style='mso-ansi-language:DE'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bdea3683aadf480ea53b611119de259c">FR-114</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Numerical Simulations of purification and final charge
+  state analysis of the slow ion beam for the FISIC project</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ajit Kumar, Alain Méry, Lamri Adoui, Jean-Yves Chesnel,
+  Anna Levy, Stéphane Macé, Christophe Prigent, Jean-Marc Ramillon, Jimmy
+  Rangama, Jean-Pierre Rozet, Patrick Rousseau, Sébastien Steydli, Martino
+  Trassinelli, Dominique Vernhet, Emily Lamour</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/901919fb44e64cefa600b9eb3a768cdc">FR-115</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Uncertainty Quantification of theoretical atomic and
+  molecular collisional data</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Hyun Kyung Chung, B. J. Braams, K. Bartschat, A. G.
+  Császár, G. W. F. Drake, T. Kirchner, V. Kokoouline, J. Tennyson</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d2ec2979d7644f5186fe28a8a2759e7a">FR-116</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Energy straggling cross section for antiproton-atom
+  collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>Xiao-min Tong,
+  Sandor Borbely, Iva Brezinova, F. Lackner, S. Nagele, J. Feist, L. Nagy, K.
+  Tokesi, N. Toshima, J. Burgdorfer</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/73209a9960ab49e0b4cb021c7aa9c542">FR-117</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The role of angular momentum in the spontaneous decay
+  of small copper cluster anions measured on long timescales at DESIREE</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mark Stockett, Klavs Hansen, Magdalena Kaminska, Rodrigo
+  Nascimento, Emma Anderson, Michael Gatchell, Kiattichart Chartkunchand,
+  Gustav Eklund, Henning Zettergren, Henning Schmidt, Henrik Cederquist</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/fd8054d4c0d84dd2809be229c851c35b">FR-118</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Mutual Neutralization Studies of O<sup>−</sup> and N<sup>+</sup>/O<sup>+</sup>
+  ions at Subthermal Collision Energies</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mark Stockett, Nathalie de Ruette, Arnaud Dochain,
+  Magdalena Kaminska, Thibaut Launoy, Rodrigo Nascimento, Henning Schmidt,
+  Henrik Cederquist, Xavier Urbain</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1f0785c1196146bebb604b2375b3f493">FR-119</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Two-centre convergent close-coupling approach to
+  scattering of multiply-charged ions on atomic hydrogen</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Alisher Kadyrov, Ilkhom Abdurakhmanov, Joshua Faulkner,
+  Kym Massen-Hane, Igor Bray</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5f48070d37ac4f5790d83b3d7c667fc0">FR-120</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Exploring different momentum-transfer regimes in
+  proton-helium collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Antonio
+  Gómez, Marcelo Ambrosio, Lorenzo Ancarani, Darío Mitnik</span></i><span
+  lang=IT style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6673ce688cec4443a7e452ddda1a0c62">FR-121</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Helium double ionization by neutronic impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Antonio Gómez, Marcelo Ambrosio, Darío Mitnik, Lorenzo
+  Ancarani</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c1bf08741062495994af0884cc75b3e1">FR-122</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Upgrade of the Main Magnetic Focus Ion Trap in <st1:City
+  w:st="on"><st1:place w:st="on">Giessen</st1:place></st1:City></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=DE style='mso-ansi-language:DE'>Marc Keil,
+  Stefan Schippers, Alfred Müller, Alexander Borovik</span></i><span lang=DE
+  style='mso-ansi-language:DE'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/998a0cabbd4549da964097555007b6e8">FR-123</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Charge-exchange, ionization and excitation processes in
+  low-energy Li<sup>+</sup>−Ar, K<sup>+</sup>− Ar, and Na<sup>+</sup>−He
+  collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ramaz Lomsadze, Malkhaz Gochitashvili, Giorgi Takadze,
+  Roman Kezerashvili, Michael Schulz</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:61'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c512e6df68de42ca96c39ccfe0723e7a">FR-124</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Cold highly charged ions for highest precision
+  spectroscopy</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:62'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Lisa Schmoeger, Oscar Versolato, Maria Schwarz, Julian
+  Stark, Janko Nauta, Jofre Pedregosa, Tobias Leopold, Peter Micke, Thomas
+  Baumann, Alexander Windberger, Thomas Pfeifer, Joachim Ullrich, Piet Schmidt,
+  José Ramon Crespo López-Urrutia</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:63'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3f363240cfba42c1a9ddc9a835d08495">FR-125</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The controlled excitation of the <sup>229</sup>Th
+  nucleus via atomic processes</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Robert A. Müller, Andrey V. Volotka, Stephan Fritzsche,
+  Andrey Surzhykov</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:65'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a6ed1acf70a1408ca9dd3394ab7af8fc">FR-126</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Post collision interactions in differential and total
+  cross-sections for four-body charge transfer processes</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:66'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Malay Purkait, K Purkait, <st1:place w:st="on">S Halder</st1:place>,
+  A Mondal</i></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:65'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/77582448577644b9b5ac40d81af1f82d">FR-127</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The formation of the protonium atoms at capture of protons by the antiprotons channeled in hydrogenous crystals
+</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:66'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mykola Maksyuta, Volodymyr Vysotskii
+</i></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:65'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/87f9b75545154066907ee44b47187783">FR-128</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The investigation of a wake potential of protons channeled in an axial regime in ionic crystals
+</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:66'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mykola Maksyuta, Volodymyr Vysotskii, Yevgen Martysh
+</i></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:71'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/476d4eafefe64a758080ae0185e70973">FR-129</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Time-dependent study of laser-assisted charge transfer
+  in low energy ion-atom collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:72'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Cong-zhang GAO, Yong WU, Song-bin ZHANG, Jian-Guo WANG</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:73'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/854462bc023d470a8276afdbf86617ab">FR-130</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Stopping and charge state revolution of low-energy ion
+  beam in plasma</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:74'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yongtao Zhao, Rui Cheng, Xianming Zhou, Yuyu Wang, Yu
+  Lei, Ge Xu, Jieru Ren, Dieter Hoffmann, S. Savin, Roman Gavrilin, Alexander
+  Golubev, Zhanghu Hu, Fei Gao, Younian Wang, Guoqing Xiao</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:77'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bf279dde76bb430cbb0c8651360156bd">FR-132</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Injection of cold antiprotons for the ASACUSA
+  antihydrogen experiment</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:78'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Minori Tajima, Naofumi Kuroda, Yugo Nagata, Horst
+  Breuker, Pierre Duprè,<o:p></o:p></i></p>
+  <p class=MsoNormal><i>Tatsuhito Kobayashi, Volkhar Maeckel, Takuya Matsudate,
+  Hiroyuki A. Torii, Hiroyuki Higaki,<o:p></o:p></i></p>
+  <p class=MsoNormal><i>Yasuyuki Kanai, Yasuyuki Matsuda, Stefan Ulmer,
+  Yasunori Yamazaki<o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:79'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/05587d45d3a84300b4242a70dd679b94">FR-133</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>COLTRIMS studies on singly ionizing ion-atom
+  collisions: The roles of the projectile and target coherence</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:80'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Konstantin Kouzakov</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:81'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/60d3d07c73094f49b8a04a1eff7b6aef">FR-134</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Molecular Orbital interpretation to the couplings in
+  collisions of 2.5 and 3 MeV Xe<sup>10+, 12+ </sup>- Au and Zr systems </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:82'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Punita Verma, Kajol Chakraborty, Ruchika Gupta, Sarvesh
+  Kumar, Gaurav Sharma, Deepak Swami, Samit K. Mandal, C. P. Safvan</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:83'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6caf725210884a47bdb8f9a9503e4fd7">FR-135</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Synthesis of antihydrogen with adiabatically
+  transported cold antiprotons</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:84'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'><span
+  style='mso-bidi-font-weight:bold'>Naofumi Kuroda, Minori Tajimaa, Yugo
+  Nagata, Horst Breuker, Pierre Dupré, Tatsuhito Kobayashi, Volkhard Mäckel,
+  Takuya Matsudate, Hiroyuki A. Torii, Horoyuki Higaki , Yasuyuki Kanai,
+  Yasuyuki Matsuda, Stefan Ulmer, and Yasunori Yamazaki<o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:85'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0d1964f791824c57898b32e55b6531fd">FR-136</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Model for plasma jet-driven magneto-inertial fusion</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:86'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sergei V. Ryzhkov, Victor V. Kuzenov</i><b><o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:87'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7eaafde4ed4d4d668a581432887a213b">FR-137</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron attachment studies with
+  2,3-dimethoxy-5-methyl-1,4-benzoquinone</b><i><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:88'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=PT-BR style='mso-ansi-language:PT-BR'>Filipe
+  Ferreira Da Silva, João Ameixa, Jusuf Khreis, Stephan Denifl<o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:89'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a23f25496a114bf59119f14c55937a3b">FR-138</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Pt(CO)2Cl2 fragmentation upon low energy electron
+  interactions</b><i><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:90'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Filipe Ferreira da Silva, Rachel Thorman, Hang Lu, Lisa
+  McElwee-White, Oddur Ingolfsson<o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:91'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/69f64072e00b4e14aff02d43f8e1c78e">FR-139</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Elastic Differential Cross Sections for Electron
+  Scattering with Dichloromethane</b><i><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:92'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=PT-BR style='mso-ansi-language:PT-BR'>Emanuele
+  Lange, Katherina Kruppa, João Ameixa, Alessandra Barbosa, Diego Pastega, Paulo
+  Limão-Vieira, Marcio H. F. Bettega, F. Blanco, Gustavo García, Filipe
+  Ferreira da Silva<o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:93'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a0e3f4c4b6714a6b8abbb8a012219089">FR-140</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dissociative electron attachment to 3-bromopyruvic acid</b><i><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:94'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=PT-BR style='mso-ansi-language:PT-BR'>Filipe
+  Ferreira Da Silva, Stephan Denifl, Ilko Bald, Janina Kopyra<o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:95'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e860aff8c5e642fdbe584e791d48f4a5">FR-141</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Observation of enhanced chiral asymmetries in the
+  inner-shell photoionization of uniaxially oriented methyloxirane enantiomers<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:96'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'><span lang=DE
+  style='mso-ansi-language:DE'>G. Nalin, S. Grundmann, I. Vela-Perez, H. Kang,
+  F. Trinter, M. Schöffler, T. Jahnke and R. Dörner<span style='mso-bidi-font-style:
+  italic'><o:p></o:p></span></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:97'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c6f60cf0abc4441e9f0a1e3019fe3c74">FR-142</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>A combined gas phase and surface study on electron
+  induced decomposition of the heteronuclear FEBID precursor; CpFe(CO)<sub>2</sub>Mn(CO)<sub>5</sub></b><i
+  style='mso-bidi-font-style:normal'><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:98'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Oddur Ingolfsson, Rachel M. Thorman , Ilyas Unlu, Julie
+  Spencer, Kelsea R. Johnson, Lisa McElwee-White, Howard Fairbrother</i><i
+  style='mso-bidi-font-style:normal'><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:99'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/da73cbf9bd034a3ca73b1ecf41dc1244">FR-143</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>A combined experimental and theoretical study on
+  dissociative ionization and dissociative electron attachment to the
+  heteronuclear FEBID precursor; HFeCo<sub>3</sub>(CO)<sub>12</sub></b><i
+  style='mso-bidi-font-style:normal'><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:100'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Oddur Ingolfsson, Ragesh Kumar TP, Ragnar Bjornsson,
+  Sven Barth </i><i style='mso-bidi-font-style:normal'><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:101'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8d10f9470fb44a55b33dbd7565013392">FR-144</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron induced fragmentation and deposit formation
+  from nano-meter thin surface layers of <span class=GramE>HFeCo<sub>3</sub>(</span>CO)<sub>12</sub>
+  adsorbed on gold surfaces.</b><i style='mso-bidi-font-style:normal'><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:102'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Oddur Ingolfsson, Ragesh Kumar TP, Ilyas Unlu, D.
+  Howard Fairbrother, Sven Barth</i><i style='mso-bidi-font-style:normal'><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:103'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/f8240107d26a4c6186108f374057923a">FR-145</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Low energy ELEctron driven chemistry for the advantage
+  of emerging NAno-fabrication methods (ELENA); a Marie Skłodowska-Curie
+  Innovative Training Network.</b><i style='mso-bidi-font-style:normal'><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:104;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Oddur Ingolfsson</i><i style='mso-bidi-font-style:normal'><o:p></o:p></i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>1. Photon - Atom/Ion (strong field and ultrafast phenomena)</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b278f26f77164bc5bcc339cbbf65e492">MO-1</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Multiphoton Ionization in Counter Rotating Circularly
+  Polarized Two-Color Laser Fields</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=Default><i>Nikolai Schlott, </i>Sebastian Eckart, Maksim Kunitski,
+  Martin Richter, Lothar Ph. H. Schmidt, Markus Schöffler, Till Jahnke<span
+  style='font-size:7.0pt'> </span>and Reinhard Dörner </p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/cd3914b8b1aa4f28a3a2175948af0e36">MO-2</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photoionization Time delay of Atomic Barium</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Aarthi Ganesan, P.C. Deshmukh , A.S. Kheifets, V.K.
+  Dolmatov, S.T. Manson</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/f9ef14600d694589bc183df957c5b99c">MO-3</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The influence of gas-jet position on the macroscopic
+  high-order harmonic generation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Guoli Wang, Penghao Zhao, Xiaoxin Zhou</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5ae9187e507345c392340446d65dfd66">MO-4</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Angular dependence of Wigner-Eisenbud-Smith time delay in
+  photoionization: A case study on 4 f subshell of atomic mercury</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ankur Mandal, Pranawa Deshmukh, Valeriy Dolmatov,
+  Anatoli Kheifets, Steven Manson</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3000bd2d3756474695bcd0f98f8ec20c">MO-5</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Confinement effects and angular dependence of
+  Wigner-Eisenbud-Smith time delay</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ankur Mandal, Pranawa Deshmukh, Valeriy Dolmatov,
+  Anatoli Kheifets, Steven Manson</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0dc35883a9be4bc29e85b978c17a3acb">MO-6</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>HILITE - High-intensity laser experiments on stored
+  ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Stefan Ringleb, Nils Stallkamp, Sugam Kumar, Manuel
+  Vogel, Wolfgang Quint, Gerhard G. Paulus, Thomas Stöhlker</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/088b4a368fa94e8e816d51eef40cfd7b">MO-7</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Multi-electron effects in the photo-emission from
+  few-electron systems - He attoclock, IR-double emission, and molecular
+  ionization</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Armin Scrinzi, Vinay Pramod Majety, Jinzhen Zhu</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0c47acaf2323427fa3dc273bf5fcf90f">MO-8</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Polarization effects in above-threshold ionization of
+  Mg with a mid-infrared strong laser field</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Huipeng Kang, </i><i style='mso-bidi-font-style:normal'>SongPo
+  Xu, YanLan Wang, XuanYang Lai, Thomas Pfeifer , XiaoJun Liu, Jing Chen, Ya
+  Cheng, and ZhiZhan Xu</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b98dd38b43a5481199197070f7398642">MO-9</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Exploration of spectral and temporal fine structures of
+  high-order harmonic generation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Peng-cheng Li, Xiong-Yuan Lei, Xiao-Xin Zhou, Shih-I <st1:place
+  w:st="on">Chu</st1:place></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3c3e9acbbbd041879d98ac4254e6aabd">MO-10</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Observation and coherent control of single-photon
+  laser-enabled Auger decay using the free-electron laser FERMI</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Kenichi Ishikawa, Denys Iablonskyi, Kiyoshi Ueda,
+  Anatoli Kheifets, Giuseppe Sansone, Ant Comby, Tamas Csizmadia, Sergei Kühn,
+  Yevheniy Ovcharenko, Tommaso Mazza, Michael Meyer, Andreas Fischer, Carlo
+  Callegari, Oksana Plekan, Paola Finetti, Enrico Allaria, Luca Giannessi,
+  Kevin C Prince</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/79d52963a5444330b8706f220a5849d5">MO-11</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Study of angular dependence of photoionization time
+  delay in (n-1)d → </b><b><span style='font-family:"Cambria Math";mso-bidi-font-family:
+  "Cambria Math"'>𝜀</span>f channels for Zn, Cd and Hg </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sourav Banerjee, Pranawa Deshmukh, Anatoli Kheifets,
+  Valeriy Dolmatov, Steve Manson</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/77a95aca08914df08961dc33a3c82b40">MO-12</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Essential conditions for dynamic interference</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ulf Saalmann, Mehrdad Baghery, Jan-Michael Rost</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/03bb1510fb6d44158c602d898ea8b341">MO-13</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Slow, slower, and even slower electrons from
+  strong-field ionization</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ulf Saalmann, Jan-Michael Rost</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2bb96d106e554f2d8a641fa6160f2832">MO-14</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Strong-field ionization inducing multi-electron-hole
+  coherence probed by attosecond pulses</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jing Zhao, Jianmin Yuan, Zengxiu Zhao</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/69e60a36b3e346f5857eb71301acf476">MO-15</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Improving harmonic conversion efficiency via optimizing
+  macroscopic properties of the gas medium</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xiaoyong Li,</i><i style='mso-bidi-font-style:normal'>
+  Guoli Wang, Juan Fan, Jinyu Ma, and Yawen Jiang<o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bf76c430c7a949e09b2e548d2809b16a">MO-16</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Nonsequential Double Ionization by Counterrotating
+  Circularly Polarized Two-Color Laser Fields</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sebastian Eckart, Martin Richter, Maksim Kunitski, Alexander
+  Hartung, Jonas Rist, Kevin Henrichs, Nikolai Schlott, Huipeng Kang, Tobias
+  Bauer, Hendrik Sann, Lothar Ph. H. Schmidt, Markus Schöffler, Till Jahnke,
+  Reinhard Dörner</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/90b0e761596f4b1d9a737ee08b42519e">MO-17</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Ring Currents in Single Atoms – Ultrafast Preparation
+  and Detection using Strong Field Ionization</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sebastian Eckart, Maksim Kunitski, Martin Richter,
+  Jonas Rist, Alexander Hartung, Florian Trinter, Kilian Fehre, Nikolai
+  Schlott, Kevin Henrichs, Lothar Ph. H. Schmidt, Till Jahnke, Markus
+  Schöffler, Reinhard Dörner</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0d93897844fe4d3c9429499e88fee4af">MO-18</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Ionization of atoms by few-cycle laser pulses: spatial
+  and temporal interference effects</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>SÁNDOR Borbély, Attila Tóth, Ladislau Nagy</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1a3c01df156c403f9a248db1cc4e87f3">MO-19</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Lithium atom photoionization by ultrashort photo-pulse</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Anna Kozhina , Dmitry Arkhipov, Stanislav Borovikh,
+  Alla Mityureva, Valery Smirnov</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/06e4282c9f8940ff8408545fcbb0304f">MO-20</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Modification of high-order harmonic generation by an XUV
+  field: retrieving the XUV-assisted photorecombination cross section</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Tatiana S. Sarantseva, Mikhail V. Frolov, Nilolay L.
+  Manakov, Nikolay V. Vvedenskii, Anthony F. Starace</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8660358886d746168f9419e58ace76e5">MO-21</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Circular Dichroism in the Multi-Photon Ionization of
+  Oriented Helium Ions </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Markus Ilchen, Nicolas Douguet, Tommaso Mazza, Jones
+  Rafipoor, Carlo Callegari, Paola Finetti, Oksana Plekan, Kevin Prince,
+  Alexander Demidovich, Cesare Grazioli, Lorenzo Avaldi, Paola Bolognesi,
+  Marcello Coreno, Michele DiFraia, Michele Devetta, Yevheniy Ovcharenko,
+  Stefan Duesterer, Kiyoshi Ueda, Klaus Bartschat, Alexei Grum-Grzhimailo,
+  Astislav Bozhevolnov, Andrey Kazansky, Nikolay Kabachnik, Michael Meyer</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7510c6e7b96b4644ab564e831e139f34">MO-22</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Few-cycle strong-field ionization of atomic hydrogen with
+  elliptically polarized infrared light</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Nicolas Douguet, Klaus Bartschat</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e4257feb89034c1fbed1b71d275d5bc8">MO-23</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Relativistic ionization probabilities of hydrogenlike
+  ions exposed to intense laser pulses</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Irina Ivanova, Alejandro Saenz, Andrey Bondarev, Ilya
+  Maltsev, Vladimir Shabaev, Dmitry Telnov</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8d4de452c5354c35aeabf43ced46ff9d">MO-24</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Symmetry Breaking in the Sequential Photoionization of
+  Argon</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Markus Ilchen, Gregor Hartmann, Alexei Grum-Grzhimailo,
+  Elena Gryzlova, Alexander Achner, Andreas Beckmann, Jens Buck, Carlo
+  Callegari, Ricardo Cucini, Alberto DeFanis, Eugenio Ferrari, Paola Finetti,
+  Leif Glaser, André Knie, Anton Lindahl, Oksana Plekan, Tommaso Mazza, E.
+  Roussel, Frank Scholz, Ivan Shevchuk, Joern Seltmann, Peter Walter, Jens
+  Viefhaus, Michael Meyer</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c51b58431edd4d968820df4c90d9531b">MO-25</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Reconstructing real-time quantum dynamics in strong and
+  short laser fields</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Veit Stooss, Stefano M. Cavaletto, Alexander
+  Blättermann, Paul Birk, Christoph H. Keitel, Christian Ott, Thomas Pfeifer</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7656e4e94f2c409eb0138e69854107cf">MO-26</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Metastable argon production via strong-field excitation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Rohan Glover, Adam Palmer, Milad Dakka, John
+  Holdsworth, Philip Light, Igor Litvinyuk, Andre Luiten, Robert Sang</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/56b5aecb16e24d829cacb01e28f8732f">MO-27</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Time-Dependent Two-Particle Reduced Density Matrix
+  Theory: Application to High-Harmonic Generation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Fabian Lackner, Iva Březinová, Takeshi Sato, Kenichi
+  Ishikawa, Joachim Burgdörfer</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/92511e49398745cbae9641d0e2841ab6">MO-28</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Superfluorescence (collective spontaneous emission)
+  observed from helium atoms following excitation using an extreme-ultraviolet
+  free-electron laser</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>James Harries, Hikaru Fujise, Ichiro Inoue, Hiroshi
+  Iwayama, Susumu Kuma, Yuki Miyamoto, Kyo Nakajima, Chiaki Ohae, Shigeki
+  Ohwada, Noboru Sasao, Kenji Tamasaku, Tadashi Togashi, Eiji Shigemasa, Makina
+  Yabashi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b9198769bdeb4eed821ac0993fc9edfa">MO-29</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Next-level electron dynamics through optimal control or
+  plasmonic fields</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Janne Solanpää, Daniel Reich, Esteban Goetz, Marcelo
+  Ciappina, Christiane Koch, Esa Räsänen</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/83c4bc90d8914a90a1640aa8c31a1da5">MO-30</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Footprints of electron correlation in strong field
+  double ionization of Kr close to sequential ionization regime</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>&nbsp;<o:p></o:p></i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>Xiaokai Li,
+  Zongqiang Yuan, Difa Ye, Chuncheng Wang, Pan Ma, Wenhui Hu, Sizuo Luo, Libin
+  Fu and Dajun Ding<o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:61'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1381ce13131f45f3af43dd5ecc924a07">MO-31</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Attosecond Streaking of Soft-X-ray Pulses Generated by
+  a mid-IR Laser</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:62'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Thomas Gaumnitz, Martin Huppert, Inga Jordan, Yoann
+  Pertot, Arohi Jain, Hans Jakob Wörner</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:63'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/eff1363fd9ad48ebafee502b3b6202fb">MO-32</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Unified Time and Frequency Picture of Ultrafast Atomic
+  Excitation in Strong Laser </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>H. Zimmermann, S. Patchkovskii, M. Ivanov, and<i> Ulli
+  Eichmann</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:65'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b4b6882b83d944a5bc0396ac73957701">MO-33</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Intracycle interference in ionization of Ar by a laser
+  assisted XUV pulse </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:66'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Diego Arbó, Sebastián López, Markus Kubin, J Hummert,
+  Marc Vrakking, Oleg Kornilov</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:67'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8577a1aab3464736921d7fb40575cd7f">MO-34</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Manipulating dynamical interference in photoionization
+  processes by inhomogeneous strong-field</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:68'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Hicham Agueny, Jan Petter Hansen</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:69'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/aae42332148b417da08645db55899588">MO-35</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Experimental evidence for Wigner's tunneling time</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:70'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Nicolas Camus, Enderalp Yakaboylu, Lutz Fechner,
+  Michael Klaiber, Martin laux, Yonghao Mi, Karen Z. Hatsagortsyan, Thomas
+  Pfeifer, Christoph H. Keitel, Robert Moshammer</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:71'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2460b7deaa3f4d3294f26306426d6b8b">MO-36</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Generation of few-cycle electromagnetic pulses at
+  combination frequencies of two-color ionizing laser field</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:72'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Nikolay Vvedenskii, Vasily Kostin</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:73'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d269667116894df59ac854efeaa55ae0">MO-37</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Theoretical studies on the fluorescence spectra of
+  solid density Al plasma heated by intense X-ray free electron laser</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:74'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Rui Jin, Xiang Gao, Pei-Hong Zhang, Fei-Lu Wang,
+  Xiao-Ying Han, Jia-Ming Li</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:77'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ef50208b848b46fb9a6b891bb9daf48a">MO-39</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Coherent control of the photoelectron angular
+  distribution in photoionization of neon</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:78'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Nicolas Douguet, Alexei N. Grum-Grzhimailo, Elena V.
+  Gryzlova, Ekaterina I. Staroselskaya, Klaus Bartschat</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:79'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/698268a5101b4e6a8fbcc6bdcae77c80">MO-40</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Convergence properties of the separable potential model
+  applied to strong field Hydrogen ionization</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:80'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Vladimir Daniel Rodríguez</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:81'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c25e09f558ee4698b87bf8f720b86866">MO-41</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Evolution operator technique for strong field atomic
+  ionization with separable potential model </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:82'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Vladimir Daniel Rodríguez</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:83'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/4a570862cedc43d09d6aa67c51c6aebc">MO-42</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Long-range Coulomb effect in intense laser-driven
+  photoelectron dynamics</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:84'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Wei Quan, XiaoLei Hao, SongPo Xu, XuanYang Lai, XiaoJun
+  Liu, Jing Chen</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:85'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c8335251c6f44c44880bdfc0e318c46c">MO-43</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Alignment dependent spectral modulation in molecular
+  high-order harmonic generation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:86'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Mu-Zi Li
+  Guang-rui Jia and Xue-Bin Bian</span></i><span lang=IT style='mso-ansi-language:
+  IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:87'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/df7669ac9462498f955e7ad7b083cd38">MO-44</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>j-resolved measurement of spin polarized electrons
+  produced by strong-field ionization</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:88'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Daniel Trabert, Alexander Hartung, Sebastian Eckart,
+  Markus Schöffler, Lothar Schmidt, Anton Kalinin, Florian Trinter, Maksim
+  Kunitski, Reinhard Dörner</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:89'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/128a47887c0c4c658373d699329cece5">MO-45</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>High resolution measurement of isotopic shift in singly
+  charged argon ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:90'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sofia Botsi, Nicolas Camus, Lutz Fechner, Thomas
+  Pfeifer, Robert Moshammer</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:91'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e9e8846a10134ef78524ab6c3f6606ec">MO-46</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Coherent control of the THz radiation in an
+  inhomogenous plasma channel</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:92'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ju-kui Xue, Xiao-Bo Zhang, Xin Qiao, Li-Hong Cheng,
+  Ai-Xia Zhang</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:93'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ba6d904968544e5b972c753f886e76cd">MO-47</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Laser-electron interaction in plasma channel with
+  dispersion effect</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:94'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Ju-kui Xue,
+  Li-Hong Cheng</span></i><span lang=IT style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:96'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Matjaž Žitnik, Špela Krušič, Andrej Mihelič, Klemen
+  Bučar</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:97'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5e8fe318f28b46b3aa816b4ff1bc02b1">MO-49</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Attoclock using atomic Hydrogen</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:98'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Satya Sainadh Undurti, Han Xu, Atia-Tul Noor, Xionshan
+  wang, William Wallace, Nicolas Douguet, Igor Ivanov, Klaus Bartschat, Anatoli
+  Kheifets, Robert Sang, Igor Litvinyuk</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:99'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8ebaa5a0740949e69d485d0c5b400700">MO-50</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Sequential ejection of the two valence electrons of
+  beryllium by ultrashort laser pulses</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:100'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Samira
+  Barmaki, Marc-André Albert, Stéphane Laulan</span></i><span lang=IT
+  style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:101'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/4531697b7b044af490d697af6b2df14d">MO-51</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Impact of Coulomb collisions on laser-plasma
+  interaction processes at high densities and relativistic intensities</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:102'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Armenuhi Ghazaryan, </i><i style='mso-bidi-font-style:
+  normal'>S.S. Israelyan, H.H. Matevosyan, and Kh.V. Sedrakian</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:103'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c2967f73f36c409b8d03836d8fa8186c">MO-52</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Two-electron autoionization dynamics in helium driven
+  by intense XUV fields of a free-electron-laser radiation source</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:104'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Christian Ott, Lennart Aufleger, Thomas Ding, Marc
+  Rebholz, Maximilian Hartmann, Alexander Magunia, David Wachs, Veit Stooß, Paul
+  Birk, Gergana Borisova, Andrew Attar, Thomas Gaumnitz, Zhi Heng Loh, Stefan
+  Düsterer</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:105'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/38ebd670b6d64982add2a229174e6a80">MO-53</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Ab initio simulations of multielectron dynamics in
+  intense laser fields with infinite-range exterior complex scaling</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:106'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Yuki Orimo,
+  Takeshi Sato, Kenichi L. Ishikawa</span></i><span lang=IT style='mso-ansi-language:
+  IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:107'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/9e386e736ebe41d39bdb3e02da631e14">MO-54</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Near-threshold photoelectron holography beyond the
+  strong-field approximation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:108'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xuanyang Lai, ShaoGang Yu, Carla Figueira de Morisson
+  Faria, XiaoJun Liu</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:109'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/45e05642c98444bcb16a82ce386b92c0">MO-55</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Resolving forward rescattering photoelectron holography
+  of Ar by phase-controlled two-color femtosecond lasers </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:110'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Wenhui Hu, Jiaqi Yu, Lanhai He, Chuncheng Wang, Sizuo
+  Luo, Dajun Ding</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:111'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ec8e57becd354a79a2c43c23db6ffcc2">MO-56</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Control of photoemission delay in resonant two-photon
+  transitions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:112'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Luca Argenti, Álvaro Jiménez-Galán, Richard Taïeb,
+  Jéremie Caillat, Alfred Maquet, Fernando Martín</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:113'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/210ee7d81d3547c38a99a66c8f3bc701">MO-57</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Analytical model for the calculation of the attosecond
+  transient absorption spectrum of argon</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:114'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Coleman Cariker, Tor Kjellsson, Eva Lindroth, Luca
+  Argenti</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:115'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/803144962771430c87d5467785120449">MO-58</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Unraveling nonadiabatic ionization and Coulomb
+  potential effect in strong-field photoelectron holography</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:116'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Guangluo Shi, </i><i style='mso-bidi-font-style:normal'>Cheng
+  Lin, Xiaohong Song, Zhihao Sheng, Jing Chen, Weifeng Yang</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:117'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1c4af3db6b2c4b0cb4385d984252148d">MO-59</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Attosecond Interference Induced by Coulomb-Field-Driven
+  Transverse Backward-Scattering Electron Wave-Packets</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:118'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>Xiwang Liu, Jingwen Xu, Cheng Lin, Jing Chen, Xiaohong Son<i><span
+  style='mso-spacerun:yes'>  </span>and Weifeng Yang</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:119'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/273bf93bf13649b3893c6370c619bad8">MO-60</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Momentum mapping of continuum electron wave packet
+  interference</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:120'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>Guanghan Ge, Huatang
+  Zhang, Cheng Lin, Jingwen Xu, Jing Chen, Xiaohong Song, Weifeng Yang<o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:121'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b25e75ef446845a0b452b8ebae381896">MO-61</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Double photoionization in vicinity of K-shell resonances
+  and direct double Auger decay of K-shell excited states of O<sup>+</sup>-O<sup>4+</sup>
+  ions </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:122'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jiaolong Zeng</i> , Yongjun Li, Liping Liu, Pengfei
+  Liu, Cheng Gao, and Jianmin Yuan</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:123'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e0be3ccb0d7e499bac6f9b3f056a05fb">MO-62</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The mechanism of high-harmonic generation from solids
+  under intense laser pulses</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:124;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Lu Liu, Jing Zhao, Z.X Zhao</i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>5. Lepton - Atom/Ion</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/56befe60dd4c44be918d17ebac531a28">MO-63</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Theoretical study on the soft X-ray spectra of E1
+  transition of <st1:place w:st="on">W LV</st1:place> ion</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jiaoxia Yang, Xiaobin Ding, Rui Sun, Fumihiro Koike,
+  Izumi Murakami, Daiji Kato, Hiroyuki Sakaue, Nobuyuki Nakamura, Chenzhong
+  Dong</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bd18d688fffb436bbe2d96850ae7cfbc">MO-64</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dielectronic Recombination of Be-like <sup>40</sup>Ar<sup>14+
+  </sup>at the CSRm</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Zhongkui Huang, Weiqiang Wen, Xin Xu, Tianheng Xu,
+  Hanbing Wang, Lijun Dou, Shuxing Wang, Nadir Khan, Linfan Zhu, Weiqing xu, Ke
+  Yao, Yang Yang, Xiaolong Zhu, Lijun Mao, Xiaoming Ma, Youjin Yuan, Jiancheng
+  Yang, Xinwen Ma</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c855a2f2f28140dbaab087dbbefe46f7">MO-65</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Calculations of dielectronic recombination of Li-Like
+  Ar<sup>15+ </sup>and Xe<sup>51+ </sup>ions </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Lijun Dou, Weiqiang Wen, Zhongkui Huang, Hanbing Wang,
+  Luyou Xie, Chenzhong Dong, Xinwen Ma</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/fc150777db3a4738989f2ed2d68fa861">MO-66</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Influence of Breit interaction on the linear
+  polarization of radiation following electron impact excitation of B-like ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Cheng Ren, Fei Jiao, Xia Wang, Jun Jiang, Luyou Xie,
+  Denghong Zhang, Chenzhong Dong</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3686b3c4631244139dd8bd61959145b2">MO-67</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>A coupled rearrangement channel analysis of positronium
+  antihydride PsH</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Takuma Yamashita, Yasushi Kino, Emiko Hiyama, Svante
+  Jonsell, Piotr Froelich</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/55cf9b0692864524aae9e98381c82564">MO-68</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Analysis of time-of-flight spectra in electron
+  acetylene collision experiment</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Dan Luo, Xincheng Wang, Baoren Wei, Yu Zhanbg, Roger
+  Hutton, Yaming Zou</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1df21b16fbaa417982604b6186227bcd">MO-69</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dielectronic recombination of open L-shell argon</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Gang Xiong, Zhimin Hu, Jun Xiao, Ke Yao, Jiyan Zhang,
+  Jiamin Yang, Baohan Zhang, Yaming Zou</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5c1280ba1dbd430e937a912aca7966b1">MO-70</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Binding energies of C<sup>5+</sup> ion under Quantum
+  and Maxwellian Dusty Plasma Environment</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=ES style='mso-ansi-language:ES'>Sayantan
+  Dutta, </span></i><i style='mso-bidi-font-style:normal'><span lang=ES
+  style='mso-ansi-language:ES'>Jayanta K. Saha and T. K. Mukherjee</span></i><span
+  lang=ES style='mso-ansi-language:ES'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5c5a0ba46e264798852433f47d66672e">MO-71</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b><i style='mso-bidi-font-style:normal'>Metastable-bound
+  and Resonance energies of doubly excited <sup>1,3</sup>F<sup>e </sup>states
+  of two-electron atoms</i></b><i style='mso-bidi-font-style:normal'><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Tapan Mukhopadhyay, </i><i style='mso-bidi-font-style:
+  normal'>S. Dutta, A. N. Sil and Jayanta K. Saha<o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2d9e3f18ea9f4f7d8790997742145924">MO-72</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>KLL-dielectronic recombination and polarization of
+  X-ray emissions of H-like to B-like barium ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Qianqian Man, Luyou Xie, Haiyue Cui, Jun Jiang,
+  Denghong Zhang, ChenZhong Dong</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/da2c69d6abb2455fb3d9a38fb91704d6">MO-73</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Metastable-bound </b><b style='mso-bidi-font-weight:
+  normal'>2pnf (<sup>1</sup>F<sup>e</sup>) <span style='mso-bidi-font-weight:
+  bold'>states of helium like systems under Debye plasma</span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Amar Nath Sil</i><i style='mso-bidi-font-style:normal'>,
+  S. Dutta and T. K. Mukhopadhyay <o:p></o:p></i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a5c8a78b6a214a2d9ee224c92237647a">MO-75</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The influence of Breit interaction and E1-M2 quantum
+  interference on polarization following inner-shell electron-impact excitation
+  of Li-like ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Luyou Xie, Yulong Ma, Qianqian Man, Jun Jiang, Denghong
+  Zhang, ChenZhong Dong</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0d2d6bca8fa24670853b49e5be1bb4b7">MO-76</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dipole transition of two-electron ions under pressure
+  confinement</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Bibhas Dutta, </i><i style='mso-bidi-font-style:normal'>Sukhamoy
+  Bhattacharyya, Jayanta Kumar Saha and Tapan Kumar Mukhopadhyay</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/48c81ce4b5dd4d8bbecff513aea867e6">MO-77</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The reliability evaluation on atomic collision measurement
+  by ISO guide 98-3 (Guide to the expression of Uncertainty in Measurement)</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Chang Geun Kim, Kyun Shik Chae, Hyung Seok Shim </i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/9a1879b8dc7548c5914e914b26e4dbd1">MO-79</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Manipulating quantum interferences in laser
+  dressed-helium by the transferred momentum between the electron projectile
+  and helium target</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Hicham Agueny, Abdelkader Makhoute, Alain Dubois</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/fe74142b239c402cb2712b03b1493569">MO-80</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron impact ionization of He(1s2s <sup>3</sup>S) and
+  He-(1s2s2p <sup>4</sup>P)</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=FR style='mso-ansi-language:FR'>Matthieu
+  Génévriez, Jozo J. Jureta, Pierre Defrance, Xavier Urbain</span></i><span
+  lang=FR style='mso-ansi-language:FR'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/453d6fdcc1634bbcada4b1a052f96b2c">MO-81</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron transfer processes in potassium collision with
+  nitroimidazoles: the role of methylation at N1 site</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=PT-BR style='mso-ansi-language:PT-BR'>Mónica
+  Mendes, Filipe Ferreira da Silva, Gustavo García, Paulo Limão-Vieira</span></i><span
+  lang=PT-BR style='mso-ansi-language:PT-BR'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ee7b81d0dd8247afa515615ba1005d6d">MO-82</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>New numerical techniques to determine ionization cross
+  sections: series representation for r<sub>12</sub><sup>-1</sup> integrals and
+  Bohm's velocity field</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Juan Martin
+  Randazzo, Lorenzo Ugo Ancarani</span></i><span lang=IT style='mso-ansi-language:
+  IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/81e4b650d1244c3698eeade8aedca2b3">MO-83</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Commissioning of a high-power electron gun for
+  electron-ion crossed-beams experiments</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Benjamin Ebinger, Alexander Borovik Jr., B. Michel
+  Döhring, Tobias Molkentin, Alfred Müller, Stefan Schippers</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5c25caecac1e4c1b9c9cfa31f683b59b">MO-84</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Laser-assisted free-free experiments: the search for
+  dressed-atom effects</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>C.M. Weaver, B.N. Kim, N.L.S. Martin, B.A. deHarak</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/14a3aa55fa0347349606fa2787941c41">MO-85</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Strong higher-order resonant contribution to Fe K</b><b><sub><span
+  style='font-family:Symbol'>a</span></sub> x-ray line polarization in hot
+  anisotropic plasmas</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Chintan Shah, Pedro Amaro, Rene Steinbruegge, Sven
+  Bernitt, Stephan Fritzsche, Andrey Surzhykov, Jose R. Crespo Lopez-Urrutia,
+  Stanislav Tashenov</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/f0ff4bc52f984b89a34307641886b6f5">MO-86</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b>Laboratory
+  measurements compellingly support a charge-exchange mechanism for the
+  &quot;Dark matter&quot; </b><span style='font-size:11.5pt;font-family:Symbol;
+  mso-bidi-font-family:Symbol'>» </span><b>3.5 keV X-ray line</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Chintan Shah, Stepan Dobrodey, Sven Bernitt, Rene
+  Steinbruegge, Liyi Gu, Jelle Kaastra, Jose R. Crespo Lopez-Urrutia</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0a540c945a654aa9b239da0e5603384b">MO-87</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Developments towards a transverse free-electron target
+  for the storage ring CRYRING@ESR</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Carsten Brandau, Alexander Borovik, Michel Döhring,
+  Benjamin Ebinger, Christophor Kozhuharov, Tobias Molkentin, Alfred Müller, Thomas
+  Stöhlker, Stefan Schippers</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e177004a93264458b837c874a221b94f">MO-88</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Inner Shell Excitations through Laser Induced Electron
+  Recollision</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Gilad Marcus,</i> <i style='mso-bidi-font-style:normal'>Yunpei
+  Deng, Zhinan Zeng, Zhengmao Jia, Pavel, Komm, Yinhui Zheng, Xiaochun Ge and
+  Ruxin Li</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/34c5678b5c3d47c2af64e929a2f51a9c">MO-89</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>A Perturbative Treatment For the Dielectronic
+  Recombination of the Si-Like Isoelectronic Sequence</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jagjit Kaur, Thomas Gorczyca, Nigel Badnell</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7e6643bdb3d74c19b4e8a813e487b155">MO-90</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Accurately determining the number of Auger electrons
+  per nuclear decay for medical isotopes</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mohmmed Alotibi, Maarten Vos, Tamas Tornyi, Tibor
+  Kibedi, Boon Lee, Andrew Stuchbery, Maxime Roberts, Gregor Greguric</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b96f199339d2489fb6ed8a60258ce8bc">MO-91</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Positronium impact Single Ionization of Alkali atoms</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Dipali Ghosh, CHANDANA SINHA</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/75a5f9c9002e4052b899cd70e8e02eae">MO-92</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Accurate Electron Spin Optical Polarimetry (AESOP)</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Timothy Gay</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:63'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c7798d1ba9e14970a549a38da4c8aefd">MO-94</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Calculations of positron cooling and annihilation in
+  noble gases</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Dermot Green,</i> <i style='mso-bidi-font-style:normal'>P.
+  Mullan, M. Lee and G. F. Gribakin</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:65'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/f7c7a87dc5284715954c1eb50256a18b">MO-95</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Nuclear reaction in muon atomic collision</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:66'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yasushi Kino</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:67'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/9619571612d848519e0a33a9b1dc4df6">MO-96</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Kinematically complete scattering cross sections in
+  positron and hydrogen atom collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:68'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Alisher Kadyrov, Karoly Tőkési</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:69'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/727340b29caf43718d6cf36b17e6be15">MO-97</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The 1s Lamb Shift in hydrogen-like Gold by X-Ray
+  Spectrometry with FOCAL</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:70'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Tobias Gassner, Martino Trassinelli, Regina Heß, Uwe
+  Spillmann, Dariusz Banas, Karl-Heinz Blumenhagen, Fritz Bosch, Carsten
+  Brandau, Weidong Chen, Christina Dimopoulou, Eckhart Förster, Robert
+  Grisenti, Alexandre Gumberidze, Siegbert Hagmann, Pierre-Michel Hillenbrand,
+  Paul Indelicato, Pawel Jagodzinski, Tino Kämpfer, Christophor Kozhuharov,
+  Michael Lestinsky, Dieter Liesen, Yuri Litvinov, Robert Lötzsch, Bruno Manil,
+  Renate Märtin, Fritz Nolden, Nikos Petridis, Mohammad Shahab Sanjari, Kai
+  Sven Schultze, Max Schwemlein, Alexandre Simionovici, Markus Steck, Thomas
+  Stöhlker, Csilla Szabo, Sergiy Trotsenko, Ingo Uschmann, Günter Weber, O.
+  Wehrhan, Nicolas Winckler, Danyal Winters, Natalya Winters</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:71'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ccd47ccfd9284a909ffe73cea31df6e9">MO-98</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>On e + Mn elastic scattering at ε = 20 eV impact energy</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:72'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Valeriy Dolmatov</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:73'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/f46f50c907904aebb4ba2aa3bddfc19f">MO-99</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>CoBIT Spectroscopy of Mo and Y ions relevant to beyond
+  EUV source development</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:74'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Emma Sokell, Safdar Ali, John Sheil, Hiroyuki Kato,
+  Nobuyuki Nakamura</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:75'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/71fd788027e646ca8d9c2d7c27b8b283">MO-100</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Theoretical study on the angular distribution of Auger electron
+  emission from highly charged Be-like ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:76'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yinglong Shi, Xiaobin Liu, Feiping Lu, Denghong Zhang,
+  Luyou Xie, Chenzhong Dong</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:77'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1759793393574738a39e94e175f9ded7">MO-101</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Resonant excitation of electronic transitions in highly
+  charged ions with x-ray radiation from ultrabrilliant light sources</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:78'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sven Bernitt, René Steinbrügge, Stepan Dobrodey,
+  Steffen Kühn, Peter Micke, Jan K. Rudolph, Sascha W. Epp, Thomas Stöhlker,
+  José R. Crespo López-Urrutia</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:79'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6e6c47f79a8a4b7cbeeb1a309756013d">MO-102</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Positronium Scattering from Hydrogen and Helium Atoms
+  at Low Energies</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:80'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mengshan Wu , Jun-Yi Zhang, Ying Qian, Zong-Chao Yan,
+  Udo Schwingenschlogl</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:81'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b2179d93105a43369c2705660f5f3a0f">MO-103</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>On the effects of Orbital Angular Momentum (OAM) and
+  impact parameters on (e, 2e) process on atoms by twisted electron </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:82'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>Aditi Mandal and</i>
+  <i>Rakesh Choubisa</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:83'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/904320b962c74884925bb8fad9353a45">MO-104</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>The S-EBIT Facility at the Helmholtz Institute <st1:City
+  w:st="on"><st1:place w:st="on">Jena</st1:place></st1:City></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:84'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sergiy Trotsenko, </i><i style='mso-bidi-font-style:
+  normal'>Weidong Chen , Jessica Menssen, Gleb Vorobjev, Alexandre Gumberidze,
+  Christophor Kozhuharov, Frank Herfurth, Reinhold Schuch, and Thomas Stöhlker</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:85'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7cbc0c9b9baf48c0a8e2b6ef85bbbd1e">MO-105</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Equipment development for muon mobility measurement in
+  rare gases</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:86'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Shiro Matoba, </i><i style='mso-bidi-font-style:normal'>Naritoshi
+  Kawamura, and Kenji Kojima<o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:87'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c8fea65288174e24a1495c4ac17352cf">MO-106</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Prominent role of indirect processes in electron-impact
+  ionization of Xe<sup>24+</sup> ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:88'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Pengfei Liu, Jiaolong Zeng, Alexander Borovik, Stefan
+  Schippers, Alfred Müller</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:89'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/41086546333c4f9cbba7623c663560b6">MO-107</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Higher-order contribution in the resonance recombination
+  of electron-ion interaction</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:90'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Guiyun LIANG, J.R. Crespo Lopez-Urrutia, C. Beilmann,
+  H.G. Wei, G Zhao</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:91'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/14c4c25ddda44829b4252f6d60584925">MO-108</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Unified quantum theory on atomic multielectron
+  processes: direct multiple ionization by an Auger decay, an electron or
+  photon impact </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:92'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jiaolong Zeng, </i><i style='mso-bidi-font-style:normal'>Pengfei
+  Liu, Cheng Gao, and Jianmin Yuan<o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:93'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5f7ffe00a6764a08a29739d7ec969562">MO-109</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>A new generation of room-temperature electron-beam ion
+  traps with straight-through, on-axis optical access</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:94;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sven Bernitt, Klaus Blaum, Lisa F Buchauer, Thore M
+  Bucking, Andre Cieluch, Alexander Egl, James R Harries, Sandro Kraemer,
+  Steffen Kuehn, Peter Micke, Rima X Schussler, Christoph Schweiger, Sven
+  Sturm, Robert N Wolf, Jose Crespo Lopez-Urrutia</i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>10 Heavy Particle - Molecule</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d292970bd4434c58808603921049ce8c">MO-110</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Double differential cross sections for ion impact
+  ionization of ammonia(NH<sub>3</sub>) and methane (CH<sub>4</sub>) molecules</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Malay Purkait</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/dad79bb20d294c57b42eee7a46e84c58">MO-111</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Interference in fast bare ions colliding with diatomic
+  molecules</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Malay Purkait, Saheb Halder, Abhoy Mondal</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/f94a4358a1234656b947ba99d609c254">MO-112</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Fragmentation of N2O under 15-30keV H-, C- and O-
+  negative ions impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xuemei Zhang, Dedong Wang, Guannan Guo</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/501bea7c22ca4c318f78d22a3c25dc1d">MO-113</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Anisotropic two-body dissociation by highly charged ion
+  impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jyoti Rajput, A Agnihotri, A Cassimi, X Flechard, S Guillous,
+  W Iskandar, A Mery, J Rangama, C. P. Safvan</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/117e9b9c3a0b49228ba5b2ef9ca93c9c">MO-115</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Bond rearrangement in NH<sub>3</sub> under slow highly
+  charged ion impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=NO-BOK style='mso-ansi-language:NO-BOK'>Pragya
+  Bhatt, T. Sairam, C. P. Safvan</span></i><span lang=NO-BOK style='mso-ansi-language:
+  NO-BOK'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ff8e8184577c43b9abe1967fc636b11c">MO-116</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Improved model for the interference effects in the
+  ionization of H<sub>2</sub> by fast ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ladislau Nagy, Lorand Czipa</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/60975889010b4df28ec2e8f127b97775">MO-117</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Fragmentation dynamics of nitrogen dimers: role of the
+  neighbor and access to the 3D geometry</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xavier Fléchard, A. Méry, A. N. Agnihotri, J. Douady,
+  B. Gervais, S. Guillous, W. Iskandar, E. Jacquet, J. Matsumoto, J. Rangama,
+  F. Ropars, C.P. Safvan, H. Shiromaru, D. Zanuttini, A. Cassimi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ebce464cbe5341d3a2acc2fe3b8bc0f9">MO-118</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Angular distributions in two body breakup of OCS<sup>q+</sup>
+  ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Herendra Kumar, Pragya Bhatt, C. P. Safvan, Jyoti
+  Rajput</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d28eeb86ce334039b53727f2b753f7a0">MO-119</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Three-body dissociation of OCS<sup>3+</sup> :
+  separating sequential and concerted pathways</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Herendra Kumar, Pragya Bhatt, C. P. Safvan, Jyoti
+  Rajput</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/74399f4d55924a37ac31c115008e42a6">MO-120</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Excitation of diatomic carbon molecules by collision</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Aurelie Jallat, Marin Chabot, Karine Béroff, Sandra
+  Bouneau, Florian GESLIN, Thibaut Hamelin, Arnaud Le Padellec, TKC Le,
+  Guillaume Martinet, Luc Perrot, Van tiep Phung, Thomas Pino</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2c13955f264e419caa671f6df687bbcc">MO-121</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Chiral Effects in Collisions of Protonated Amino Acids
+  and Amino Acid Inclusive Diastereomeric Complexes with Chiral and Achiral
+  Molecules</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Oleksii Rebrov, Kostiantyn Kulyk, Mauritz Ryding,
+  Richard D. Thomas, Einar Uggerud, Mats Larsson</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2cca9a5297b346d0a7f13b515d8fc8e1">MO-122</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Stability of dimer and trimer of Naphthalene studied in
+  electrostatic storage Miniring. </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Serge Martin,</i><i style='mso-bidi-font-style:normal'>
+  L. Chen, J. Bernard, G. Montagne, C. Joblin and A. Cassimi<o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/64ab4042ab7b42cbb1e38ff915cb89ca">MO-123</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Ab initio study of proton collisions with BeH</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=ES style='mso-ansi-language:ES'>Ismanuel
+  Rabadan, Luis Mendez, Junwen Gao, Yong Wu, Jianguo Wang</span></i><span
+  lang=ES style='mso-ansi-language:ES'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ffe61a8cb90e48fca977daf26537d4df">MO-124</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>A non-adiabatic wave packet study of the
+  post-collisional fragmentation of H2O</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=ES style='mso-ansi-language:ES'>Ismanuel
+  Rabadan, Jaime Suarez, Luis Mendez</span></i><span lang=ES style='mso-ansi-language:
+  ES'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/76927ce939bb458d9638606cfdb469c9">MO-125</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Proton impact fragmentation of water molecules</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Pavel
+  Nikolaevich Terekhin, Michele Arcangelo Quinto, Juan Manuel Monti, Omar Ariel
+  Fojón, Roberto Daniel Rivarola</span></i><span lang=IT style='mso-ansi-language:
+  IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/65ba51b3b5764ae5850a24737a52b390">MO-126</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Multiple electron processes from H<sub>2</sub>O by He<sup>2+</sup>
+  and Li<sup>3+</sup> impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Pavel
+  Nikolaevich Terekhin, Michele Arcangelo Quinto, Juan Manuel Monti, Omar Ariel
+  Fojón, Roberto Daniel Rivarola</span></i><span lang=IT style='mso-ansi-language:
+  IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/47c0acb05d6841de8fa11c9cbf62b995">MO-127</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Charge transfer cross sections of slow light element
+  ions in collisions with carbon tetrafluoride and sulfur hexafluoride molecules</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Toshio Kusakabe, Toshiki Asai</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/21cc714e3382413ca33fe71e0c2b9ea3">MO-128</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Analysis of radiative emissions from collisions of O<sup>6+</sup>
+  with Ar, H<sub>2</sub>O, and CH<sub>4</sub></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Anthony Leung, Tom Kirchner</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/81ecf5dc478b4acaa8904e7f0b45edf6">MO-129</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron emission from water and neucleobases with
+  radio-sensitizer</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Lokesh Tribedi, </i><i style='mso-bidi-font-style:normal'>M.
+  Roy Chowdhury, S. Bhattacharjee, C. Bagdia, A. Mandal, D. Misra, C. Champion,
+  J. Monti, R.D. Rivarola</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a56307c123e64ccf91113448989179bd">MO-130</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Quantum calculations of the O(<sup>3</sup>P)+CO
+  scattering</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=DE style='mso-ansi-language:DE'>Marko
+  Gacesa, David W. Schwenke</span></i><span lang=DE style='mso-ansi-language:
+  DE'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2f8b9332541a493c98ca17d1a75fd283">MO-131</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Radiative double electron capture (RDEC) in F<sup>9+</sup>
+  + N<sub>2</sub> collisions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Nuwan
+  Kumara, David La Mantia, Asghar Kayani, Anna Simon, John Tanis</span></i><span
+  lang=IT style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2a493c6e097c46c5b9836e73643b040c">MO-132</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Comparison between anion and cation emission from CH<sub>4</sub>
+  molecules colliding with10.5-kev C+ ions: fragment-energy aspects</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>John Tanis, Jean-Yves Chesnel, Zoltan Juhasz, E Lattouf,
+  Bernd Huber, S. Kovacs, Peter Herczku, E Bene, V Vizcaino, Alain Mery, J.-C.
+  Poully, Jimmy Rangama, Bela Sulik</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/cdc2f4bdd22d465fa7816d3992e11b6c">MO-133</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Three-body fragmentation dynamics of N2O induced by 56
+  keV/u Ne<sup>8+</sup> collision</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xu Shan</i><i style='mso-bidi-font-style:normal'>, Xi
+  Zhao, Xiaolong Zhu, Wentian Feng, Enliang Wang, Zhenjie Shen, Lei Chen,
+  Dalong Guo, Yong Gao , Ruitian Zhang, Shuncheng Yan , Shenyue Xu, Bang Hai ,
+  Hanbing Wang, Zhongkui Huang, Xinwen Ma, Xiangjun Chen</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7754fa5e099b42479c7a788045d66a8a">MO-134</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Vibrational radiative cooling of isolated C<sub>4</sub><sup>-</sup>
+  and C<sub>6</sub><sup>-</sup></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ryuta Suzuki, Naoko Kono, Reito Andou, Takeshi
+  Furukawa, Jun Matsumoto, Hajime Tanuma, Toshiyuki Azuma, Klavs Hansen, Haruo
+  Shiromaru</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/27c899b9aa7f475d88591d3741f2a87a">MO-135</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron-transfer studies in potassium collisions with
+  tetrachloromethane</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'><span lang=PT-BR
+  style='mso-ansi-language:PT-BR'>Khrystyna Regeta , Tiago Cunha, Filipe
+  Ferreira da Silva, Gustavo García<span style='mso-bidi-font-style:italic'>
+  and Paulo Limao-Vieira</span></span></i><span lang=PT-BR style='mso-ansi-language:
+  PT-BR'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e0e1adc3170d467faf901a0dc820e512">MO-136</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Detection of recurrent fluorescence photons emitted
+  from C<sub>4</sub><sup>-</sup></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mai Yoshida, Takeshi Furukawa, Jun Matsumoto, Hajime Tanuma,
+  Toshiyuki Azuma, Haruo Shiromaru, Klavs Hansen</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5b1b472d43eb4358bcd5c5199788d11c">MO-137</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Importance of the Auger electron emission in
+  proton-induced interactions in biological medium: a TILDA-V <st1:place w:st="on">Monte
+   Carlo</st1:place> tracking</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Michele
+  Arcangelo Quinto, </span></i><i style='mso-bidi-font-style:normal'><span
+  lang=IT style='mso-ansi-language:IT'>J. M. Monti, P. F. Weck, O. A. Fojón, R.
+  D. Rivarola and C. Champion</span></i><span lang=IT style='mso-ansi-language:
+  IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ea3a5715a393483ba3b5ff9244c6ec1d">MO-138</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>TILDA-V: a full-differential <st1:City w:st="on"><st1:place
+   w:st="on">Monte Carlo</st1:place></st1:City> for describing the energy
+  deposition at the nanometer scale for protons in biological matter</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Michele Arcangelo Quinto</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6fc9414cd54342a88b9e700bf7a2219f">MO-139</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Commissioning of a new cryogenic ion storage ring RICE</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yuji Nakano, Yoshinori Enomoto, Takuya Masunaga,
+  Sebastian Menk, Paul Bertier, Toshiyuki Azuma</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:61'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6df4bc07b1874972b26dc14e4c719c63">MO-140</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Total cross sections of ionization and electron capture
+  for DNA nucleobases impacted by light ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:62'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Michele
+  Arcangelo Quinto, </span></i><i style='mso-bidi-font-style:normal'><span
+  lang=IT style='mso-ansi-language:IT'>J. M. Monti, P. F. Weck, O. A. Fojón, R.
+  D. Rivarola and C. Champion</span></i><span lang=IT style='mso-ansi-language:
+  IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:63'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/87a15d01f1304f89903e5c2b431de35e">MO-141</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Multiple ionization and dissociation of ethylene
+  induced by collision of Xe<sup>9+</sup></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Kiichi Yokokawa, Jun Matsumoto, Haruo Shiromaru, Pragya
+  Bhatt, Herendra Kumar, Cholakka Safvan</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:65'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/680675574add41099c478707fdc73408">MO-142</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Spontaneous decay of hot Ag<sub>n</sub><sup>-</sup>
+  clusters in a cryogenic environment</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:66'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Emma Anderson, Magdalena Kaminska, Kiattichart
+  Chartakunchand, Gustav Eklund, Michael Gatchell, Klavs Hansen, Henning
+  Zettergren, Henrik Cederquist, Henning Schmidt</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:67'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8364725a5d0a4d09ae589ce338c16df5">MO-143</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Fragmentation dynamics of multiply ionized acetylene:
+  dependence on the charge state of intermediate ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:68;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Takuya Majima, Shintaro Yoshida, Masaya Matsubara,
+  Hidetsugu Tsuchida, Manabu Saito</i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>2. Photon - Molecule (cold spieces, storage and clusters)</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3a8d4f67cc87492bbddb44d83a27bbfb">TU-01</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Spin-polarized electrons upon nondipole photodetachment
+  of fullerene anions </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Alexander Edwards, <st1:Street w:st="on"><st1:address
+   w:st="on">Caleb Lane</st1:address></st1:Street>, Valeriy Dolmatov</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ae3239a996a2404a964c341d4ad668dd">TU-02</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photoionization and photofragmentation of Sc<sub>3</sub>N@C<sub>80</sub><sup>+</sup>
+  at energies from the carbon K edge to the scandium L and nitrogen K edges</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Alfred Mueller, Sadia Bari, Ticia Buhr, Jonas Hellhund,
+  Kristof Holste, Arthur Lewis David Kilcoyne, Michael Martins, Sandor Ricz,
+  Kaja Schubert, Stefan Schippers</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bae11f42e15d440ea7b7f1afc2eccc19">TU-03</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photoionization and photofragmentation of Lu<sub>3</sub>N@C<sub>80</sub><sup>q+</sup>
+  ions (q = 1, 2, 3)</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jonas Hellhund, Alexander Borovik Jr., Kristof Holste,
+  Stephan Klumpp, Michael Martins, Sandor Ricz, Stefan Schippers, Alfred
+  Mueller</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c7441902ebc44c9288521d43ac4ab273">TU-04</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>A Single Atom Antenna</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Florian Trinter, Christiane Rauch, Joshua B. Williams,
+  Miriam Weller, Markus Waitz, Martin Pitzer, Jörg Voigtsberger, Carl Schober,
+  Gregor Kastirke, Christian Müller, Christoph Goihl, Phillip Burzynski, Florian
+  Wiegandt, Robert Wallauer, Anton Kalinin, Lothar Ph. H. Schmidt, Markus S.
+  Schöffler, Ying-Chih Chiang, Kirill Gokhberg, Till Jahnke, Reinhard Dörner</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1f42638c170348b6850b9a62092e3e2f">TU-05</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>A molecular movie of Interatomic Coulombic Decay in
+  NeKr</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Florian Trinter, Tsveta Miteva, Miriam Weller,
+  Sebastian Albrecht, Alexander Hartung, Martin Richter, Joshua Williams, Averell
+  Gatton, Bishwanath Gaire, Thorsten Weber, James Sartor, Allen Landers, Ben
+  Berry, Vasili Stumpf, Kirill Gokhberg, Reinhard Dörner, Till Jahnke</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/826f58348b2445ebb6f9ab20ef79366d">TU-06</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photodissociation of orange I monoanion studied using
+  an electrostatic storage ring</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Manabu Saito, Tetsumi Tanabe, Masami Lintuluoto, Evgeni
+  Starikov, Koji Noda, Takuya Majima, Shigeo Tomita, Katsutoshi Takahashi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1ff4084e7af441a598b952060b01b26c">TU-07</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Investigation of environmental effects in prototypical
+  noble gas clusters using ﬂuorescence spectroscopy</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Andreas Hans, Xaver Holzapfel, Philipp Schmidt,
+  Christian Ozga, Uwe Hergenhahn, Till Jahnke, Reinhard Dörner, Arno Ehresmann,
+  André Knie</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/290cb65c771f4bf1b65a058c7151fd89">TU-08</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>A comprehensive study of Interatomic Coulombic Decay in
+  argon dimers: Extracting R-dependent absolute decay rates from the experiment</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jonas Rist, Tsveta Miteva, Bishwanath Gaire, Hendrik
+  Sann, Florian Trinter, Marco Keiling, Nele Gehrken, Ali Moradmand, Ben Berry,
+  Mohammad Zohrabi, Maksim Munitski, Itzik Ben-Itzhak, Ali Belkacem, Thorsten
+  Weber, Allen Landers, Markus Schöffler, Joschua B. Williams, Premysl
+  Kolorenč, Kirill Gokhberg, Till Jahnke, Reinhard Dörner</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6759c2d00e6143c4b9c02f24af1ecce8">TU-09</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Interatomic Coulombic Decay of HeNe dimers after
+  ionization and excitation of He and Ne</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jonas Rist, Hendrik Sann, Hong-Keun Kim, Felix Sturm,
+  Florian Trinter, Markus Waitz, Stefan Zeller, Birte Ulrich, Moritz Meckel,
+  Stefan Voss, Tobias Bauer, Deborah Schneider, Horst Schmidt-Böcking, Robert
+  Wallauer, Markus Schöffler, Joshua B. Williams, Reinhard Dörner, Till Jahnke</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e40ba331743b47318d4b7e947f2ad663">TU-10</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Angle-resolved Auger electron spectroscopy providing a
+  sensitive access to a hidden vibronic coupling</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Andre Knie, Minna Patanen, Ivan Petrov, John Bozek,
+  Arno Ehresmann, Philipp Demekhin</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7f6a20adf4eb474dad23b433ed7f0706">TU-11</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Mapping the entirety of optical transitions in the
+  singly excited regime of hydrogen and its isotopes with rotational resolution</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Philipp Schmidt, Andreas Hans, Christian Ozga, Arno
+  Ehresmann, André Knie</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/4d78c78f41e14426b8b0a8e1dc3bebe6">TU-12</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photodetachment thermometry of stored OH<sup>- </sup>at
+  the Cryogenic Storage Ring</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Christian Meyer, Arno Becker, Klaus Blaum, Christian
+  Breitenfeldt, Sebastian George, Jürgen Göck, Manfred Grieser, Florian
+  Grussie, Elisabeth Guerin, Robert von Hahn, Philipp Herwig, Jonas Karthein,
+  Claude Krantz, Holger Kreckel, Jorrit Lion, Svenja Lohmann, Preeti Mishra,
+  Olda Novotný, Aodh O’Connor, Roland Repnow, Sunny Saurabh, Dirk Schwalm, Lutz
+  Schweikhard, Kaija Spruck, Sudhakaran Sunil Kumar, Stephen Vogel, Andreas
+  Wolf</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6503a2de0a8e4267aa597b2d4b76c866">TU-13</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Cross sections for the formation of H(2p) atom via
+  doubly excited states in photoexcitation of rotationally cold H<sub>2</sub></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yuta Abe, Takeshi Odagiri, Takuro Taniguchi, Takahisa
+  Shiratori, Masashi Kaida, Kazufumi Yachi, Yoshiaki Kumagai, Koichi Hosaka,
+  Masashi Kitajima, Noriyuki Kouchi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3762377c50954769a520271e7c706343">TU-14</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photo induced dissociation of hydrogenated pyrene
+  molecules</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=DE style='mso-ansi-language:DE'>Michael
+  Wolf, Hjalte Kiefer, Jeppe Langeland, Lars Andersen, Henning Schmid, Henrik Cederquist,
+  Henning Zettergren, Mark Stockett</span></i><span lang=DE style='mso-ansi-language:
+  DE'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3821b19e50544119a9330fe6e05289d7">TU-15</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>MFPADs as tool to experimentally prove O K-shell hole
+  localization in CO<sub>2</sub> due to asymmetric stretching</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Isabel Vela-Perez, Florian Trinter, Giammarco Nalin,
+  Etienne Bloch, Huipeng Kang, Markus S. Schöffler, Martin Pitzer, Abir Mhamdi,
+  Philipp Demekhin, Till Jahnke, Reinhard Dörner</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ba68f23bca834094b605771d28898129">TU-16</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Multicoincidence studies of resonant Interatomic
+  Coulombic Decay in Ne<sub>2</sub></b><sub><o:p></o:p></sub></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Derya Aslitürk, Jonas Rist, Markus Waitz, Daniel
+  Trabert, Sebastian Eckart, Pia Huber, Christian Janke, Sven Grundmann, Miriam
+  Weller, Darja Trojanowskaja, Kevin Henrichs, Gregor Kastirke, Christoph
+  Goihl, Max Kircher, Nikolai Schlott, Maurice Tia, Markus Schöffler, Hendrik
+  Sann, Florian Trinter, Till Jahnke, Reinhard Dörner</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7624df6f5ec544fd833d4ea7e7bc9533">TU-17</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Surface chemistry of colloidal surfactant-free gold
+  nanoparticles generated by laser ablation </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Anna Levy, Jerome Gaudin, Martino Trassinelli, David
+  Amans, Manuel De Anda Villa, John Bozek, Valérie Blanchet, Sophie Cervera,
+  Robert Grisenti, Emily Lamour, Stéphane Macé, Christophe Nicolas, Irene
+  Papagiannouli, Minna Patanen, Christophe Prigent, Jean Pierre Rozet,
+  Sébastien Steydli, Dominique Vernhet</i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>3. Photon - Condensed Matter and other targets</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/f36657defd624e34b2818a09ec263f60">TU-19</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Terahertz generation in crystal driven by two-color
+  laser pulses</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xiao-xin Zhou, Lei Zhang, Zhong Guan, Guo-Li Wang</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/309bbc4f3c6947adad696ea7470cdc6b">TU-20</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Bohmian-trajectories analysis of high harmonic
+  generation from solids</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jinlei Liu, Lu Liu, Wenpu Dong, Yindong Huang, Jing
+  Zhao, Jianmin Yuan, Zengxiu Zhao</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8b65a7ee529f4513ad3eb98fd6c45730">TU-21</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Improvement of MCP detectors to achieve a
+  dead-time-free measurement of groups of charged particles</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Christian Janke, Achim Czasch, Dennis Schmidt, Gregor
+  Kastirke, Juliane Siebert, Kilian Fehre, Lothar Schmidt, Markus Schöffler,
+  Stefan Zeller, Sven Schößler, Till Jahnke, Reinhard Dörner</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0462941ebac04f12a9f0864f837beec2">TU-22</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Effects due to the induced potential in ultrashort
+  laser interactions with Al(100) and Al(111) surfaces</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Carlos
+  Alberto Rios Rubiano, Renata Della Picca, Dario M. Mitnik, Vyacheslav M.
+  Silkin, Maria Silvia Gravielle</span></i><span lang=IT style='mso-ansi-language:
+  IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/808a394da6df4ea8b75b0372c02011f5">TU-23</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Mapping and control of ultrafast plasmons with PEEM</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>B. Ji , J. Qin , P.
+  Lang, A. Koya, H. Tao, X. Song, X. Gao Z.Hao<span style='mso-spacerun:yes'> 
+  </span>and <span style='mso-bidi-font-style:italic'>Jingquan Lin</span><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/88f3a38a10534f5db6779988ab97a001">TU-24</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Photoionization of open-shell halogen atoms
+  endohedrally confined in C<sub>60</sub></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Dakota Shields, Ruma De, Mohamed Madjet, Steven T.
+  Manson, Himadri Chakraborty</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b3931f8d2fdb4c3e8464a2bfebe7fbc0">TU-25</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Absolute detection efficiencies for multi coincidence
+  studies</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Kilian Fehre, Darja Trojanowskaja, Marksim Kunitski,
+  Lothar Ph. Schmikt, Janine Gatzke, Till Jahnke, Ottmar Jagutzki, Achim
+  Czasch, Jürgen Stohner, Robert Berger, Reinhard Dörner, Markus Schöffler</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a58b117491994dfe96182cb06fde2116">TU-26</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Comparative time-resolved photoelectron spectroscopy
+  from Cu(100) and Cu(111) surfaces</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Marcelo Ambrosio, Uwe Thumm</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/db026c2384d742058b366c29c77e049e">TU-27</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>RABBITT spectroscopy of transition-metal surface states</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Marcelo Ambrosio, Uwe Thumm</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7b812520a75f4f128ee9676b049402c8">TU-28</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron-positron pair production in
+  space-time-dependent colliding laser pulses</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ivan Aleksandrov, Guenter Plunien, Vladimir Shabaev</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/1a94e707e850447bbd3bd5b16ca6a3ea">TU-29</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Coherent control of two-color above-threshold
+  photoemission from tungsten nanotips</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Timo Paschen, Michael Förster, Michael Krüger,
+  Christoph Lemell, Georg Wachter, Florian Libisch, Thomas Madlener, Joachim
+  Burgdörfer, Peter Hommelhoff</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/211d00d39c364513aee7e33d40207e9c">TU-30</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Simulation of High Harmonic Generation in Solids</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Isabella Floss, Georg Wachter, Christoph Lemell,
+  Shunsuke Sato, Xiao-Min Tong, Kazuhiro Yabana, Joachim Burgdörfer</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6bfe5ab3171b4626975796ee9cb587cc">TU-31</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Optimization of laser plasma dynamics towards high
+  order harmonic generation applications</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Smijesh Nadarajan Achary, Kavya Hemantha Rao, Dashavir
+  Chetty, Robert Sang, Igor Litvinyuk</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/f5e7319c9486469481a2a91cc2fa3004">TU-32</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Plume dynamics of a laser produced plasma: Single and
+  double pulse schemes</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Kavya Hemantha Rao, Smijesh Nadarajan Achary, Dashavir
+  Chetty, Igor Litvinyuk, Robert Sang</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/60dc0b85f8544272889c794acd594ced">TU-33</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Soft X-ray induced ultraviolet fluorescence emission
+  from bulk and interface of a liquid water microjet</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Andreas Hans, Christian Ozga, Robert Seidel, Philipp
+  Schmidt, Timo Ueltzhöffer, Xaver Holzapfel, Marvin N. Pohl, Philip Wenzel,
+  Isaak Unger, Philipp Reiß, Emad F. Aziz, Arno Ehresmann, Petr Slavíček, Bernd
+  Winter, André Knie</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/84201c8eb877471e9477b98fb762bf80">TU-34</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Does Heisenbergs Uncertainty Relation really limits the
+  precision of Quantum Measurements</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Horst Schmidt-Böcking</i><span style='mso-bidi-font-style:
+  italic'>, </span><i style='mso-bidi-font-style:normal'>Hans Jürgen Lüdde,
+  Gernot Gruber, and John S. Briggs</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ba78f4aa1b804ddc8809044492eb565d">TU-35</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Controlled samples for single-particle x-ray
+  diffraction</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Daniel Horke, Salah Awel, Zhipheng Huang, Tim
+  Ossenbrüggen, Nils Roth, Igor Rubinsky, Amit Samanta, Vijay Singh, Xiaoyan
+  Sun, Nicole Teschmit, Lena Worbs, Jochen Küpper</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7d2481a286e54cb280868b59beb671d4">TU-36</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Optical focusing of isolated particles for diffractive
+  imaging experiments</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Daniel Horke, Salah Awel, Nils Roth, Xiaoyan Sun,
+  Richard Kirian, Henry Chapman, Andrei Rode, Jochen Küpper</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/86665b6b496b46c89016d99096301cda">TU-37</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Time-resolved wide-angle x-ray scattering measurements
+  of Xe clusters by XFEL pulses</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Toshiyuki Nishiyama, Yoshiaki Kumagai, Akinobu Niozu,
+  Hironobu Fukuzawa, Koji Motomura, Max Bucher, Yuta Ito, Tsukasa Takanashi,
+  Kazuki Asa, Yuhiro Sato, Daehyun You, Yiwen Li, Taishi Ono, Edwin Kukk,
+  Catalin Miron, Liviu Neagu, Carlo Callegari, Michele Fraia, Giorgio Rossi,
+  Davide Galli, Tommaso Pincelli, Alessandro Colombo, Sigeki Owada, Tadashi
+  Togashi, Kensuke Tono, Makina Yabashi, Kazuhiro Matsuda, Christoph Bostedt,
+  Kiyonobu Nagaya, Kiyoshi Ueda</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/62b5dbf6cf6a4403b804746a5389934c">TU-38</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Attosecond interferometry with free-electron laser
+  pulses</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>Sergey Usenko,
+  Andreas Przystawik, Markus Jakob, Leslie Lamberto Lazzarino, Günter Brenne ,
+  Sven Toleikis, Christian Haunhorst, Detlef Kip , a<span style='mso-bidi-font-style:
+  italic'>nd Tim Laarmann</span><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/52761494959f484683716c14af22a783">TU-39</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Measurement of low cross section transition using
+  versatile absorption technique </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Gaurav Sharma</i><i style='mso-bidi-font-style:normal'>
+  T. Nandi and Nitin K. Puri<o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2604a4b770694f269e52629758161d2a">TU-40</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Ortho-to-para ratio of water desorbed from ice and its implications
+  for astronomy and planetary science</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Tetsuya Hama, Akira Kouchi, Naoki Watanabe</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/34d26a0d5c3d4807bf4fb3b93bb917ec">TU-41</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Ultrafast structural dynamics of metallic materials
+  studied by photoelectron spectroscopy </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Manuel De Anda Villa, Anna Lévy, Jerôme Gaudin, Sophie
+  Cervera, Benoît Chimier, Patrick Combis, Dominique Descamps, Nikita Fedorov,
+  Robert Grisenti, Yuta Ito, Emily Lamour, Stéphane Macé, Patrick Martin,
+  Stéphane Petit, Christophe Prigent, Vanina Recoules, Jean-Pierre Rozet,
+  Laurent Soulard, Sébastien Steydli, Martino Trassinelli, Kiyoshi Ueda,
+  Laurent Videau, Dominique Vernhet</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d978e509210b448f973d7ed705aa936a">TU-42</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Interaction of femtosecond structured beams with
+  transparent dielectrics</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Andrei V. Rode, Ludovic Rapp, Eugene Gamaly, Remo Giust,
+  Luca Furfaro, Pierre-Ambroise Lacourt, John M. Dudley, Saulius Juodkazis,
+  Francois Courvoisier</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/176a873f7d384cd08771b873ef9a61fa">TU-43</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Streaked photoelectron spectra from polycrystalline
+  gold</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Marcelo Ambrosio, Uwe Thumm</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c679b94462644c6b899cd2f35f2f6605">TU-44</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Design of a charge sensitive spectroscopy amplifier for
+  <st1:City w:st="on"><st1:place w:st="on">Compton</st1:place></st1:City>
+  camera</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Wei Wang, Junliang Liu, Deyang Yu, Xin LI, Xiaohong Cai</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7baedb8df6d542d986eb2b828ced5d02">TU-45</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Gold nanoparticles and their coatings, their effect on
+  cells and their interaction with radiation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sophie Grellet, Małgorzata Śmiałek-Telega, Nigel Mason,
+  Jon Golding</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bcf3863cde6740f0a8fbfb8084997ea9">TU-46</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Mechanisms of the high-order harmonic generation from
+  solids</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=FR style='mso-ansi-language:FR'>X. B. Bian,
+  T. Y. Du</span></i><span lang=FR style='mso-ansi-language:FR'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3fc0490995824cf0ad93172d074c9ef1">TU-47</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Coherence of Nonlinear Process</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span style='font-family:"MS Mincho";mso-bidi-font-family:
+  "MS Mincho"'>磊</span> </i><i><span style='font-family:"MS Mincho";mso-bidi-font-family:
+  "MS Mincho"'>沈 (ShenLei)</span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/2cdd3706983d4780bd3b4430d3ec77a6">TU-48</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Nuclear excitation by two-photon electron transition</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Stephan Fritzsche, Andrey Volotka</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:63'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/7aa32aa373614bd9b2ef568ef440b867">TU-50</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Temperature effects on the isomer’s stability of van
+  der Waals clusters</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=ES style='mso-ansi-language:ES'>Orlando Carrillo-Bohórquez,
+  Álvaro Valdés de Luxán, Rita Prosmiti</span></i><span lang=ES
+  style='mso-ansi-language:ES'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<h2>6. Lepton - Molecule</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/9df1fec2e2754dba8704c80996da436a">TU-51</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Ionization of NH<sub>3</sub> by Electron and Photon
+  Impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Carlos Mario
+  Granados-Castro, Alessandro Genoni, Lorenzo Ugo Ancarani</span></i><span
+  lang=IT style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/205e4ef0fa1e4f9683bfd6c47972b4f8">TU-52</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Bimodel distribution of vibrationally excited states in
+  NO via DEA to NO<sub>2</sub></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Krishnendu Gope, Vaibhav Prabhudesai, <st1:place w:st="on">E
+   Krishnakumar</st1:place></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5d0fedaf7b7d48b7866ff958412bd7bf">TU-53</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dissociation dynamics of transient anion formed via
+  electron attachment to sulphur dioxide (SO<sub>2</sub>)</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Krishnendu Gope, Vaibhav Prabhudesai, Nigel Mason, <st1:place
+  w:st="on">E Krishnakumar</st1:place></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/17bae7e0b85849aeba8ea2befe7f6177">TU-54</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron Induced chemistry of Chlorobenzene</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Dinesh Prajapati, Minaxi Vinodkumar, Chetan Limbachiya,
+  Pothodichackara Vinodkumar</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d2136a3bf2d742a5b57242d0b0e34303">TU-55</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron Impact Ionization of CH<sub>4</sub> for Different
+  Momentum Transfers</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Carlos Mario Granados-Castro, Lorenzo Ugo Ancarani</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/f2a6df48e5e74a0db4b54cd2e091ba77">TU-56</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Direct evidence of Interatomic Coulombic Decay in
+  electron impact ionization of Ne dimer</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Shuncheng Yan, Pengju Zhang, Xinwen Ma, Shenyue Xu, Bin
+  Li, Xiaolong Zhu, Wentian Feng, Dongmei Zhao, Lili Shen</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e2de718f992248dca6cb6d03b6280b9f">TU-60</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Molecular frame (e, 2e + ion) studies of CH<sub>4</sub>
+  and CF<sub>4 </sub></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Alexander Dorn, Khokon Hossen</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/d4dacfa5d4b04eb0ab3082531bbcf828">TU-62</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron-Collision Induced Interatomic Coulombic Decay
+  in Argon Clusters: from Dimers to Trimers</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xueguang Ren, Alexander Dorn</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8fcf205168f740e59408c6fc8ae4816d">TU-63</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Tracing Young-type Interference Effects in
+  Electron-Impact Ionization of Aligned H<sub>2</sub> Molecule</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xueguang Ren, Enliang Wang, Khokon Hossen, Xingyu Li,
+  Xiangjun Chen, Alexander Dorn</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/49b5f4997652499ca193345de92b2827">TU-64</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron-Collision Induced Ionization and Fragmentation
+  in Hydrated Biomolecule Clusters</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xueguang Ren, Alexander Dorn</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/81444aa7b75a4b539f1c7009106cfc81">TU-65</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Observation of Intermolecular Coulombic Decay
+  inWater-Tetrahydrofuran Dimers Induced by Electron-Impact Ionization</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Xueguang Ren, Alexander Dorn</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/94e9e7c876324d1f80f05f67785d693c">TU-68</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron induced dissociation of Pyrrole molecule</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>HARDIK DESAI, Minaxi Vinodkumar, Hitesh Yadav, P.C.
+  Vinodkumar</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/936c0f9c688045cdb5de8c710b0ec71e">TU-72</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Anionic states of 5-cyaniteuracil (5-OCNU) and
+  5-thyocyaniteouracil (5-SCNU)</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Lucas Cornetta, Márcio Varella</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/64bf87dd83c34079985568f57b0f72d9">TU-76</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Interference effect in e-emission spectrum from a
+  molecular (N<sub>2</sub>) double slit in collisions with fast electrons</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>Madhusree Roy
+  Chowdhury, C. R. Stia, O. A. Fojon, R. D. Rivarola and<span style='mso-bidi-font-style:
+  italic'> Lokesh Tribedi</span><o:p></o:p></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ccca85d2f643478fb6c2e56d52bb822a">TU-77</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dynamics of Dissociative Electron Attachment to Furan
+  and Pyridine</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Alexander Dorn, Marvin Weyland</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/bfd955b75d9745f7a189e2712463cd8b">TU-78</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Angle-resolved e<sup>-</sup> + C<sub>60</sub> elastic
+  scattering cross section versus Ramsauer minima in partial elastic scattering
+  cross sections</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Valeriy
+  Dolmatov, Miron Amusia, Larissa Chernysheva</span></i><span lang=IT
+  style='mso-ansi-language:IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/fc8347923b744e8f9e79423e40624768">TU-79</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Total cross sections of C<sub>n</sub>H<sub>6</sub> (n =
+  2, 3, 4) molecules by e- and e+ impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=PT-BR style='mso-ansi-language:PT-BR'>Harshit
+  N Kothari, K N Joshipura, Umang R Patel</span></i><span lang=PT-BR
+  style='mso-ansi-language:PT-BR'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5cec9f19904947758eed48457a14ebee">TU-81</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Path integral simulation on the hyperfine coupling
+  constants of the muoniated and hydrogenated acetone radicals</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>Yuki Oba, Tsutomu
+  Kawatsu, and<span style='mso-bidi-font-style:italic'> Masanori Tachikawa</span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5e389dbd863946809be8de8e9582f38d">TU-82</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Total cross section for low-energy electron scattering
+  from formic acid, (HCOOH), molecules</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Paweł Możejko, Alicja Domaracka, Mateusz Zawadzki,
+  Elżbieta Ptasińska-Denga, Czesław Szmytkowski</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/761fb511fe874044b2dcab1cf13b3679">TU-83</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Cross sections calculations for electron scattering
+  from dimethylamine, NH(CH<sub>3</sub>)<sub>2</sub>, molecule</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Paweł Możejko, Bożena Żywicka, Alicja Domaracka</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8b9f99ca6b9e4752b2c81b9b91988292">TU-84</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Energy Flow Between Pyrimidines and Water Triggered by
+  Low Energy Electrons</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jaroslav Kočišek, Juraj Fedor, Andriy Pysanenko,
+  Mateusz Zawadzki, Michal Fárník, Jan Poštulka, Petr Slavíček</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/906417f7ffc2415080899b809329689d">TU-85</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Dissociation of 2-oxopropanoic acid by low energy
+  electrons.</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mateusz Zawadzki, Jaroslav Kočišek, Juraj Fedor</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e87bbf5733894edda30b18cf05fe8438">TU-86</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron impact study of H<sub>2</sub> and D<sub>2</sub>
+  continuum radiation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Michal Durian, Marian Danko, Juraj Orszagh, Stefan
+  Matejcik</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/9208baf956c44a1da1cf15f917f51ed4">TU-87</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Low-enerngy electron scattering from cyanamide using
+  R-matrix mehod</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Kedong Wang, </i><i style='mso-bidi-font-style:normal'>Shuangcheng
+  Guo, Ju Meng, Xiaotian Huang and Yongfeng Wang</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/66538f7b08284262bc0d4223a20a090a">TU-88</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Experimental and theoretical progress in time-resolved
+  (e, 2e) electron momentum spectroscopy of photodissociation dynamics of
+  acetone at 195 nm</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Shotaro Nakayama, Masakazu Yamazaki, Masahiko Takahashi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:61'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ea0f31109b5d4764beed6997b9f1a391">TU-89</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Observation of indirect (e, 3e) of CO induced by
+  electron impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:62'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Pengju Zhang, </i><i style='mso-bidi-font-style:normal'>Shuncheng
+  Yan, Xinwen Ma and Lili Shen</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:63'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b83b2aa0a98c4b63b1c76d6032254c9a">TU-90</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Introducing a phase factor for the two-electron
+  continuum representation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Lorenzo Ugo Ancarani, A <st1:place w:st="on">S Zaytsev</st1:place>,
+  S A Zaytsev</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:65'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e9a33bc5c77a4b518e0444c6f492645c">TU-91</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electron Scattering Studies of atomic Mo and MOS<sub>2</sub></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:66'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=PT-BR style='mso-ansi-language:PT-BR'>Foram
+  Milind Joshi, MInaxi Vinodkumar, K N Joshipura</span></i><span lang=PT-BR
+  style='mso-ansi-language:PT-BR'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:67'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/41fb893e41704d8797153747074209e8">TU-92</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Excitation of Guanine Molecules in Gas Phase under the
+  Low Energy Electron Beam</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:68'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yuri Svyda, Myroslav Shafranyosh, Mykola Margitych,
+  Maria Sukhoviya, Ivan Shafranyosh</i></p>
+  </td>
+ </tr>
+
+<h2>11 Heavy Particle - Condensed Matter<span style='mso-spacerun:yes'> 
+</span>and other targets</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/024f37a1b5e74a1c91e1881995d0ddd1">TU-95</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Charge equilibration times for slow highly charged ions
+  in single layer graphene</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Elisabeth Gruber, Richard A. Wilhelm, Janine Schwestka,
+  Valerie Smejkal, Roland Kozubek, Arkady V. Krasheninnikov, Marika
+  Schleberger, Stefan Facsko, Friedrich Aumayr</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ac0095639b234332825a8b5b5734973d">TU-96</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Synthesis of boron-nitride nanostructures in plasma
+  volume</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Predrag Krstic, Longtao Han</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/89a5459c31314335a68559f12cbb4ef4">TU-97</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Role of ion impact ionization cross sections in the
+  irradiation of swift heavy ions into condensed matter</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Kengo Moribayashi</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/271b903c4f9f45499ccb94d8ba218ac3">TU-98</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Radiative de-excitation channel of slow highly charged
+  ions transmitted through freestanding single layer graphene</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Richard A. Wilhelm, Janine Schwestka, Elisabeth Gruber,
+  René Heller, Roland Kozubek, Marika Schleberger, Stefan Facsko, Friedrich
+  Aumayr</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/135a2beb71b14b7f9723f0302f713d59">TU-99</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>From Chains to Rings: Impulse Driven Molecular Growth
+  in C<sub>4</sub>H<sub>6</sub> Clusters</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Michael Gatchell, Rudy Delaunay, Arkadiusz Mika,
+  Giovanna D'Angelo, Kostiantyn Kulyk, Alicja Domaracka, Patrick Rousseau, Henning
+  Zettergren, Bernd Huber, Henrik Cederquist</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/26ae0fa002c1414c94e51fb4e60163b3">TU-100</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>van der Waals effects in GIFAD for light atoms on
+  insulating surfaces</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>G.A. Bocan, J.D. Fuhr, M.S. Gravielle</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/236244b3c2ea4c9692dd5d840842e7de">TU-101</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Energy loss due to plasmon excitation by the impact of charged
+  particles on solid surfaces: Beyond an standard approximation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Juana Luisa Gervasoni, Raul Oscar Barrachina, Silvina
+  Segui, Francisco Navarrete, Nestor Arista</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/fe29884b997d4279a72e3c6de5b15e0f">TU-102</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>New formula for the electronic stopping power of ions
+  in an electron gas system</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Pedro Luis Grande</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/cd246b596e1946a698be878ae221d06a">TU-103</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Development of laser target sight-on system based on
+  multiple transmission through a tapered glass capillary for ion microbeam
+  irradiation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Mikiko Koushima, Tokihiro Ikeda, Mitsuyoshi Matsubara,
+  Takafumi Masuyama, Tatsuya Minowa, Wei-Guo Jin</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/4ea96e9d8504479dadc6853c89d40a16">TU-104</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Large gas cluster impacts with organic surfaces: From
+  nanoscopic physics to 3D molecular imaging</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Arnaud Delcorte, </i><i style='mso-bidi-font-style:
+  normal'>V. Cristaudo, R. Edwards, K. Moshkunov, C. Poleunis, E. Pospisilova,
+  S. Surana</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/fc64a95a9d09481e88ff40d7aa7ee1ac">TU-105</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Stern-Gerlach-Experiment revisited</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Horst Schmidt-Böcking, </i><i style='mso-bidi-font-style:
+  normal'>Lothar Schmidt , Hans Jürgen Lüdde, Wolfgang Trageser, Gernot Gruber,
+  and Tilman Sauer</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e970b60c9bae43eb97ef840876b6208e">TU-106</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Shaping surface landscapes with molecules: rotationally
+  induced diffractive scattering of H<sub>2</sub> on LiF(001) under fast
+  grazing incidence conditions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Fernando Martin, Marcos del Cueto, Alberto S. Muzas,
+  Mark F. Somers, Geert-Jan Kroes, Cristina Diaz</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8a6d604577be4e2392cae3c67ee0d186">TU-107</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>XMCD going ultra-cold: Experiments at 100 mK and 7 T</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ivan Baev, Torben Beeck, M. Benedetta Casu, Michael Martins,
+  Wilfried Wurth</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b359b23507144091b0f032ba1b6c22bd">TU-108</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Energy deposition around swift proton and carbon ion
+  tracks in biomaterials</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Rafael Garcia-Molina, Maurizio Dapor, Pablo de Vera,
+  Isabel Abril</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/e373679630f1408f9862c84667bfd1af">TU-109</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Simulation of the energy loss of proton beams interacting
+  with few layer graphene foils</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=ES style='mso-ansi-language:ES'>Juan José
+  Esteve-Paredes, Jorge E. Valdés, Jaime Sánchez-Claros, Isabel Abril, Rafael
+  Garcia-Molina</span></i><span lang=ES style='mso-ansi-language:ES'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/5d0d1872989144769c6ddae0316db148">TU-110</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Mass spectrometric study of negative secondary ions
+  emitted from ethanol microdroplet surfaces by fast heavy ions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Kensei Kitajima, Takuya Majima, Shiori Mizutani, Manabu
+  Saito, Hidetsugu Tsuchida</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/b9c3d41aea5a445c84dadc90b1f70bc0">TU-111</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Active discharging method for stable sub-micron sized
+  beams of slow highly charged ions using tapered glass capillary with
+  electrodes</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Tokihiro Ikeda, Takao M. Kojima, Yoshio Natsume, Jun
+  Kimura, Tomoko Abe</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/4bd306e57b844fe19e74638d28a38422">TU-112</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Collision induced dissociation of the retinal
+  protonated Schiff base</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Michael Wolf, Kostiantyn Kulyk, Linda Giacomozzi,
+  Michael Gatchell, Nathalie de Ruette, Akos Vegvari, Roman A. Zubarev, Mats
+  Larsson, Henrik Cederquist, Henning T. Schmidt, Henning Zettergren</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/a0c23d1274724405ae351011c5f75659">TU-113</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>M-X-ray emission in interaction of slow highly charged
+  Xe<sup>q+</sup> ions (q=26-40) with metallic foils</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Łukasz Jabłoński, Dariusz Banaś, Janusz Braziewicz,
+  Joanna Czub, Paweł Jagodziński, Aldona Kubala-Kukuś, Daniel Sobota, Ilona
+  Stabrawa, Marek Pajek</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/766eb5c30a14416d9c72ed45e1954166">TU-114</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electric-field noise and carbon diffusion on Au(110)</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Eunja Kim, A. Safavi-Naini, D. A. Hite, K. S. McKay, D.
+  P. Pappas, P. F. Weck, H. R. Sadeghpour</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3addac6972b94cca83f3754b413840aa">TU-115</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Rb adsorbate-induced negative electron affinity on
+  quartz</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Eunja Kim, J. A. Sedlacek, S. T. Rittenhouse, P. F.
+  Weck, H. R. Sadeghpour, J. P. Shaffer</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/3c468c3b895943f29186988544585d75">TU-116</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Defects induced by ion collisions to control the
+  thermal hysteresis in magnetocaloric thin films</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Sophie Cervera, Martino Trassinelli, Louis Bernard
+  Carlsson, Mahmoud Eddrief, Victor Edtgens, Vasilica Gafton, Emily Lamour,
+  Anna Lévy, Stéphane Macé, Massimiliano Marangolo, Christophe Prigent,
+  Jean-Pierre Rozet, Sébastien Steydli, Dominique Vernhet</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/09ec356399214fd4b5aa120720fb15e2">TU-117</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Detection of Circular Rydberg states in lifetime
+  measurements </b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Gaurav Sharma </i><i style='mso-bidi-font-style:normal'>and
+  Nitin K. Puri</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/6ffdf2b0c34f4954945d9cf8c9cd0a55">TU-118</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>First-step benchmark of collision cross-sections for
+  heavy ions using charge-state evolutions after target penetration</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Makoto Imai, Viatcheslav Shevelko</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:53'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/c979f447da6c4cdc90b3cd3330e51756">TU-120</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Electrostatic models for fullerene-fullerene
+  interactions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Michael Gatchell, Stefan Huber, Fredrik Lindén, Henrik
+  Cederq, Andreas Mauracher, Henning Zettergren</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/261d929580254af9b943fbe6df6f158d">TU-122</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Experimental study of the interaction of ions with
+  metallic nano-particles with sizes up to 10 nm</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Arkadiusz Mika,</i> <i style='mso-bidi-font-style:normal'>Rudy
+  Delaunay, Alicja Domaracka*, Patrick Rousseau*, Lamri Adoui and Bernd A.
+  Huber</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0ccd76e0ed684e88b810368dd9a6b02c">TU-123</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Non-radioactive electron source for atmospheric
+  pressure ionization</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Matus Samel</i><span style='mso-bidi-font-style:italic'>,
+  </span>Michal Stano, Miroslav Zahoran, and Štefan Matejčík</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/8960e6654a1e458ea9bd726449afc203">TU-124</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Density-functional approximations on CO<sub>2</sub>@sI
+  clathrate hydrate interactions</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Daniel J. Arismendi- Arrieta, Álvaro Valdés de Luxán,
+  Rita Prosmiti</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:61'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/f5cd441ae5c34369a45ecfcf5afdf0a1">TU-125</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Evolution of the electric potential of an insulator
+  under charged particle impact</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:62'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=IT style='mso-ansi-language:IT'>Eric Giglio,
+  Amine Cassimi, Karoly Tökési</span></i><span lang=IT style='mso-ansi-language:
+  IT'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:63'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/42bbe1c20a3544bca91f7318065ff43e">TU-126</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Magnetic resonance of rubidium atoms passing through a
+  multi-layered transmission magnetic grating</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yugo Nagata, Shutaro Kurokawa, Atsushi Hatakeyama</i></p>
+  </td>
+ </tr>
+</table>
+
+<h2>12. Other processes and post-deadline abstracts</h2>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:1.0pt 1.0pt 1.0pt 1.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Abstract<o:p></o:p></b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b>Title/Authors<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/94ca60467d1d47da92fef07e71e99dc4">TU-127</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Description of an elastic scattering process in the
+  pilot-wave formulation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i><span lang=PT-BR style='mso-ansi-language:PT-BR'>Ditmar
+  Ciro Cordeiro Ballesteros, Marcos Feole, Clement Collet, Francisco Navarrete,
+  Raul Oscar Barrachina</span></i><span lang=PT-BR style='mso-ansi-language:
+  PT-BR'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span lang=PT-BR style='mso-ansi-language:PT-BR'>&nbsp;<o:p></o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span lang=PT-BR style='mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span lang=PT-BR style='font-size:10.0pt;mso-ansi-language:
+  PT-BR'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span lang=PT-BR style='font-size:10.0pt;mso-ansi-language:
+  PT-BR'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/9bccdf4ecd314e2bb389be9633aaf0d1">TU-129</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Shannon and Fisher entropies as indicators of atomic
+  avoided crossings for Stark states of Rydberg atoms</b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i style='mso-bidi-font-style:normal'>&nbsp;<o:p></o:p></i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Yong Lin He, </i><i style='mso-bidi-font-style:normal'>Yan
+  Chen, Jiu Ning Han, Zhi Bin Zhu, Geng Xiang Xiang, Huai Dong Liu, Bao Hong
+  Ma, De Chun He<span style='mso-bidi-font-style:italic'> </span><o:p></o:p></i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0dd8474261674c0ab6ef7f564c9695f1">TU-130</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Magic wavelengths of Ca<sup>+</sup> ion for linearly
+  and circularly polarized light</b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Jun Jiang, Li Jiang, Xia Wang, Peter Shaw, Denghong
+  Zhang, Luyou Xie, Chenzhong Dong</i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/0a26f5bbe11b47f8827f8c61642a9202">TU-131</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Structures and bonding features of Al<sub>n</sub>C<sub>m</sub>
+  (n=4, 6; m=1-4) clusters</b></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Ning Du, Hongshan Chen</i></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/ff975724990c4601bfee13408a63b0bd">TU-132</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Exploring metastable decay dynamics of polycyclic
+  aromatic nitrogen containing hydrocarbons upon HCN evaporation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Najeeb P. K, Turaga Sairam, Vinitha M. V, Anudit Kala,
+  Sarita Vig, Pragya Bhatt, Safvan C. P, Umesh Kadhane</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/519db1505bcb460080c6798b9ca439b7">TU-133</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Imaging the three-dimensional shapes and light induced dynamics of 
+rotating helium nanodroplets</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Bruno Langbehn, Yevheniy Ovcharenko, Daniela Rupp, Katharina Sander, 
+Christian Peltz, Andrew Clark, Marcello Coreno, Riccardo Cucini, Paola 
+Finetti, Michele Di Fraia, Cesare Grazioli, Denys Iablonskyi, Aaron C. 
+LaForge, Verónica Oliver Álvarez de Lara, Oksana Plekan, Paolo Piseri, 
+Toshiyuki Nishiyama, Carlo Callegari, Kevin C. Prince, Kyoshi Ueda, 
+Frank Stienkemeier, Thomas Fennel, and Thomas Möller</i></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/16064f5cc4e34715b33955bc5581f40b">TU-134</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>Hydrogenation of C<sub>60</sub> deposited on a substrate under low temperature 
+condition</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i> Yoichi Nakai, Naoki Watanabe, Yasuhiro Oba</i></p>
+  </td>
+ </tr>
+ 
+ 
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><a
+  href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-conlog-public/dce2d0fe9fa543baa5486e38aa66179a">TU-135</a></p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><b>An electron momentum spectroscopy study for elucidating the range of 
+the validity of the plane wave impulse approximation</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;mso-yfti-lastrow:yes'>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:1.0pt 1.0pt 1.0pt 1.0pt'>
+  <p class=MsoNormal><i>Isao Nakajima, Masakazu Yamazaki, Noboru Watanabe, Masahiko Takahashi</i></p>
+  </td>
+ </tr>
+ 
+</table>
+
+</td>
+          </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="footer"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td align="right" valign="middle" class="footerLeft" ><span class="footerSponsorsTitle">icpeac XXX<br />
+sponsors</span></td>
+            <td align="left" valign="top" class="footerRight"><table border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="287" align="left" valign="top" style="padding-right:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.curtin.edu.au">Curtin University</a></li>
+                  <li> <a href="http://www.queensland.com/">Tourism and Events Queensland</a></li>
+                  </span></td>
+                <td width="287" align="left" valign="top" style="padding-left:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.anu.edu.au">Australian National University</a></li>
+                  <li><a href="http://www.griffith.edu.au">Griffith University</a></li>
+                  <li><a href="http://iupap.org">IUPAP</a></li>
+		  <li><a href="http://www.iop.org/">IOP/JPB</a></li>
+                  </span></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93820-12', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

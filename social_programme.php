@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ICPEAC 2017 - Social program</title>
+<link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+
+<link href="_includes/fonts/Open Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Open Sans Condensed/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Oswald/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/PT Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="924" border="0" align="center" cellpadding="0" cellspacing="0" id="container">
+  <tr>
+    <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" id="content">
+      <tr>
+        <td align="center" valign="middle" class="header"><table width="100%" border="0" cellpadding="0" cellspacing="0" id="headerTable">
+              <tr>
+                <td align="left" valign="middle" class="logoCell"><img src="_images/logo-4.png" width="108" height="128" / style="padding-left:40px;"></td>
+                <td align="left" valign="middle" class="pageTitleCell"><span class="icpeacHeading"><span class="icpeacHeadingDark">INTERNATIONAL CONFERENCE</span><span class="icpeacHeadingMed"> ON 
+                  PHOTONIC 
+                  ELECTRONIC</span>
+                  <span class="icpeacHeadingLight">AND 
+                  ATOMIC COLLISIONS</span></span><span class="icpeacDate">26 JULY - 1 AUGUST 2017  <span class="icpeacDateSpace">|</span>  CAIRNS CONVENTION CENTRE  <span class="icpeacDateSpace">|</span>  queensland, australia</span></td>
+              </tr>
+            </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="contentCell"><table width="900" border="0" cellpadding="0" cellspacing="0" id="contentTable">
+          <tr>
+            <td align="left" valign="top" class="links">
+<a href='/index.php'>WELCOME</a>
+<a href='/scope.php'>SCOPE AND PROGRAM</a>
+<a href='/speakers.php'>SPEAKERS</a>
+<a href='/posterlist.php'>ABSTRACTS/POSTERS</a>
+<a href='/dates.php'>DATES / ANNOUNCEMENTS</a>
+<a href='/venue.php'>LOCATION AND VENUE</a>
+<a href='/accommodation.php'>ACCOMMODATION</a>
+<a href='/registration.php'>REGISTRATION</a>
+<a href='/travel.php'>TRAVEL</a>
+<a href='/proceedings.php'>PROCEEDINGS & MEDIA</a>
+<span class="current">SOCIAL PROGRAM</span>
+<a href='/prizes.php'>SUPPORT AND PRIZES</a>
+<a href='/meetings.php'>SATELLITE MEETINGS</a>
+<a href='/exhibitors_sponsors.php'>SPONSORS / EXHIBITORS</a>
+<a href='/committees.php'>COMMITTEES</a>
+<a href='/contacts.php'>CONTACTS</a>
+<table width="165" border="0" cellpadding="0" cellspacing="0" id="anuTable">
+                <tr>
+                  <td class="sponsorcell"><p>MAJOR SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.curtin.edu.au"><img src="_images/curtinuniversity-logo.png" width="160" height="27" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.queensland.com/"><img src="_images/QLD-tourism-logo.png" width="155" height="46" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><p>OTHER SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.anu.edu.au"><img src="_images/ANU-logo-4.png" width="100" height="35" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.griffith.edu.au/"><img src="_images/Griffith-logo.png" width="110" height="31" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.iop.org/"><img src="_images/IOP-logo.png" width="125" height="41" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://iupap.org/"><img src="_images/IUPAP-logo.jpg" width="120" height="36" /></a></td>
+                </tr>
+
+                </table>
+            </td>
+            <td align="left" valign="top" class="content">
+ 
+<h1>Social program</h1>
+
+<h2>Welcome Reception</h2>
+
+<p>Time: 18:00 – 19:30<br />
+Date: Tuesday 25 July 2017<br />
+Venue: Outdoor Plaza, Cairns Convention Centre<br />
+Tickets: Included in full registration, $50 for day registrations and additional tickets</p>
+<p>
+Join us at the Outdoor Plaza to begin the conference with drinks and finger food. Network with fellow attendees and build the excitement towards the program. Highlights will include a close encounter with two iconic Australian animals and a didgeridoo performance.
+</p>
+
+<h2>Conference Dinner</h2>
+
+<p>
+Time: 19:00 – 22:00<br />
+Date: Monday 31 July 2017<br />
+Venue: Hall C & D, Cairns Convention Centre<br />
+Tickets: $80 (standard), $50 (student), $50 (under 18)
+</p><p>
+Join us for the Conference Dinner on Monday evening. Hall C & D will be transformed into a comfortable space to eat, spend time with your colleagues and enjoy the evening.
+</p>
+
+<h2>Weekend Tours</h2>
+
+<p>Take advantage of the weekend break in the middle of the conference program and reserve a
+place on one of the amazing tours offered through Destination Cairns Marketing to receive
+your special 10% discount. You can book online via:
+<a href="//www.cairnsconferences.com.au/events/icpeac2017">Cairns Conferences</a> or at the tour desk during the conference.<br/>
+As July and August are peak season in Cairns, it is highly recommended that you pre-book
+your tour to avoid disappointment.
+
+</p>
+
+<h2>Public lecture</h2>
+<p><b>Australia, the land of things that bite, sting and kill! Is it really that bad?</b></p>
+
+<img src="/_images/seymour.jpg" style='float:right; padding-left:25px; padding-bottom:25px;' alt='Professor Jamie Syemour' />
+<p>Speaker: Dr. Jamie Seymour</p>
+<p>Time: Wednesday 26 July 2017</p>
+
+<p>Associate Professor Jamie Seymour or the "Jelly Dude from Nemo land" has been researching and working with venomous and dangerous animals for over 20 yrs with his present interest being "Why do animals have venom?" Based in Cairns, in Northern Australia, an area that has an over abundance of venomous animals, he is uniquely placed to study the ecology and biology of Australia's venomous species. He teaches at all levels at James Cook University, one of the top 5% of research universities in the world with his favourite subject being "Venomous Australian Animals", a subject designed and taught by this effervescent academic.</p>
+
+<p>He has been successfully involved in programs designed to decrease the envenomings of humans by jellyfish, namely in Australia, Timor Leste (for the United Nations), Thailand and Hawaii. His research has been directly responsible for changes in the present treatment protocol for Australian jellyfish stings. He established and is the director of the Tropical Australian Venom Research Unit (TASRU) which is now recognised as one of the premier research groups in the world for the studies of the ecology and biology of box jellyfish and research into medical treatment of box jellyfish envenomings.</p>
+
+<h2>Accompanying Persons Program</h2>
+
+<p>We look forward to welcoming accompanying persons to Cairns. The accompanying person
+registration includes entry to the Welcome Reception, morning and afternoon teas (with
+delegates at the conference venue), the exhibition and the public lecture. There will be a
+special Australiana themed Accompanying Persons Welcome which is also included.  Tours on
+conference program days can be booked at an additional cost online via:
+<a href="//www.cairnsconferences.com.au/events/icpeac2017">Cairns Conferences</a> or at the tour desk during the conference, although it is highly recommended that you pre-book your tour to avoid disappointment
+</p>
+
+          
+</td>
+          </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="footer"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td align="right" valign="middle" class="footerLeft" ><span class="footerSponsorsTitle">icpeac XXX<br />
+sponsors</span></td>
+            <td align="left" valign="top" class="footerRight"><table border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="287" align="left" valign="top" style="padding-right:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.curtin.edu.au">Curtin University</a></li>
+                  <li> <a href="http://www.queensland.com/">Tourism and Events Queensland</a></li>
+                  </span></td>
+                <td width="287" align="left" valign="top" style="padding-left:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.anu.edu.au">Australian National University</a></li>
+                  <li><a href="http://www.griffith.edu.au">Griffith University</a></li>
+                  <li><a href="http://iupap.org">IUPAP</a></li>
+		  <li><a href="http://www.iop.org/">IOP/JPB</a></li>
+                  </span></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93820-12', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

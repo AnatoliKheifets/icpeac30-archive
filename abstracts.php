@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ICPEAC 2017 - Instructions for abstracts</title>
+<link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+
+<link href="_includes/fonts/Open Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Open Sans Condensed/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Oswald/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/PT Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="924" border="0" align="center" cellpadding="0" cellspacing="0" id="container">
+  <tr>
+    <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" id="content">
+      <tr>
+        <td align="center" valign="middle" class="header"><table width="100%" border="0" cellpadding="0" cellspacing="0" id="headerTable">
+              <tr>
+                <td align="left" valign="middle" class="logoCell"><img src="_images/logo-4.png" width="108" height="128" / style="padding-left:40px;"></td>
+                <td align="left" valign="middle" class="pageTitleCell"><span class="icpeacHeading"><span class="icpeacHeadingDark">INTERNATIONAL CONFERENCE</span><span class="icpeacHeadingMed"> ON 
+                  PHOTONIC 
+                  ELECTRONIC</span>
+                  <span class="icpeacHeadingLight">AND 
+                  ATOMIC COLLISIONS</span></span><span class="icpeacDate">26 JULY - 1 AUGUST 2017  <span class="icpeacDateSpace">|</span>  CAIRNS CONVENTION CENTRE  <span class="icpeacDateSpace">|</span>  queensland, australia</span></td>
+              </tr>
+            </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="contentCell"><table width="900" border="0" cellpadding="0" cellspacing="0" id="contentTable">
+          <tr>
+            <td align="left" valign="top" class="links">
+<a href='/index.php'>WELCOME</a>
+<a href='/scope.php'>SCOPE AND PROGRAM</a>
+<a href='/speakers.php'>SPEAKERS</a>
+<a href='/posterlist.php'>ABSTRACTS/POSTERS</a>
+<a href='/dates.php'>DATES / ANNOUNCEMENTS</a>
+<a href='/venue.php'>LOCATION AND VENUE</a>
+<a href='/accommodation.php'>ACCOMMODATION</a>
+<a href='/registration.php'>REGISTRATION</a>
+<a href='/travel.php'>TRAVEL</a>
+<a href='/proceedings.php'>PROCEEDINGS & MEDIA</a>
+<a href='/social_programme.php'>SOCIAL PROGRAM</a>
+<a href='/prizes.php'>SUPPORT AND PRIZES</a>
+<a href='/meetings.php'>SATELLITE MEETINGS</a>
+<a href='/exhibitors_sponsors.php'>SPONSORS / EXHIBITORS</a>
+<a href='/committees.php'>COMMITTEES</a>
+<a href='/contacts.php'>CONTACTS</a>
+<table width="165" border="0" cellpadding="0" cellspacing="0" id="anuTable">
+                <tr>
+                  <td class="sponsorcell"><p>MAJOR SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.curtin.edu.au"><img src="_images/curtinuniversity-logo.png" width="160" height="27" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.queensland.com/"><img src="_images/QLD-tourism-logo.png" width="155" height="46" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><p>OTHER SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.anu.edu.au"><img src="_images/ANU-logo-4.png" width="100" height="35" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.griffith.edu.au/"><img src="_images/Griffith-logo.png" width="110" height="31" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.iop.org/"><img src="_images/IOP-logo.png" width="125" height="41" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://iupap.org/"><img src="_images/IUPAP-logo.jpg" width="120" height="36" /></a></td>
+                </tr>
+
+                </table>
+            </td>
+            <td align="left" valign="top" class="content">
+ 
+<h1>Instructions for abstracts</h1>
+<p>You will be asked to categorise your abstract into one of the following groups:</p>
+<ul>
+<li>Plenary and tutorial lectures (invited)</li>
+<li>Progress reports (invited)</li>
+<li>Photons</li>
+<li>Leptons</li>
+<li>Heavy particles</li>
+<li>ICPEAC satellites (e2e, ISIAC)</li>
+</ul>
+
+<p>Please note that photons, leptons and heavy particles refer to the PROJECTILES in collision processes. Heavy particles also include cold atom collisions.</p>
+
+<p>Abstracts should be informative, carefully prepared, with an emphasis on new insights. The contributed abstracts for poster presentation (Photons, Leptons and Heavy Particles) should enable the program committee to judge the scientific merit of the presented work.  The most interesting and topical abstracts (around 25) will be selected as 15-minute Hot Topic oral presentations.</p>
+
+<p><i>If your abstract has been submitted after Monday 6 March, please note that it may be included in the conference program but it <b>will not</b> be peer reviewed by the program committee and therefore will not be included in the conference proceedings</i></p>
+
+<p><i>Post-deadline abstracts will be accepted until Monday 26 June 2017</i></p>
+
+<p><i>Please check abstracts submission deadlines for the ICPEAC satellites on their respective websites</i></p>
+
+<h3>Preparation</h3>
+<p>The length of each abstract is strictly limited to one page. Abstracts must be prepared using the supplied <a href='/_files/icpeacabstract.doc'>Word</a> or <a href='/_files/icpeacabstract.tar.gz'>LaTeX</a> templates. When using the templates, do not make any changes or modifications to the page layout or paragraph styles. Before submission the abstract must be converted into PDF format. It should look like this <a href='/_files/icpeacabstract.pdf'>sample abstract</a>. The file size should not exceed 5 MB. Ideally, keep it small!</p>
+
+<p>Note: The PDF file of abstract should be named as per the following example:</p>
+
+<p style="text-align:center;"><b>Einstein_A.pdf</b></p>
+
+<p>In case you submit more than one abstract, a number _1, _2, should be appended</p>
+
+<p style="text-align:center;"><b>Bohr_N_1.pdf</b></p>
+<p style="text-align:center;"><b>Bohr_N_2.pdf</b></p>
+
+<h3>Submission</h3>
+<p>When the PDF file of your abstract is ready, proceed to the abstract submission page. To guarantee being considered by the program committee, all contributed abstracts must be submitted before the deadline (Monday 6 March 2017). Please note that any submitted abstract, even if accepted by the program committee, will not be included in the conference program should you fail to register for the conference by 19 May 2017.</p>
+
+<p>Note: At least one of the authors or co-authors must be registered for the conference.</p>
+
+<center>
+<p class="button"><a href="https://conlog.eventsair.com/icpeac-2017/abstractsubmission">Submit an abstract</a></p>
+</center>
+ 
+<h3>Acceptance and Publication</h3>
+<p>All valid abstracts prepared according to the guidelines will be considered by the program committee. If your abstract has been accepted, you will be notified by e-mail in April 2017.</p>
+
+<p>It is intended that all the invited papers (plenary and tutorial lectures, progress reports and hot topics) will be published as part of the conference proceedings in the Journal of Physics: Conference Series.</p>
+
+<p>All contributing authors and their abstracts will be available on the ICPEAC XXX website and will remain there for at least three years after the conference. The organizers trust that this exposure will be sufficient to facilitate funding for registration and travel. If this is not the case, the contributing authors  may request  publishing their abstracts in J. Phys. Conf. Ser.</p>
+          
+</td>
+          </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="footer"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td align="right" valign="middle" class="footerLeft" ><span class="footerSponsorsTitle">icpeac XXX<br />
+sponsors</span></td>
+            <td align="left" valign="top" class="footerRight"><table border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="287" align="left" valign="top" style="padding-right:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.curtin.edu.au">Curtin University</a></li>
+                  <li> <a href="http://www.queensland.com/">Tourism and Events Queensland</a></li>
+                  </span></td>
+                <td width="287" align="left" valign="top" style="padding-left:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.anu.edu.au">Australian National University</a></li>
+                  <li><a href="http://www.griffith.edu.au">Griffith University</a></li>
+                  <li><a href="http://iupap.org">IUPAP</a></li>
+		  <li><a href="http://www.iop.org/">IOP/JPB</a></li>
+                  </span></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93820-12', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ICPEAC 2017 - Scope and Program</title>
+<link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+
+<link href="_includes/fonts/Open Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Open Sans Condensed/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Oswald/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/PT Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="924" border="0" align="center" cellpadding="0" cellspacing="0" id="container">
+  <tr>
+    <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" id="content">
+      <tr>
+        <td align="center" valign="middle" class="header"><table width="100%" border="0" cellpadding="0" cellspacing="0" id="headerTable">
+              <tr>
+                <td align="left" valign="middle" class="logoCell"><img src="_images/logo-4.png" width="108" height="128" / style="padding-left:40px;"></td>
+                <td align="left" valign="middle" class="pageTitleCell"><span class="icpeacHeading"><span class="icpeacHeadingDark">INTERNATIONAL CONFERENCE</span><span class="icpeacHeadingMed"> ON 
+                  PHOTONIC 
+                  ELECTRONIC</span>
+                  <span class="icpeacHeadingLight">AND 
+                  ATOMIC COLLISIONS</span></span><span class="icpeacDate">26 JULY - 1 AUGUST 2017  <span class="icpeacDateSpace">|</span>  CAIRNS CONVENTION CENTRE  <span class="icpeacDateSpace">|</span>  queensland, australia</span></td>
+              </tr>
+            </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="contentCell"><table width="900" border="0" cellpadding="0" cellspacing="0" id="contentTable">
+          <tr>
+            <td align="left" valign="top" class="links">
+<a href='/index.php'>WELCOME</a>
+<span class="current">SCOPE AND PROGRAM</span>
+<a href='/speakers.php'>SPEAKERS</a>
+<a href='/posterlist.php'>ABSTRACTS/POSTERS</a>
+<a href='/dates.php'>DATES / ANNOUNCEMENTS</a>
+<a href='/venue.php'>LOCATION AND VENUE</a>
+<a href='/accommodation.php'>ACCOMMODATION</a>
+<a href='/registration.php'>REGISTRATION</a>
+<a href='/travel.php'>TRAVEL</a>
+<a href='/proceedings.php'>PROCEEDINGS & MEDIA</a>
+<a href='/social_programme.php'>SOCIAL PROGRAM</a>
+<a href='/prizes.php'>SUPPORT AND PRIZES</a>
+<a href='/meetings.php'>SATELLITE MEETINGS</a>
+<a href='/exhibitors_sponsors.php'>SPONSORS / EXHIBITORS</a>
+<a href='/committees.php'>COMMITTEES</a>
+<a href='/contacts.php'>CONTACTS</a>
+<table width="165" border="0" cellpadding="0" cellspacing="0" id="anuTable">
+                <tr>
+                  <td class="sponsorcell"><p>MAJOR SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.curtin.edu.au"><img src="_images/curtinuniversity-logo.png" width="160" height="27" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.queensland.com/"><img src="_images/QLD-tourism-logo.png" width="155" height="46" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><p>OTHER SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.anu.edu.au"><img src="_images/ANU-logo-4.png" width="100" height="35" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.griffith.edu.au/"><img src="_images/Griffith-logo.png" width="110" height="31" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.iop.org/"><img src="_images/IOP-logo.png" width="125" height="41" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://iupap.org/"><img src="_images/IUPAP-logo.jpg" width="120" height="36" /></a></td>
+                </tr>
+
+                </table>
+            </td>
+            <td align="left" valign="top" class="content">
+ 
+<h1>Scope and Program</h1>
+
+<p><a href="/_files/ICPEAC_Program.pdf">ICPEAC 2017 Program At A Glance</a></p>
+<p><a href="posterlist.php">ICPEAC 2017 Poster Program</a></p>
+<p><a href="_files/ICPEAC_program_handbook.pdf">ICPEAC 2017 Handbook</a></p>
+
+<p>The ICPEAC 2017 Conference App is available for <a href="https://play.google.com/store/apps/details?id=com.eventsair.attendeeapp">
+Android devices</a> and <a href="https://itunes.apple.com/us/app/the-event-app-by-eventsair/id1142851582?ls=1&mt=8">Apple devices</a>.<br />
+Enter <b>icpeac2017</b> for a conference code and sign in using your email 
+address</p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr><td class="contentListTitleCell"><span class="contentListTitle">Day</span></td><td class="contentListTitleCell"><span class="contentListTitle">Activities</span></td></tr>
+<tr><td class="contentListData"><b>Tuesday 25 July</b></td>
+<td class="contentListData">Delegate registration - 13:00-19:00<br />
+Student tutorials - 14:00-17:30<br />
+Welcome Reception 18:00-19:30
+</td></tr>
+<tr><td class="contentListData"><b>Wednesday 26 July</b></td>
+<td class="contentListData">Official Opening - 8:45<br />
+Accompanying Person Welcome<br />
+Plenary Lectures - 9:00-10:00<br />
+Conference sessions - 10:30-12:30<br />
+Lunch - 12:30-14:00<br />
+Conference sessions - 14:00-16:00<br />
+Public Lecture - 19:00-20:00
+</td></tr>
+<tr><td class="contentListData"><b>Thursday 27 July</b></td>
+<td class="contentListData">Conference sessions - 9:00-12:00<br />
+Lunch - 12:30-14:00<br />
+Conference sessions - 14:00-16:00<br />
+Poster Session - 16:00-18:00
+</td></tr>
+<tr><td class="contentListData"><b>Friday 28 July</b></td>
+<td class="contentListData">
+Poster Session - 9:00-11:00<br />
+Plenary Lecture - 11:00-12:00<br />
+IUAP Prize Lecture - 12:00-13:00<br />
+Lunch - 12:30-14:00<br />
+Conference sessions - 14:00-16:00<br />
+Conference sessions - 16:30-18:00
+</td></tr>
+<tr><td class="contentListData"><b>Saturday and Sunday<br /> 29-30 July</b></td>
+<td class="contentListData">Weekend tours
+</td></tr>
+<tr><td class="contentListData"><b>Monday 31 July</b></td>
+<td class="contentListData">Plenary Lecture - 9:00-10:00<br />
+Conference sessions - 10:30-12:30<br />
+Lunch - 12:30-14:00<br />
+Conference sessions - 14:00-16:00<br />
+Poster Session - 16:00-18:00<br />
+Conference Dinner - 19:00-22:00
+</td></tr>
+<tr><td class="contentListDataLast"><b>Tuesday 1 August</b></td>
+<td class="contentListDataLast">
+Poster Session - 9:00-11:00<br />
+Plenary Lecture - 11:00-12:00<br />
+Sheldon Datz Prie Lecture - 12:00-13:00<br />
+Lunch - 12:30-14:00<br />
+Conference sessions - 14:00-16:00<br />
+Conference sessions - 16:30-18:00
+</td></tr>
+</table>
+<div>* Subject to change</div>
+
+<h3>Scientific Program</h3>
+<p>The ICPEAC program will comprises of 5 plenary lectures (1 hour, including discussion), 63 progress reports (30 minutes, including discussion), and 26 special reports (15-minute "hot topic" talks), held in two parallel sessions. About 800 posters will be presented in five poster sessions normally held in the afternoon.</p>
+
+<p>In addition, prior to the official opening of the conference, a number of one hour student tutorials with pedagogical emphasis will be given by leading scientists working in various fields of collision physics. It will benefit both PhD students and early career researchers.</p>
+
+<p>The proceedings from the ICPEAC meeting are published in <a href="http://iopscience.iop.org/volume/1742-6596/875">Volume 875,2017 of the Journal of Physics: Conference Series (JPCS)</a>. The proceedings from the previous ICPEAC meetings are available on the Journal website:</p>
+
+  <table width="100%" border="0" cellpadding="0" cellspacing="0" id="contentImageTable">
+    <tr align="right" valign="top">
+      <td  style="padding-right:8px;"><a href="http://iopscience.iop.org/1742-6596/388"><img src="_images/icpeac_logo_2011-190x190.jpg" width="190" height="190" /></a><br />
+        <span class="contentImageText"><a href="http://iopscience.iop.org/1742-6596/388">XXVII ICPEAC</a></span></td>
+      <td style="padding-right:4px; padding-left:4px;"><a href="http://iopscience.iop.org/volume/1742-6596/488"><img src="_images/icpeac_logo_2013-190x190.jpg" width="190" height="190" /></a><br />
+        <span class="contentImageText"><a href="http://iopscience.iop.org/volume/1742-6596/488">XXVIII ICPEAC</a></span></td>
+      <td style="padding-left:8px;"><a href="http://iopscience.iop.org/volume/1742-6596/635"><img src="_images/icpeac_logo_2015-190x190.jpg" width="190" height="190" /></a><br />
+        <span class="contentImageText"><a href="http://iopscience.iop.org/volume/1742-6596/635">XXIX ICPEAC</a></span></td>
+    </tr>
+  </table>
+
+<p>Invited speakers (Plenary, Progress and Hot Topics) will be invited to submit their papers to the conference proceedings. Contributing authors (Posters) may submit their one-page abstracts if their funding/participation in the ICPEAC will depend on the refereed and indexed publications.</p>
+
+<h3>Social Program</h3>
+<p>Traditionally, ICPEAC has a vigorous social programme. It starts with a welcome reception, continues with a public lecture of general interest and concludes with a conference dinner. All these activities will be held at the Cairns Convention Centre. The public lecture is free. The cost of the welcome reception is included in all types of registration. The cost of the conference dinner ticket is not included in the registration fees. Conference dinner tickets will be available at an extra cost.</p>
+
+<p>The close proximity of Cairns to the natural wonders of the Great Barrier Reef and the World Heritage rainforests offers great opportunities for the weekend sightseeing tours. The tours are at an additional cost and a special 10% discount is available to all attending delegates and accompanying persons.</p>
+
+  <table width="100%" border="0" cellpadding="0" cellspacing="0" id="contentImageTable">
+    <tr align="right" valign="top">
+      <td  style="padding-right:8px;"><img src="_images/green_island-190x117.jpg" width="190" height="117" /><br />
+        <span class="contentImageText"></span></td>
+      <td style="padding-right:4px; padding-left:4px;"><img src="_images/rainforest_skyrail-190x117.jpg" width="190" height="117" /><br />
+        <span class="contentImageText"></span></td>
+      <td style="padding-left:8px;"><img src="_images/great_barrier_reef-190x117.jpg" width="190" height="117" /><br />
+        <span class="contentImageText"></span></td>
+    </tr>
+  </table>
+
+<p>Find out more information and book your tours through the link below.</p>
+<center><p class="button"><a href="http://www.cairnsconferences.com.au/events/icpeac2017/">Book your tours</a></p></center>
+          
+</td>
+          </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="footer"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td align="right" valign="middle" class="footerLeft" ><span class="footerSponsorsTitle">icpeac XXX<br />
+sponsors</span></td>
+            <td align="left" valign="top" class="footerRight"><table border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="287" align="left" valign="top" style="padding-right:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.curtin.edu.au">Curtin University</a></li>
+                  <li> <a href="http://www.queensland.com/">Tourism and Events Queensland</a></li>
+                  </span></td>
+                <td width="287" align="left" valign="top" style="padding-left:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.anu.edu.au">Australian National University</a></li>
+                  <li><a href="http://www.griffith.edu.au">Griffith University</a></li>
+                  <li><a href="http://iupap.org">IUPAP</a></li>
+		  <li><a href="http://www.iop.org/">IOP/JPB</a></li>
+                  </span></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93820-12', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

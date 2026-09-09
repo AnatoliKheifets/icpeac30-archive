@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ICPEAC 2017 - Speakers</title>
+<link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+
+<link href="_includes/fonts/Open Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Open Sans Condensed/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Oswald/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/PT Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="924" border="0" align="center" cellpadding="0" cellspacing="0" id="container">
+  <tr>
+    <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" id="content">
+      <tr>
+        <td align="center" valign="middle" class="header"><table width="100%" border="0" cellpadding="0" cellspacing="0" id="headerTable">
+              <tr>
+                <td align="left" valign="middle" class="logoCell"><img src="_images/logo-4.png" width="108" height="128" / style="padding-left:40px;"></td>
+                <td align="left" valign="middle" class="pageTitleCell"><span class="icpeacHeading"><span class="icpeacHeadingDark">INTERNATIONAL CONFERENCE</span><span class="icpeacHeadingMed"> ON 
+                  PHOTONIC 
+                  ELECTRONIC</span>
+                  <span class="icpeacHeadingLight">AND 
+                  ATOMIC COLLISIONS</span></span><span class="icpeacDate">26 JULY - 1 AUGUST 2017  <span class="icpeacDateSpace">|</span>  CAIRNS CONVENTION CENTRE  <span class="icpeacDateSpace">|</span>  queensland, australia</span></td>
+              </tr>
+            </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="contentCell"><table width="900" border="0" cellpadding="0" cellspacing="0" id="contentTable">
+          <tr>
+            <td align="left" valign="top" class="links">
+<a href='/index.php'>WELCOME</a>
+<a href='/scope.php'>SCOPE AND PROGRAM</a>
+<span class="current">SPEAKERS</span>
+<a href='/posterlist.php'>ABSTRACTS/POSTERS</a>
+<a href='/dates.php'>DATES / ANNOUNCEMENTS</a>
+<a href='/venue.php'>LOCATION AND VENUE</a>
+<a href='/accommodation.php'>ACCOMMODATION</a>
+<a href='/registration.php'>REGISTRATION</a>
+<a href='/travel.php'>TRAVEL</a>
+<a href='/proceedings.php'>PROCEEDINGS & MEDIA</a>
+<a href='/social_programme.php'>SOCIAL PROGRAM</a>
+<a href='/prizes.php'>SUPPORT AND PRIZES</a>
+<a href='/meetings.php'>SATELLITE MEETINGS</a>
+<a href='/exhibitors_sponsors.php'>SPONSORS / EXHIBITORS</a>
+<a href='/committees.php'>COMMITTEES</a>
+<a href='/contacts.php'>CONTACTS</a>
+<table width="165" border="0" cellpadding="0" cellspacing="0" id="anuTable">
+                <tr>
+                  <td class="sponsorcell"><p>MAJOR SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.curtin.edu.au"><img src="_images/curtinuniversity-logo.png" width="160" height="27" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.queensland.com/"><img src="_images/QLD-tourism-logo.png" width="155" height="46" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><p>OTHER SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.anu.edu.au"><img src="_images/ANU-logo-4.png" width="100" height="35" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.griffith.edu.au/"><img src="_images/Griffith-logo.png" width="110" height="31" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.iop.org/"><img src="_images/IOP-logo.png" width="125" height="41" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://iupap.org/"><img src="_images/IUPAP-logo.jpg" width="120" height="36" /></a></td>
+                </tr>
+
+                </table>
+            </td>
+            <td align="left" valign="top" class="content">
+ 
+<h1>Speakers</h1>
+
+<p><a href="/_files/abstracts1-3B.pdf">ICPEAC 2017 speakers abstracts</a></p>
+
+<h2>Plenary Speakers</h2>
+<div>
+	<div class="bio-column bio-summary">
+        <div class="bio-column bio-left">
+            <p><strong>Linda Young</strong><br />
+            Argonne National Laboratory, The University of Chicago, USA
+            </p>
+        </div>
+        <div class="bio-column bio-right"><p>Harnessing ultra-intense X-rays for dynamic 3D imaging<br />
+        <a href="_files/pdftalks/Young_L.pdf">Download Talk Slides</a></p>
+            <a class="expand-button">Show synopsis and biography</a>
+            <div class="expand-content">
+                <p><strong>Synopsis:</strong> X-ray free-electron lasers have opened new frontiers in X-ray science.   Unprecedented intensities at Angstrom wavelengths have led to the discovery of X-ray phenomena such as nonlinear multiphoton absorption in atoms, molecules and clusters; atomic X-ray lasing; induced transparency; and stimulated emission.  This talk will review our current understanding of these phenomena that may eventually lead to dynamic 3D imaging of complex systems at atomic resolution.  </p>
+                <p><strong>Biography:</strong> Linda Young is the Director of the X-ray Science Division at the Argonne National Laboratory (ANL). She received her S.B. from the Massachusetts Institute of Technology and Ph.D. from the University of California, Berkeley.  After a postdoc position at the University of Chicago, she joined the Physics Division of ANL, where she has served as a Group Leader of AMO Physics before she was appointed to her present post. She currently also holds a joint appointment in the James Franck Institute and Department of Physics at the University of Chicago.  She has served as the Chair of DAMOP of the American Physical Society and is currently on the Scientific Advisory Committees of various X-ray light sources.  She is a fellow of the American Physical Society and was recently awarded a Helmholtz International Fellowship. </p>
+                <a class="contract-button">Hide synopsis and biography</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+	<div class="bio-column bio-summary">
+        <div class="bio-column bio-left">
+            <p><strong>Clifford M. Surko</strong><br />
+            University of California, San Diego, USA
+            </p>
+        </div>
+        <div class="bio-column bio-right"><p>New Physics with Advanced Positron Traps and Beams</p>
+            <a class="expand-button">Show synopsis and biography</a>
+            <div class="expand-content">
+                <p><strong>Synopsis:</strong> Three decades of positron trap and beam development have enabled new investigations such as the creation and study of anti-hydrogen atoms, the positronium molecule (Ps<sub>2</sub>), and Feshbach-resonances in annihilation that lead to positron-molecule bound states. This talk will discuss highlights of these and other successes and the critical tools that enabled them. It will conclude with a brief discussion of prospects for further progress on topics of keen interest including study of lepton many-body physics: Ps-atom BECs and classical (e<sup>+</sup>- e<sup>-</sup>) "pair plasmas."</p>
+                <p><strong>Biography:</strong> Cliff Surko is a Distinguished Professor of Physics at the University of California, San Diego. Following a Ph.D. at UC Berkeley, he did condensed matter, plasma and fluid research at AT&T Bell Laboratories before coming to UCSD in 1988. He is a fellow of the American Physical Society (APS) and the American Association for the Advancement of Science, and he is the recipient of the 2014 APS James Clerk Maxwell Prize in Plasma Physics. He and his collaborators have invented and developed numerous trap- and beam-based tools for positron research. His current work exploits plasma techniques to study atomic and plasma physics with positrons, including positron-molecule bound states and the Feshbach resonance phenomena that enable their formation.</p>
+                <a class="contract-button">Hide synopsis and biography</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+	<div class="bio-column bio-summary">
+        <div class="bio-column bio-left">
+            <p><strong>Henrik Cederquist</strong><br />
+            Physics Department, Stockholm University, Sweden
+            </p>
+        </div>
+        <div class="bio-column bio-right"><p>Heavy particle collisions: from single atomic targets to complex molecular clusters<br />
+        <a href="_files/pdftalks/Cederquist_H.pdf">Download Talk Slides</a></p>
+            <a class="expand-button">Show synopsis and biography</a>
+            <div class="expand-content">
+                <p><strong>Synopsis:</strong> In this talk I will discuss charge and energy transfer processes in meV-keV collisions of heavy projectiles and different types of targets ranging from single isolated molecules to small molecules, bio-molecules, and complex molecular clusters with thousands of atoms. I will discuss the mechanisms behind these processes and behind related collision-induced molecular fragmentation and growth processes.  I will highlight key experimental and theoretical results, which have been particularly useful in gaining an understanding of these phenomena, and will also make a comparison with related results for photon and lepton interactions. I will briefly mention new instrumental developments for detailed studies of photon and particle interactions with heavy particles in the form of atomic, molecular, and cluster ions.</p>
+                <p><strong>Biography:</strong> Henrik Cederquist is a Full Professor at Stockholm University. He received his PhD in atomic physics from the Royal Institute of Technology (KTH) in Stockholm in 1986 under supervision of Leif Liljeby, Sven Mannervik, and Anders Bárány. In 1986-1987 he was a post-doc at the University of Tennessee and Oak Ridge National Laboratories with Ivan Sellin. In 1989 he did his Habilitation at KTH, and in 1997 he received a Wallmarkska prize from the Royal Academy of Sciences for his work on collisions with fullerenes. In 1999 he was appointed to his present post. Henrik Cederquist  was an International Chair of the ECAMP conference in Salamanca, Spain in 2010 and an Elected Member of the Science Council of the Swedish Research Council in 2013-2018.</p>
+                <a class="contract-button">Hide synopsis and biography</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+	<div class="bio-column bio-summary">
+        <div class="bio-column bio-left">
+            <p><strong>Tilman Pfau </strong><br />
+            Physikalisches Institut, Universität Stuttgart, Germany
+            </p>
+        </div>
+        <div class="bio-column bio-right"><p>Dipolar quantum gases and liquids</p>
+            <a class="expand-button">Show synopsis and biography</a>
+            <div class="expand-content">
+                <p><strong>Synopsis:</strong> Dipolar interactions in gases are fundamentally different from the usual van der Waals forces. Besides the anisotropy, the dipolar interaction is nonlocal and as such allows for self organized structure formation. Candidates for dipolar species are polar molecules, Rydberg atoms and magnetic atoms. In this talk we focus on the latter.</p>
+                <p>More than ten years ago the first dipolar effects in a quantum gas were observed in an ultracold Chromium gas. By the use of a Feshbach resonance a purely dipolar quantum gas was observed three years after [1]. Dipolar interaction effects have been observed in lattices and polar molecules. Recently it became possible to study degenerate gases of lanthanides, among which one finds the most magnetic atoms. The recent observation of their collisional properties includes the emergence of quantum chaos and very broad resonances [2,3]. Similar to the Rosensweig instability in classical magnetic ferrofluids, self organized structure formation was expected. In our experiments with quantum gases of dysprosium atoms we could recently observe the formation of a droplet crystal [4]. In contrast to theoretical mean field based predictions the superfluid droplets did not collapse. We find that this unexpected stability is due to beyond mean field quantum corrections of the Lee-Huang-Yang type [5,6]. Similar to liquid helium droplets we observe and study self-bound droplets [7] which can interfere with each other. These and other effects will be discussed in the lecture.</p>
+                <p><small>[1] T. Lahaye, C. Menotti, L. Santos, M. Lewenstein, and T. Pfau, "The physics of dipolar bosonic quantum gases", Rep. Prog. Phys. 72, 126401 (2009)<br />
+[2] T. Maier, I. Ferrier-Barbut, H. Kadau, M. Schmitt, M. Wenzel, C. Wink, T. Pfau, K. Jachymski, P. S. Julienne, "Broad Feshbach resonances in collisions of ultracold Dysprosium atoms", Phys. Rev. A 92, 060702(R) (2015)<br />
+[3] T. Maier, H. Kadau, M. Schmitt, M. Wenzel, I. Ferrier-Barbut, T. Pfau, A. Frisch, S. Baier, K. Aikawa, L. Chomaz, M. J. Mark, F. Ferlaino, C. Makrides, E. Tiesinga, A. Petrov, S. Kotochigova, "Emergence of chaotic scattering in ultracold Er and Dy",  Phys. Rev. X 5, 041029 (2015)<br />
+[4] H. Kadau, M. Schmitt, M. Wenzel, C. Wink, T. Maier, I. Ferrier-Barbut, T. Pfau "Observing the Rosensweig instability of a quantum ferrofluid", Nature 530, 194 (2016)<br />
+[5] T. D. Lee, K. Huang, and C. N. Yang, " Eigenvalues and Eigenfunctions of a Bose System of Hard Spheres and Its Low-Temperature Properties", Phys. Rev. 106, 1135 (1957)<br />
+[6] I. Ferrier-Barbut, H. Kadau, M. Schmitt, M. Wenzel, T. Pfau, "Observation of quantum droplets in a strongly dipolar Bose gas", Phys. Rev. Lett. 116, 215301 (2016)<br />
+[7] M . Schmitt, M. Wenzel, F. Böttcher, I. Ferrier-Barbut, and T. Pfau, "Self-bound droplets of a dilute magnetic quantum liquid", arXiv:1607.07355 (2016), Nature (accepted)
+</small></p>
+                <p><strong>Biography:</strong> Tilman Pfau is a chair for Photonics at the Physikalisches Institut and Center for Integrated Quantum Science and Technology, Universität Stuttgart. He received his Diploma Degree and PhD from Universität Konstanz. He is a Fellow of the American Physical Society, the Optical Society of America and the American Association for the Advancement of Science. He is a recipient of the Gentner-Kastler Prize of the Société Française de Physique, Rudolf-Kaiser Award "For pioneering work on atom optics", and the Herbert P. Broida Prize of the APS 2017.</p>
+                <a class="contract-button">Hide synopsis and biography</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+	<div class="bio-column bio-summary">
+        <div class="bio-column bio-left">
+            <p><strong>Reinhard Kienberger</strong><br />
+            Fakultaet fuer Physik, TU Muenchen, Germany
+            </p>
+        </div>
+        <div class="bio-column bio-right"><p>Attosecond electron dynamics on surfaces and layered systems<br />
+        <a href="_files/pdftalks/Kienberger_R.pdf">Download Talk Slides</a></p>
+            <a class="expand-button">Show synopsis and biography</a>
+            <div class="expand-content">
+                <p><strong>Synopsis:</strong> Attosecond streaking [1] is the most established technique in attosecond science. Photoelectrons generated by attosecond extreme ultraviolet pulses (XUV), are exposed to a dressing electric field from well synchronized laser pulses. The energy shift experienced by the photoelectrons due to the dressing field is dependent on the delay between the XUV pulse and the dressing field, and makes it possible to measure the respective delay in photoemission between electrons of different type (core electrons vs. conduction band electrons).</p>
+<p>While first experiments were performed in noble gases, today’s focus shifted to investigation of electron dynamics in solids, surfaces and layered systems. The information gained in such experiments on tungsten [2] and other solids [3] triggered many theoretical activities leading to different explanations of the delay between various types of electrons.  An overview of these measurements will be presented and discussed.  Furthermore, we will discuss measurements of time-resolved transport of different types of electrons through a defined number of ad-layers on a bulk material which occurs on an attosecond timescale [4]. While the linear behavior in delay between the different types of electrons can be explained by transport effects, the delay of conduction band electrons is more complex and not fully understood. </p>
+
+<p>Recent experiments on the investigation of electron transport through sub-monolayer structures will additionally be presented.</p>
+
+<p><small>
+1.	R. Kienberger et al., Nature 427, 817 (2004).<br />
+2.	A. Cavalieri et al., Nature 449, 1029 (2009).<br />
+3.	S. Neppl et al., PRL 109 (8), 087401 (2012).<br />
+4.	S. Neppl et al., Nature 517, 342 (2015).
+</small></p>
+                <p><strong>Biography:</strong> Reinhard Kienberger is a professor for experimental physics at the Technical University of Munich (TUM). He received his Ph.D. in quantum optics from the Vienna University of Technology (Austria) in 2002. He spent a year at the Stanford Linear Accelerator Center, Menlo Park, CA, USA. From 2007, he was leader of an independent Junior Research Group at the Max-Planck-Institute of Quantum Optics in Garching/Munich, Germany. Kienberger was awarded the Sofja Kovalevskaja Award of the Alexander von Humboldt Foundation in 2006 and the Starting Grant of the European Research Council (ERC) in 2008. In the same year, he was appointed to TUM, where he became a full professor and the Chair for Laser and X-ray Science. In 2015 he received an ERC Consolidator Grant. He was also awarded the ICO Prize of the International Commission for Optics, the Ernst Abbe Medal of the Carl Zeiss Foundation, and the Prize for Research in Laser Science and Applications, European Physical Society (EPS). He is Member of the European Academy of Sciences and Arts.</p>
+                <a class="contract-button">Hide synopsis and biography</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h2>Tutorials</h2>
+
+<div>
+	<div class="bio-column bio-summary">
+        <div class="bio-column bio-left">
+            <p><strong>Barry Schneider</strong><br />
+            National Institute of Standards and Technology, USA
+            </p>
+        </div>
+        <div class="bio-column bio-right"><p>45 Years of Computational Atomic and Molecular Physics:  What Have We Learned<br />
+        <a href="_files/pdftalks/Schneider_B.pdf">Download Talk Slides</a></p>
+            <a class="expand-button">Show synopsis and biography</a>
+            <div class="expand-content">
+                <p><strong>Synopsis:</strong> Atomic and molecular physics was an early beneficiary of the development of electronic computation.  Luckily, most of the interactions between electrons and nuclei are well understood and it appears that all that remains is to “turn the crank”.  In retrospect, this was not that simple. These are complex many-body systems and in order to overcome the exponential scaling of these computations with the number of particles, clever algorithms and efficient codes needed to be developed.  In this talk I will describe a number of the important developments that have taken place over the past four decades and how they have impacted our qualitative and quantitative understanding of scattering processes and the interaction of radiation with matter.</p>
+                <p><strong>Biography:</strong> Barry I. Schneider is a staff member of the National Institute of Standards and Technology (NIST) Applied and Computational Mathematics Division. He received his B.S. in chemistry from Brooklyn College, his M.S. in chemistry from Yale University and a Ph.D. in theoretical chemistry from the University of Chicago. He was a postdoctoral research associate at the University of Southern California (1969-1970), and a staff member of the General Telephone and Electronics Laboratory (1970- 1972). He joined the Theoretical Division of Los Alamos National Laboratory (1972-1991) and then the National Science Foundation (1991-2013 ). In early 2014, he came to NIST as the General Editor of the DLMF project.</p>
+                <a class="contract-button">Hide synopsis and biography</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+	<div class="bio-column bio-summary">
+        <div class="bio-column bio-left">
+            <p><strong>Chris H. Greene,</strong><br />
+Purdue University, USA
+            </p>
+        </div>
+        <div class="bio-column bio-right"><p>Theoretical description of atomic and molecular Rydberg states<br />
+        <a href="_files/pdftalks/Greene_Ch.pdf">Download Talk Slides</a></p>
+            <a class="expand-button">Show synopsis and biography</a>
+            <div class="expand-content">
+                <p><strong>Synopsis:</strong> This lecture will review some of the main theoretical ideas that have proven to be useful in describing the physics of Rydberg atoms and molecules.  The basics of multi-channel quantum defect theory will be discussed from a practical point of view, and the description of molecular Rydberg states will also be summarized.  This lecture will cover not only some of the basic theoretical ideas, but it will also address some of the phenomenology and motivation for exploring Rydberg systems.</p>
+                <p><strong>Biography:</strong> Chris Greene is the Overhauser Distinguished Professor of Physics at Purdue University. He was an undergraduate at the University of Nebraska at Lincoln, and then received his PhD from the University of Chicago working with Ugo Fano on problems of theoretical atomic physics.  Following a postdoctoral stint divided between Richard Zare's group at Stanford and Christian Jungen's group in Orsay, he has held faculty appointments at Louisiana State University and the University of Colorado before he was appointed to his present post. His research into theoretical atomic, molecular, and optical physics has explored multi-channel Rydberg atoms and molecules, ultra-cold few-body physics and physical chemistry, and deals in general with non-perturbative  interactions among atoms, electrons, molecules, and/or photons.</p>
+                <a class="contract-button">Hide synopsis and biography</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+	<div class="bio-column bio-summary">
+        <div class="bio-column bio-left">
+            <p><strong>Thomas Pfeifer </strong><br />
+            Max-Planck Institute for Nuclear Physics
+Heidelberg, Germany
+
+            </p>
+        </div>
+        <div class="bio-column bio-right"><p>Shaping atoms and molecules by strong laser fields<br />
+        <a href="_files/pdftalks/Pfeifer_Th.pdf">Download Talk Slides</a></p>
+            <a class="expand-button">Show synopsis and biography</a>
+            <div class="expand-content">
+                <p><strong>Synopsis:</strong> High-frequency radiation such as extreme ultraviolet (XUV) and x-ray light is ideally suited to observe atoms and molecules changing their natural structure and shape in strong laser fields.  For attosecond spectroscopy, high harmonics generated by intense optical lasers are of great use, whereas for x-ray imaging of tiny molecular sizes one can employ coherent femtosecond-pulsed light delivered by free-electron lasers (FELs). In this tutorial, we will cover some recent developments in strong-field intra-atomic and -molecular physics on short time scales which may, at some point in the future, transform synthetic chemistry from the purely classical, population-based thermodynamic realm into the quantum-mechanical domain of phase and amplitude controlled laser-driven reactions.</p>
+                <p><strong>Biography:</strong> Thomas Pfeifer is a Division Director of the Max-Planck Institute for Nuclear Physics (MPIK) in Heidelberg, Germany. He received his M.A. from the University of Texas, Austin in 2000 and his Ph.D. from the University of Würzburg, Germany in 2004. In 2005-2008 he was a Research Fellow (Alexander von Humboldt Foundation) and a Postdoctoral Research Associate at Lawrence Berkeley National Lab (LBNL) and UC Berkeley (Attosecond Chemical Dynamics). In 2009 he became an independent Max-Planck Research Group Leader and in 2014 he was appointed to his present post as the Director of the Experimental Quantum Dynamics&Control Division at the MPIK. In  2013 he received a Heinz-Maier-Leibnitz Award of the German Research Foundation (DFG) and a Consolidator Grant of the European Research Council (ERC) .Thomas Pfeifer’s current research activities are in the field of ultrafast (attosecond/femtosecond) spectroscopy of electronic quantum dynamics in atoms and molecules.</p>
+                <a class="contract-button">Hide synopsis and biography</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--
+<div>
+	<div class="bio-column bio-summary">
+        <div class="bio-column bio-left">
+            <p><strong>NAME</strong><br />
+            UNI
+            </p>
+        </div>
+        <div class="bio-column bio-right"><p>TITLE</p>
+            <a class="expand-button">Show synopsis and biography</a>
+            <div class="expand-content">
+                <p><strong>Synopsis:</strong> SYNOPSIS</p>
+                <p><strong>Biography:</strong> BIOGRAPHY</p>
+                <a class="contract-button">Hide synopsis and biography</a>
+            </div>
+        </div>
+    </div>
+</div>
+-->
+
+<!--
+<div>
+    <div class="bio-column bio-summary">
+        <div class="bio-column bio-left">
+            <p><strong>NAME</strong><br />
+            UNI
+            </p>
+        </div>
+        <div class="bio-column bio-right"><p>TITLE</p></div>
+    </div>
+</div>
+-->
+
+<h2>Progress reports</h2>
+
+<span class="contentListTitle">Photons</span>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Jens</strong><strong> </strong><strong>Biegert</strong><br>
+      Spain</td>
+   <td style="font-style: italic;" valign="top">Mid-IR sources for    molecular imaging and soft-X-rays<br />
+        <a href="_files/pdftalks/Biegert_J.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Paola</strong><strong> </strong><strong>Bolognesi</strong><br>
+      Italy</td>
+   <td style="font-style: italic;" valign="top">Ion and photon induced    molecular  fragmentation </td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Zenghu</strong><strong> </strong><strong>Chang</strong><br>
+      USA</td>
+   <td style="font-style: italic;" valign="top">Attosecond soft x-rays in    the water window</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Dimitris</strong><strong> </strong><strong>Charalambidis</strong><br>
+      Hungary</td>
+   <td style="font-style: italic;" valign="top">Novel high harmonic    generation schemes</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Marcelo</strong><strong> </strong><strong>Ciappina</strong><br>
+      Czech Republic</td>
+   <td style="font-style: italic;" valign="top">Attosecond physics gets    nano<br />
+        <a href="_files/pdftalks/Ciappina_M.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Marcus    Dahlström</strong><br>
+      Sweden</td>
+   <td style="font-style: italic;" valign="top">Precise attosecond pulse    characterization<br />
+        <a href="_files/pdftalks/Dahlstrom_M.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Katharina</strong><strong> </strong><strong>Doblhoff-Dier</strong><br>
+      Netherlands</td>
+   <td style="font-style: italic;" valign="top">Strong-field    fragmentation of small molecules</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Jesús Gonzalez-Vazquez</strong><br>
+      Spain</td>
+   <td style="font-style: italic;" valign="top">Ultrafast non-adiabatic    dissociation of N2 </td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Elena Gryzlova</strong><br>
+      Russia</td>
+   <td style="font-style: italic;" valign="top">Poly-chromatic resonant    ionization of many-electron atoms<br />
+        <a href="_files/pdftalks/Gryzlova_E.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Kyung    Taec Kim</strong><br>
+      Korea</td>
+   <td style="font-style: italic;" valign="top">Time-resolved    spectroscopy of ultrafast autoionization of He </td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Hugo van der Hart</strong><br>
+      UK</td>
+   <td style="font-style: italic;" valign="top">Extreme-Ultraviolet-Initated High-Order Harmonic Generation</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Matthias Kling</strong><br>
+      Germany</td>
+   <td style="font-style: italic;" valign="top">Attosecond control and tracing of electron dynamics in molecules and nanoparticles </td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Christiane Koch</strong><br>
+      Germany</td>
+   <td style="font-style: italic;" valign="top">Theory of photoelectron angular distributions: From understanding photoelectron circular dichroism to strong field coherent control</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Igor</strong><strong> </strong><strong>Litvinyuk</strong><br>
+      Australia</td>
+   <td style="font-style: italic;" valign="top">Strong-field ionisation    of Hydrogen<br />
+        <a href="_files/pdftalks/Litvinyuk_I.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Tommaso</strong><strong> </strong><strong>Mazza</strong><br>
+      Germany</td>
+   <td style="font-style: italic;" valign="top">Dichroism and resonances    in intense radiation fields<br />
+        <a href="_files/pdftalks/Mazza_T.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Kiyonobu</strong><strong> </strong><strong>Nagaya</strong><br>
+      Japan</td>
+   <td style="font-style: italic;" valign="top">Ultrafast dynamics of    nano-scale systems induced by XFEL</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Laurent</strong><strong> </strong><strong>Nahon</strong><br>
+      France</td>
+   <td style="font-style: italic;" valign="top">Photoelectron circular    dichroism in the photoionization of gas phase chiral systems</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Sergei</strong><strong> </strong><strong>Patchkovskii</strong><br>
+      Germany</td>
+   <td style="font-style: italic;" valign="top">Probing molecules with    photoelectron rescattering and harmonics generation</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Kevin</strong><strong> </strong><strong>Prince</strong><br>
+      Italy</td>
+   <td style="font-style: italic;" valign="top">Coherent control at FELs    with attosecond phase resolution</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Takeshi</strong><strong> </strong><strong>Sato</strong><br>
+      Japan</td>
+   <td style="font-style: italic;" valign="top">Multielectron dynamics of    atoms and molecules in strong laser fields</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Olga</strong><strong> </strong><strong>Smirnova</strong><br>
+      Germany</td>
+   <td style="font-style: italic;" valign="top">Attosecond Spectroscopy</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Andre</strong><strong> </strong><strong>Staudte</strong><br>
+      Canada</td>
+   <td style="font-style: italic;" valign="top">Molecular Imaging with    Intense Laser Pulses and Coincidence Spectroscopy</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Oksana</strong><strong> </strong><strong>Travnikova</strong><br>
+      France</td>
+   <td style="font-style: italic;" valign="top">Ultrafast dissociation    and molecular decay induced by X-Ray</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Hans    Jakob</strong><strong> </strong><strong>Woerner</strong><br>
+      Switzerland</td>
+   <td style="font-style: italic;" valign="top">Attosecond electron    dynamics in molecules and liquids</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Jian</strong><strong> </strong><strong>Wu</strong><br>
+      China</td>
+   <td style="font-style: italic;" valign="top">Photon energy deposition in strong-field ionization of molecules</td>
+</tr><tr>
+    <td width="180" style="padding-bottom:10px;"valign="top"><strong>Olga Smirnova</strong><br>
+      Germany</td>
+   <td style="font-style: italic;" valign="top">Attosecond Spectroscopy: Looking inside chiral molecules on femtosecond time scale</td>
+  </tr>
+  <tr>
+   </tr>
+</table>
+
+<span class="contentListTitle">Leptons</span>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Gregory Boyle</strong><br>
+      Australia</td>
+   <td style="font-style: italic;" valign="top">Electron and positron scattering and transport in simple liquids<br />
+        <a href="_files/pdftalks/Boyle_G.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>David     Cassidy</strong><br>
+      UK</td>
+   <td style="font-style: italic;" valign="top">Excited states    of&nbsp;Positronium in electric fields<br />
+        <a href="_files/pdftalks/Cassidy_D.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Martin Centurion</strong><br>
+      USA</td>
+   <td style="font-style: italic;" valign="top">Ultrafast imaging of    isolated molecules with electron pulses</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Alexander Dorn</strong><br>
+      Germany</td>
+   <td style="font-style: italic;" valign="top">Electron impact    ionization of clusters and  molecules</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Ilya Fabrikant</strong><br>
+      USA</td>
+   <td style="font-style: italic;" valign="top">Positronium collisions    with atoms and molecules<br />
+        <a href="_files/pdftalks/Fabrikant_I.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Gustavo Garcia</strong><br>
+      Spain</td>
+   <td style="font-style: italic;" valign="top">Particle transport in biologically relevant media: The case of Furfural<br />
+        <a href="_files/pdftalks/Garcia_G.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Zhimin Hu</strong><br>
+      China</td>
+   <td style="font-style: italic;" valign="top">Dielectronic    Recombination in EBIT</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Darryl Jones</strong><br>
+      Australia</td>
+   <td style="font-style: italic;" valign="top">Electron scattering from    biomolecules</td>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>S V K Kumar </strong><br>
+      India</td>
+   <td style="font-style: italic;" valign="top">Low Energy Electron    interaction with DNA and Protein</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Andrew Murray</strong><br>
+      UK</td>
+   <td style="font-style: italic;" valign="top">Unnatural-parity    contributions in electron-impact ionization of laser-aligned atoms</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Yasuyuki Nagashima</strong><br>
+      Japan</td>
+   <td style="font-style: italic;" valign="top">Shape resonance of the    positronium negative ion</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Bingsheng Tu</strong><br>
+      China</td>
+   <td style="font-style: italic;" valign="top">Photorecombination studies at Shanghai EBIT<br />
+        <a href="_files/pdftalks/Tu_B.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Simon Preval</strong><br>
+      UK</td>
+   <td style="font-style: italic;" valign="top">Physics and applications    of collisional recombination<br />
+        <a href="_files/pdftalks/Preval_S.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Yuri Ralchenko</strong><br>
+      USA</td>
+   <td style="font-style: italic;" valign="top">Collisional-radiative    modeling of hot plasmas</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Ioan Schneider</strong><br>
+      France</td>
+   <td style="font-style: italic;" valign="top">Reactive collisions of    electrons with molecular cations</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Małgorzata Śmiałek</strong><br>
+      Poland</td>
+   <td style="font-style: italic;" valign="top">Low energy electron    interaction with molecules of biological interest.</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Masakazu Yamazaki</strong><br>
+      Japan</td>
+   <td style="font-style: italic;" valign="top">Molecular Orbital and    Atomic Motion Imaging using Time-Resolved Electron Scattering</td>
+  </tr>
+</table>
+
+<span class="contentListTitle">Heavy Particles</span>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Ilkhom    Abdurakhmanov</strong><br>
+      Australia</td>
+   <td style="font-style: italic;" valign="top">CCC calculations for    heavy-particle collisions<br />
+        <a href="_files/pdftalks/Abdurakhmanov_I.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Li Chen-yu</strong><br>
+      France</td>
+   <td style="font-style: italic;" valign="top">Excitation, fragmentation    and radiative decay of molecules studied with fast ion beams  </td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Johannes Deiglmayr</strong><br>
+      Switzerland</td>
+   <td style="font-style: italic;" valign="top">Ultracold Rydberg Atoms</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Alicja Domaracka</strong><br>
+      France</td>
+   <td style="font-style: italic;" valign="top">Highly charged heavy Ions collisions</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Maria Silvia</strong><strong> </strong><strong>Gravielle</strong><br>
+      Argentina</td>
+   <td style="font-style: italic;" valign="top">Fast interactions of atoms and laser pulses with crystal surfaces<br />
+        <a href="_files/pdftalks/Gravielle_M.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Niels</strong><strong> </strong><strong>Kjaergaard</strong><br>
+      New Zealand</td>
+   <td style="font-style: italic;" valign="top">Multiple scattering dynamics of cold fermions</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Yuri</strong><strong> </strong><strong>Kozhedub</strong><br>
+      Russia</td>
+   <td style="font-style: italic;" valign="top">Pair creation in low-energy heavy ion-atom collisions<br />
+        <a href="_files/pdftalks/Kozhedub_Y.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Maxim</strong><strong> </strong><strong>Kunitski</strong><br>
+      Germany</td>
+   <td style="font-style: italic;" valign="top">Observation of the Efimov state of the helium trimer </td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Yuri</strong><strong> </strong><strong>Litvinov</strong><br>
+      Germany</td>
+   <td style="font-style: italic;" valign="top">Studies at the border between atomic and nuclear physics</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Jennifer </strong><strong> </strong><strong>Meyer</strong><br>
+      Austria</td>
+   <td style="font-style: italic;" valign="top">Quantum state-to-state scattering in ion-neutral collisions</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Takashi</strong><strong> </strong><strong>Mukaiyama</strong><br>
+      Japan</td>
+   <td style="font-style: italic;" valign="top">Collisional properties of    ultracold ions with neutral atoms</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Oldrich</strong><strong> </strong><strong>Novotný</strong><br>
+      Germany</td>
+   <td style="font-style: italic;" valign="top">Internally cold ions in    the Cryogenic Storage Ring</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Ismanuel</strong><strong> </strong><strong>Rabadán</strong><br>
+      Spain</td>
+   <td style="font-style: italic;" valign="top">Orientation effects in    ion-molecule collisions</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Thomas</strong><strong> </strong><strong>Schlathölter</strong><br>
+      Netherlands</td>
+   <td style="font-style: italic;" valign="top">Ions and photons    interacting with biomolecules<br />
+        <a href="_files/pdftalks/Schlatholter_T.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Richard</strong><strong> </strong><strong>Schmidt</strong><br>
+      USA</td>
+   <td style="font-style: italic;" valign="top">Many-body physics with    ultracold atoms</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Sebastian</strong><strong> </strong><strong>Will</strong><br>
+      USA</td>
+   <td style="font-style: italic;" valign="top">Quantum    Control in Ultracold Dipolar Molecules</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Henrik Pedersen</strong><br>
+      Denmark</td>
+   <td style="font-style: italic;" valign="top">Photofragmentation of ions and fragment storage in a compact storage ring</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Andrew Truscott</strong><br>
+      Australia</td>
+   <td style="font-style: italic;" valign="top">Ghost Imaging with Atoms</td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Yang</strong><strong> </strong><strong>Wang</strong><br>
+      Spain</td>
+   <td style="font-style: italic;" valign="top">The relative stability    of highly charged fullerenes produced in energetic collisions<br />
+        <a href="_files/pdftalks/Wang_Y.pdf">Download Talk Slides</a></td>
+  </tr>
+  <tr>
+   <td width="180" style="padding-bottom:10px;"valign="top"><strong>Naoki</strong><strong> </strong><strong>Watanabe</strong><br>
+      Japan</td>
+   <td style="font-style: italic;" valign="top"> H2 ortho-para conversion on    amorphous solid water<br />
+        <a href="_files/pdftalks/Watanabe_N.pdf">Download Talk Slides</a></td>
+  </tr>
+</table>
+
+<h2>Special reports</h2>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Alexander Blättermann</strong><br>
+      Germany</td>
+   <td style="font-style: italic;" valign="top">Observing the ultrafast buildup of a Fano resonance</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Miriam Weller</strong><br>
+      Germany</td>
+   <td style="font-style: italic;" valign="top">Imaging the Temporal Evolution of Molecular Orbitals during Ultrafast Dissociation</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Tomoyuki  Endo</strong><br>
+      Canada</td>
+   <td style="font-style: italic;" valign="top">Tunneling ionization imaging of photoexcitation of NO by ultrafast laser pulses</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Fabian Lackner</strong><br>
+      Austria</td>
+   <td style="font-style: italic;" valign="top">Time-Dependent Two-Particle Reduced Density Matrix Theory: Application to HHG</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Alexander  Bray</strong><br>
+      Australia</td>
+   <td style="font-style: italic;" valign="top">Attosecond Time Delay in Photoemission and Electron Scattering near Threshold<br />
+        <a href="_files/pdftalks/Bray_A.pdf">Download Talk Slides</a></td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Song Bin Zhang</strong><br>
+      China</td>
+   <td style="font-style: italic;" valign="top">Nonlinear resonant Auger spectra and transient x-ray absorption spectra in CO using an x-ray pump-control scheme<br />
+        <a href="_files/pdftalks/Zhang_SB.pdf">Download Talk Slides</a></td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Chuncheng Wang</strong><br>
+      China</td>
+   <td style="font-style: italic;" valign="top">Footprints of electron correlation in strong field double ionization  of Kr close to sequential ionization regime</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Fabian Holzmeier</strong><br>
+      France</td>
+   <td style="font-style: italic;" valign="top">Control of H<sub>2</sub> and D<sub>2</sub> dissociative ionization in the non-linear regime using EUV femtosecond pulses @FERMI<br />
+        <a href="_files/pdftalks/Holzmeier_F.pdf">Download Talk Slides</a></td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Benjamin Laws</strong><br>
+      Australia</td>
+   <td style="font-style: italic;" valign="top">NOO peroxy isomer discovered in the velocity-map imaged photoelectron spectrum of NO2-</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Daniel  Rolles</strong><br>
+      USA</td>
+   <td style="font-style: italic;" valign="top">Studying Molecular Structure and Dynamics via Coulomb Explosion Imaging with X-rays and Ultrafast Laser Pulses</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Moemi Asamura</strong><br>
+      Japan</td>
+   <td style="font-style: italic;" valign="top">MeV ion beam extraction into air with a glass capillary filled with He</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Joe Whalen</strong><br>
+      USA</td>
+   <td style="font-style: italic;" valign="top">Lifetimes of ultralong-range strontium Rydberg molecules in a dense BEC<br />
+        <a href="_files/pdftalks/Whalen_J.pdf">Download Talk Slides</a></td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Stefan Eriksson</strong><br>
+      UK</td>
+   <td style="font-style: italic;" valign="top">Observation of the 1S - 2S transition in trapped antihydrogen</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Joseph Tan</strong><br>
+      Canada</td>
+   <td style="font-style: italic;" valign="top">Studies of single- and double-electron capture by highly charged ions isolated at very low energy in a Penning trap</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>David La Mantia</strong><br>
+      USA</td>
+   <td style="font-style: italic;" valign="top">"Radiative Double Electron Capture (RDEC) in F<sup>9+</sup> + Ne, He Collisions"<br />
+        <a href="_files/pdftalks/LaMantia_D.pdf">Download Talk Slides</a></td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Radek Plasil</strong><br>
+      Czech Republic</td>
+   <td style="font-style: italic;" valign="top">Reactions of O– with D2 at low temperatures 10 – 300 K</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Gustav Eklund</strong><br>
+      Sweden</td>
+   <td style="font-style: italic;" valign="top">Rotationally cold (>99% J = 0) OH- molecular ions in a cryogenic storage ring<br />
+        <a href="_files/pdftalks/Eklund_G.pdf">Download Talk Slides</a></td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Mai Yoshida</strong><br>
+      Japan</td>
+   <td style="font-style: italic;" valign="top">Detection of recurrent fluorescence photons emitted from C<sub>4</sub><sup>–</sup></td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Nathan Clayburn</strong><br>
+      USA</td>
+   <td style="font-style: italic;" valign="top">Measurement of the Integrated Stokes Parameters for Zn 468 nm Florescence Excited by Polarized-Electron Impact</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Matthieu Génévriez</strong><br>
+      Belgium</td>
+   <td style="font-style: italic;" valign="top">Electron impact ionization of He(1s2s <sup>3</sup>S) and He(1s2s2p <sup>4</sup>P)</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Mateusz  Zawadzki</strong><br>
+      Czech Republic </td>
+   <td style="font-style: italic;" valign="top">Energy Flow Between Pyrimidines and Water Triggered by Low Energy Electrons</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Dermot Green</strong><br>
+      UK </td>
+   <td style="font-style: italic;" valign="top">Calculations of positron cooling and annihilation in noble gases</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Nobuyuki Nakamura</strong><br>
+      Japan</td>
+   <td style="font-style: italic;" valign="top">Extreme ultraviolet spectra of multiply charged tungsten ions</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Zhongkui  Huang </strong><br>
+      China</td>
+   <td style="font-style: italic;" valign="top">Dielectronic Recombination of Be-like 40Ar<sup>14+</sup> at the CSRm<br />
+        <a href="_files/pdftalks/Huang_Z.pdf">Download Talk Slides</a></td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Dhananjay Nandi</strong><br>
+      India</td>
+   <td style="font-style: italic;" valign="top">Dissociative electron attachment to CO molecule probed by velocity slice imaging technique<br />
+        <a href="_files/pdftalks/Nandi_D.pdf">Download Talk Slides</a></td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Chintan Shah </strong><br>
+      Germany</td>
+   <td style="font-style: italic;" valign="top">"Laboratory measurements compellingly support a charge-exchange mechanism for the ""Dark matter"" $\sim$ 3.5 keV X-ray line"</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Raul Barrachina</strong><br>
+      Argentina</td>
+   <td style="font-style: italic;" valign="top">Vortex rings in the ionization of atoms by positron impact</td>
+  </tr>
+
+  <tr>
+   <td width="180" style="padding-bottom:10px;"nowrap valign="top"><strong>Xu Shan</strong><br>
+      China</td>
+   <td style="font-style: italic;" valign="top">Valence electronic structures of isopropyl iodide investigated by using electron momentum spectroscopy<br />
+        <a href="_files/pdftalks/Shan_Xu.pdf">Download Talk Slides</a></td>
+  </tr>
+
+</table>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>
+$(".expand-button").click(function(){
+	$button = $(this);
+	$content = $button.next(".expand-content");
+	$content.slideToggle(500, function(){
+		$button.text(function (){
+			return $content.is(":visible") ? "Hide synopsis and biography" : "Show synopsis and biography";
+		}); // end button text setting... function... why, JS, why?
+	}); // end slidetoggle callback
+}); // end click function
+
+$(".contract-button").click(function(){
+	$button = $(this);
+	$content = $button.parent(".expand-content");
+	$content.slideToggle(500, function(){
+        $masterButton = $content.prev(".expand-button");
+		$masterButton.text(function (){
+			return $content.is(":visible") ? "Hide synopsis and biography" : "Show synopsis and biography";
+		}); // end button text setting... function... why, JS, why?
+	}); // end slidetoggle callback
+}); // end click function
+
+$(".expand-content").hide();
+$(".expand-button").show();
+$(".contract-button").show();
+</script>
+
+
+</td>
+          </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="footer"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td align="right" valign="middle" class="footerLeft" ><span class="footerSponsorsTitle">icpeac XXX<br />
+sponsors</span></td>
+            <td align="left" valign="top" class="footerRight"><table border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="287" align="left" valign="top" style="padding-right:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.curtin.edu.au">Curtin University</a></li>
+                  <li> <a href="http://www.queensland.com/">Tourism and Events Queensland</a></li>
+                  </span></td>
+                <td width="287" align="left" valign="top" style="padding-left:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.anu.edu.au">Australian National University</a></li>
+                  <li><a href="http://www.griffith.edu.au">Griffith University</a></li>
+                  <li><a href="http://iupap.org">IUPAP</a></li>
+		  <li><a href="http://www.iop.org/">IOP/JPB</a></li>
+                  </span></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93820-12', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

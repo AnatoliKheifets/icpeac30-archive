@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ICPEAC 2017 - Proceedings</title>
+<link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+
+<link href="_includes/fonts/Open Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Open Sans Condensed/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Oswald/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/PT Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="924" border="0" align="center" cellpadding="0" cellspacing="0" id="container">
+  <tr>
+    <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" id="content">
+      <tr>
+        <td align="center" valign="middle" class="header"><table width="100%" border="0" cellpadding="0" cellspacing="0" id="headerTable">
+              <tr>
+                <td align="left" valign="middle" class="logoCell"><img src="_images/logo-4.png" width="108" height="128" / style="padding-left:40px;"></td>
+                <td align="left" valign="middle" class="pageTitleCell"><span class="icpeacHeading"><span class="icpeacHeadingDark">INTERNATIONAL CONFERENCE</span><span class="icpeacHeadingMed"> ON 
+                  PHOTONIC 
+                  ELECTRONIC</span>
+                  <span class="icpeacHeadingLight">AND 
+                  ATOMIC COLLISIONS</span></span><span class="icpeacDate">26 JULY - 1 AUGUST 2017  <span class="icpeacDateSpace">|</span>  CAIRNS CONVENTION CENTRE  <span class="icpeacDateSpace">|</span>  queensland, australia</span></td>
+              </tr>
+            </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="contentCell"><table width="900" border="0" cellpadding="0" cellspacing="0" id="contentTable">
+          <tr>
+            <td align="left" valign="top" class="links">
+<a href='/index.php'>WELCOME</a>
+<a href='/scope.php'>SCOPE AND PROGRAM</a>
+<a href='/speakers.php'>SPEAKERS</a>
+<a href='/posterlist.php'>ABSTRACTS/POSTERS</a>
+<a href='/dates.php'>DATES / ANNOUNCEMENTS</a>
+<a href='/venue.php'>LOCATION AND VENUE</a>
+<a href='/accommodation.php'>ACCOMMODATION</a>
+<a href='/registration.php'>REGISTRATION</a>
+<a href='/travel.php'>TRAVEL</a>
+<span class="current">PROCEEDINGS & MEDIA</span>
+<a href='/social_programme.php'>SOCIAL PROGRAM</a>
+<a href='/prizes.php'>SUPPORT AND PRIZES</a>
+<a href='/meetings.php'>SATELLITE MEETINGS</a>
+<a href='/exhibitors_sponsors.php'>SPONSORS / EXHIBITORS</a>
+<a href='/committees.php'>COMMITTEES</a>
+<a href='/contacts.php'>CONTACTS</a>
+<table width="165" border="0" cellpadding="0" cellspacing="0" id="anuTable">
+                <tr>
+                  <td class="sponsorcell"><p>MAJOR SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.curtin.edu.au"><img src="_images/curtinuniversity-logo.png" width="160" height="27" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.queensland.com/"><img src="_images/QLD-tourism-logo.png" width="155" height="46" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><p>OTHER SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.anu.edu.au"><img src="_images/ANU-logo-4.png" width="100" height="35" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.griffith.edu.au/"><img src="_images/Griffith-logo.png" width="110" height="31" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.iop.org/"><img src="_images/IOP-logo.png" width="125" height="41" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://iupap.org/"><img src="_images/IUPAP-logo.jpg" width="120" height="36" /></a></td>
+                </tr>
+
+                </table>
+            </td>
+            <td align="left" valign="top" class="content">
+ 
+<h1>Proceedings</h1>
+
+<p>The ICPEAC XXX proceedings have been published in <a href="http://iopscience.iop.org/volume/1742-6596/875">Volume 875, 2017 of 
+the Journal of Physics: Conference Series (JPCS)</a></p>
+
+<p>The following issues are complete:</p>
+<ul>
+<li><a href="http://iopscience.iop.org/issue/1742-6596/875/1">Preface, 2017</a> (001001-001002)</li>
+<li><a href="http://iopscience.iop.org/issue/1742-6596/875/2">Papers, 2017</a> (012001-012022)</li>
+<li><a href="http://iopscience.iop.org/issue/1742-6596/875/3">Photons -- Atom/Ion, 2017</a> (022001-022054)</li>
+<li><a href="http://iopscience.iop.org/issue/1742-6596/875/4">Photons -- Molecule, 2017</a> (032001-032037)</li>
+<li><a href="http://iopscience.iop.org/issue/1742-6596/875/5">Photons -- Condensed Matter/Other, 2017</a> (042001-042013)</li>
+<li><a href="http://iopscience.iop.org/issue/1742-6596/875/6">Leptons -- Atom/Ion, 2017</a> (052001-052049)</li>
+<li><a href="http://iopscience.iop.org/issue/1742-6596/875/7">Leptons -- Molecule, 2017</a> (062002-062052)</li>
+<li><a href="http://iopscience.iop.org/issue/1742-6596/875/8">Leptons -- Condensed Matter, 2017</a> (072001-072005)</li>
+<li><a href="http://iopscience.iop.org/issue/1742-6596/875/9">Heavy Particles -- Cold, 2017</a> (082001-082013)</li>
+<li><a href="http://iopscience.iop.org/issue/1742-6596/875/10">Heavy Particles -- Atom/Ion, 2017</a> (092001-092029)</li>
+<li><a href="http://iopscience.iop.org/issue/1742-6596/875/11">Heavy Particles -- Molecule, 2017</a> (102001-102037)</li>
+<li><a href="http://iopscience.iop.org/issue/1742-6596/875/12">Heavy Particles -- Condensed Matter, 2017</a> (112001-112015)</li>
+<li><a href="http://iopscience.iop.org/issue/1742-6596/875/13">Other Processes, 2017</a> (122001-122004)</li>
+</ul>
+
+<h1>Media</h1>
+<p>The <a href="https://goo.gl/photos/isngR7MrHuSukLN1A">ICPEAC XXX photo collection</a> is now available online. The images depict various memorable events from the scientific and social programs</p>
+<p>Videos of the ICPEAC XXX student tutorials are now available on YouTube</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=9f9Vd85JpJE">Barry Schneider</a></li>
+<li><a href="https://www.youtube.com/watch?v=xjbN6jNzU5U">Thomas Pfeifer</a></li>
+<li><a href="https://www.youtube.com/watch?v=M3XmsPYRq8k">Chris Green</a></li>
+</ul>
+<p>Selected ICPEAC XXX talks are now available online. Please check the <a href="speakers.php">SPEAKERS</a> page.</p>
+
+<p>ICPEAC XXX newsletters are now available here:</p>
+<ul>
+<li><a href="_files/ICPEAC30_Newsletter_1_26Jul1.2.pdf">Newsletter 1 - 26 July</a></li>
+<li><a href="_files/ICPEAC30_Newsletter_2_27Jul_Final.pdf">Newsletter 2 - 27 July</a></li>
+<li><a href="_files/ICPEAC30_Newsletter_3_28Jul_v3.pdf">Newsletter 3 - 28 July</a></li>
+<li><a href="_files/ICPEAC30_Newsletter_4_31Jul_v2.pdf">Newsletter 4 - 31 July</a></li>
+<li><a href="_files/ICPEAC30_Newsletter_5_1Aug_v2.1.pdf">Newsletter 5 - 1 August</a></li>
+
+
+</ul>
+
+</td>
+          </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="footer"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td align="right" valign="middle" class="footerLeft" ><span class="footerSponsorsTitle">icpeac XXX<br />
+sponsors</span></td>
+            <td align="left" valign="top" class="footerRight"><table border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="287" align="left" valign="top" style="padding-right:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.curtin.edu.au">Curtin University</a></li>
+                  <li> <a href="http://www.queensland.com/">Tourism and Events Queensland</a></li>
+                  </span></td>
+                <td width="287" align="left" valign="top" style="padding-left:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.anu.edu.au">Australian National University</a></li>
+                  <li><a href="http://www.griffith.edu.au">Griffith University</a></li>
+                  <li><a href="http://iupap.org">IUPAP</a></li>
+		  <li><a href="http://www.iop.org/">IOP/JPB</a></li>
+                  </span></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93820-12', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

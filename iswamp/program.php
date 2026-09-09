@@ -1,0 +1,261 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>ISWAMP 2017</title>
+
+<link href="_includes/style.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="/iswamp/pics/iswampfavicon.ico">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<body>
+<table width="924" border="0" align="center" cellpadding="0" cellspacing="0" id="container">
+  <tr>
+    <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" id="content">
+      <tr>
+        <td align="center" valign="middle" class="header" ><table width="100%" border="0" cellpadding="0" cellspacing="0" id="headerTable">
+              <tr>
+                <td align="center" valign="middle" class="logoCell"><img src="/iswamp/pics/iswampLogo2.png" width="188" height="154" /></td>
+                <td align="left" valign="middle" class="pageTitleCell"><span class="icpeacHeading"><span class="icpeacHeading-title">satellites to icpeac 2017
+</span><span class="icpeacHeading-subtitle" style="padding-bottom:0px;">Intense field, Short Wavelength Atomic and Molecular Processes (ISwamp)</span>
+<span class="icpeacHeading-date">July 22-24, Ship Inn, South Bank, Brisbane, Australia </span>               
+                
+                
+                </span></td>
+              </tr>
+            </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="contentCell"><table width="900" border="0" cellpadding="0" cellspacing="0" id="contentTable">
+          <tr>
+            <td align="left" valign="top" class="links">
+<a href='/iswamp/index.php'>HOME</a>
+<a href='/iswamp/venue.php'>LOCATION AND VENUE</a>
+<a href='/iswamp/accommodation.php'>ACCOMMODATION</a>
+<a href='/iswamp/registration.php'>REGISTRATION</a>
+<a href='/iswamp/travel.php'>TRAVEL</a>
+<a href='/iswamp/contacts.php'>CONTACT</a>
+<a href='/iswamp/committee.php'>LOCAL COMMITTEE</a>
+<a href='/iswamp/board.php'>ADVISORY BOARD</a>
+<span class="current">PROGRAM</span>
+<a href='/iswamp/submission.php'>ABSTRACT SUBMISSION</a>
+
+<table width="165" border="0" cellpadding="0" cellspacing="0" id="anuTable">
+  <tbody>
+    <tr>
+      <td class="sponsorcell"><p style="text-transform:capitalize;">Main Conference</p></td>
+    </tr>
+    <tr>
+      <td><a href='/'>ICPEAC30</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="165" border="0" cellpadding="0" cellspacing="0" id="anuTable">
+  <tbody>
+    <tr>
+      <td class="sponsorcell"><p style="text-transform:capitalize;">Sponsors</p></td>
+    </tr>
+    <tr>
+      <td><a href='https://www.griffith.edu.au/science-aviation/centre-quantum-dynamics'>Centre for Quantum Dynamics</a></td>
+    </tr>
+    <tr>
+
+      <td><a href='https://www.griffith.edu.au/science-aviation/school-natural-sciences'>School of Natural Sciences</a></td>
+    </tr>  
+</tbody>
+</table>
+              
+            </td>
+            <td align="left" valign="top" class="content"><h1>Program</h1>
+              
+
+<div class=WordSection1>
+
+<p class=MsoNormal><h2><span lang=EN-US>Saturday, July 22</span></h2></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+lang=EN-US>12:00 – Registration &amp; Lunch</span></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>14:00-14:10 Welcome</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>14:10-15:00 Plenary lecture: Kiyoshi Ueda </span>(Tohoku University,
+Japan) “Probing ultrafast structural and electronic dynamics using new light
+sources”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>15:00-15:30 Alexandra Landsman (</span>MPI-PKS Dresden, Germany)
+“Tracing attosecond electron dynamics in ionization of atoms and molecules with
+EUV light.”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>15:30-16:00 Markus Ilchen </span>(European XFEL, Germany) “Circular
+dichroism in the multi-photon ionization of oriented Helium ions”.</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US> <b>Afternoon tea</b></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>16:20-16:50 Klaus Bartschat </span>(Drake University, USA) “Coherent
+Control and Attosecond Dynamics with Pulsed XUV and IR Radiation”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>16:50-17:20 Hironobu Fukuzawa </span>(Tohoku University, Japan)
+“Molecular dynamics revealed by X-ray free-electron laser at SACLA”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>17:20-17:50 Ulli Eichmann </span>(MBI Berlin, Germany) “Atomic
+strong-field excitation from low to high frequency fields.”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>17:50-18:10 Hiromichi Niikura (Waseda University, Japan) “Imaging a
+phase-resolved electron wavepacket”</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US>18:15 Welcome reception</span></b></p>
+
+<p class=MsoNormal><h2><span lang=EN-US>Sunday, July 23</span></h2></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>9:00-9:50 Plenary lecture: Giuseppe Sansone </span>(Politecnico di
+Milano, Italy) “Coherent control and attosecond spectral interferometry in the
+extreme ultraviolet range”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>9:50-10:20 Tim Laarmann (DESY, Germany) </span>“Challenges and
+Opportunities for Attosecond Interferometry with FEL Pulses”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+style='font-size:10.0pt;font-family:"Times",serif'> </span><b><span
+lang=EN-US>Morning tea</span></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>10:40-11:10 Kenichi Ishikawa </span>(University of Tokyo, Japan)
+“Coherent control and coherence control in photoionization of Ne and He by
+bichromatic XUV pulses.”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>11:10-11:40 Miriam Weller </span>(University of Frankfurt, Germany)
+“Imaging the temporal evolution of molecular orbitals during ultrafast
+dissociation”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>11:40-12:10 Andre Staudte </span>(NRC Ottawa, Canada) “Ultrafast
+dissociation of meta-stable CO<sup>2</sup>+ in a dimer”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US> <b>Lunch</b></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>14:00-14:30 Zenghu Chang </span>(University of Central Florida, USA)
+“Intense XUV pulse generation with CEP stable 10 Hz lasers.”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>14:30-15:00 Matthias Kling </span>(LMU, Germany) “Attosecond time
+delays in XUV photoemission from molecules”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>15:00-15:30 Liang-You Peng </span>(Peking University, China)
+“Near-threshold harmonic generation of atoms”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US> <b>Afternoon tea</b></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>15:50-16:20 Serguei Patchkovskii </span>(MBI Berlin, Germany)
+“SCID-TDSE: A tool for fully-converged strong-field TDSE calculations for
+atomic systems with a single active electron.”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>16:20-16:50 Michael Meyer </span>(European XFEL, Germany) “Atomic
+photoionisation and molecular dissociative ionisation in the non-linear regime”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>16:50-17:20 Oleg Kornilov </span>(MBI Berlin, Germany) “Interference
+stabilization of a complex Fano resonance.”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>17:20-19:00 Poster session</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+lang=EN-US>19:00 Conference dinner</span></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><h2><span
+lang=EN-US>Monday, July 24</span></h2></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>9:00-9:50 Plenary lecture: Christoph Bostedt </span>(Argonne/Northwestern
+University, USA) “Visualizing ultrafast dynamics in molecules and clusters with
+femtosecond x-ray pulses”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>9:50-10:20 Alexander Kuleff </span>(University of Heidelberg,
+Germany) “ICD and ICD cascades in multiply excited clusters”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US> <b>Morning tea</b></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>10:40-11:10 Maria Novella Piancastelli </span>(Uppsala University,
+Sweden) “Acetylacetone photodynamics at a seeded free-electron laser”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>11:10-11:40 Bruno Langbehn </span>(TU Berlin, Germany) “Three-Dimensional 
+shapes of rotating helium nanodroplets”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>11:40-12:10 Christian Ott </span>(MPI Heidelberg, Germany)
+“Bound-state electron dynamics in weak and strong fields”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US> <b>Lunch</b></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>14:00-14:30 Yongbin Leng (Shanghai Institute of Applied Physics,
+China) “Status of Shanghai XFEL project”</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>14:30-15:00 Alexander Galstyan </span>(Université Catholique de
+Louvain, Belgium) “Modelling laser-matter interactions for simple molecules”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>15:00-15:30 Timur Osipov </span>(SLAC-LCLS, USA) “First Instrument
+for the First “CW” X-ray FEL”</p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=EN-US>15:30-15:50 Karolin Mertens (University of Hamburg, Germany) “Charge
+migration dynamics in methane derivatives after xuv photo excitation” </span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+lang=EN-US>15:50-16:00 Concluding remarks</span></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+lang=EN-US> Afternoon tea</span></b></p>
+
+</div>
+
+             </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="links">&nbsp;</td>
+            <td align="left" valign="top" class="content">&nbsp;</td>
+          </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="footer">
+        </td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>

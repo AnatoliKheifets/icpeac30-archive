@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ICPEAC 2017 - Committees</title>
+<link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+
+<link href="_includes/fonts/Open Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Open Sans Condensed/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/Oswald/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/fonts/PT Sans/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="_includes/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="924" border="0" align="center" cellpadding="0" cellspacing="0" id="container">
+  <tr>
+    <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" id="content">
+      <tr>
+        <td align="center" valign="middle" class="header"><table width="100%" border="0" cellpadding="0" cellspacing="0" id="headerTable">
+              <tr>
+                <td align="left" valign="middle" class="logoCell"><img src="_images/logo-4.png" width="108" height="128" / style="padding-left:40px;"></td>
+                <td align="left" valign="middle" class="pageTitleCell"><span class="icpeacHeading"><span class="icpeacHeadingDark">INTERNATIONAL CONFERENCE</span><span class="icpeacHeadingMed"> ON 
+                  PHOTONIC 
+                  ELECTRONIC</span>
+                  <span class="icpeacHeadingLight">AND 
+                  ATOMIC COLLISIONS</span></span><span class="icpeacDate">26 JULY - 1 AUGUST 2017  <span class="icpeacDateSpace">|</span>  CAIRNS CONVENTION CENTRE  <span class="icpeacDateSpace">|</span>  queensland, australia</span></td>
+              </tr>
+            </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="contentCell"><table width="900" border="0" cellpadding="0" cellspacing="0" id="contentTable">
+          <tr>
+            <td align="left" valign="top" class="links">
+<a href='/index.php'>WELCOME</a>
+<a href='/scope.php'>SCOPE AND PROGRAM</a>
+<a href='/speakers.php'>SPEAKERS</a>
+<a href='/posterlist.php'>ABSTRACTS/POSTERS</a>
+<a href='/dates.php'>DATES / ANNOUNCEMENTS</a>
+<a href='/venue.php'>LOCATION AND VENUE</a>
+<a href='/accommodation.php'>ACCOMMODATION</a>
+<a href='/registration.php'>REGISTRATION</a>
+<a href='/travel.php'>TRAVEL</a>
+<a href='/proceedings.php'>PROCEEDINGS & MEDIA</a>
+<a href='/social_programme.php'>SOCIAL PROGRAM</a>
+<a href='/prizes.php'>SUPPORT AND PRIZES</a>
+<a href='/meetings.php'>SATELLITE MEETINGS</a>
+<a href='/exhibitors_sponsors.php'>SPONSORS / EXHIBITORS</a>
+<span class="current">COMMITTEES</span>
+<a href='/contacts.php'>CONTACTS</a>
+<table width="165" border="0" cellpadding="0" cellspacing="0" id="anuTable">
+                <tr>
+                  <td class="sponsorcell"><p>MAJOR SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.curtin.edu.au"><img src="_images/curtinuniversity-logo.png" width="160" height="27" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.queensland.com/"><img src="_images/QLD-tourism-logo.png" width="155" height="46" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><p>OTHER SPONSORS</p></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.anu.edu.au"><img src="_images/ANU-logo-4.png" width="100" height="35" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.griffith.edu.au/"><img src="_images/Griffith-logo.png" width="110" height="31" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://www.iop.org/"><img src="_images/IOP-logo.png" width="125" height="41" /></a></td>
+                </tr>
+                <tr>
+                  <td class="sponsorcell"><a href="http://iupap.org/"><img src="_images/IUPAP-logo.jpg" width="120" height="36" /></a></td>
+                </tr>
+
+                </table>
+            </td>
+            <td align="left" valign="top" class="content">
+ 
+<h1>Committees</h1>
+
+<h2>ICPEAC XXX Local Organising Committee</h2>
+<table width='100%' cellpadding='3px'>
+<tr><th style='width:25%;vertical-align:top;text-align:right;'>Committee Chair</th><td>Prof. Anatoli Kheifets (Australian National University - ANU, Canberra)</td><tr>
+<tr><th style='width:25%;vertical-align:top;text-align:right;'>Committee Co-Chair</th><td>Prof. Igor Bray (Curtin University, Perth)</td><tr>
+<tr><th style='width:25%;vertical-align:top;text-align:right;'>Committee Members</th><td>Prof. Steve Buckman (ANU, Canberra)<br />Prof. Andrei Rode (ANU, Canberra)<br />
+Dr. Maarten Vos (ANU, Canberra)<br />
+Dr. Steven Gibson (ANU, Canberra)<br />
+Dr. Joshua Machacek (ANU, Canberra)<br />
+Dr. Sean Hodgman (ANU, Canberra)<br />
+Mr. Alexander Bray (ANU, Canberra)<br />
+Prof. Dmitry Fursa (Curtin University, Perth)<br />
+Prof. Alisher Kadyrov (Curtin University, Perth)<br />
+Prof. Robert Sang (Griffith University, Brisbane)<br />
+Prof. Christopher Chantler (University of Melbourne, Melbourne)<br />
+Prof. Feng Wang (Swinburne University, Melbourne)</td><tr>
+</table>
+
+<h2>ICPEAC XXX International Officers</h2>
+<table width='100%' cellpadding='3px'>
+<tr><th style='width:25%;vertical-align:top;text-align:right;'>International Chair</th><td>Hossein Sadeghpour (Harvard University, USA)</td></tr>
+<tr><th style='width:25%;vertical-align:top;text-align:right;'>Secretary</th><td>Emma Sokell (University College Dublin, Ireland)</td></tr>
+<tr><th style='width:25%;vertical-align:top;text-align:right;'>Treasurer</th><td>Stefan Schippers (Giessen University, Germany)</td></tr>
+<tr><th style='width:25%;vertical-align:top;text-align:right;'>Vice Chair</th><td>Kiyoshi Ueda (Tohoku University, Japan)</td></tr>
+<tr><th style='width:25%;vertical-align:top;text-align:right;'>Past Chair</th><td>Roberto Rivarola (National University Rosario,  Argentina)</td></tr>
+</table>
+
+<h2>ICPEAC XXX Executive and General Committees</h2>
+<table width='100%' cellpadding='1px'>
+<tr><th style='width:25%;'>ARGENTINA</th><th style='width:25%;'>AUSTRALIA</th><th style='width:25%;'>AUSTRIA</th><th style='width:25%;'>BELGIUM</th></tr>
+<tr>
+  <td style='vertical-align:top;'>O. Fojon</td>
+  <td style='vertical-align:top;'>A. Kheifets (Exec)<br>I. Bray (Exec)<br>R. Sang<br>R. White</td>
+  <td style='vertical-align:top;'>J. Burgdörfer (Exec)<br>C. Lemell</td>
+  <td style='vertical-align:top;'>X. Urbain</td>
+</tr>
+<tr><th>BRAZIL</th><th>CANADA</th><th>P.R. CHINA</th><th>DENMARK</th></tr>
+<tr>
+  <td style='vertical-align:top;'>M. Varella</td>
+  <td style='vertical-align:top;'>T. Kirchner (Exec)</td>
+  <td style='vertical-align:top;'>Li You (Exec)<br />D. Ding<br />B. Wei</td>
+  <td style='vertical-align:top;'>L. Andersen</td>
+</tr>
+<tr><th>FRANCE</th><th>GERMANY</th><th>HOLLAND</th><th>HUNGARY</th></tr>
+<tr>
+  <td style='vertical-align:top;'>D. Vernhet (Exec)<br />L. Adoui (Exec)<br />O. Dulieu<br />C. Miron</td>
+  <td style='vertical-align:top;'>M. Meyer<br />A. Surzhykov<br />M. Vrakking<br />A. Wolf</td>
+  <td style='vertical-align:top;'>R. Hoekstra</td>
+  <td style='vertical-align:top;'>P. Dombi</td>
+</tr>
+<tr><th>INDIA</th><th>ITALY</th><th>JAPAN</th><th>POLAND</th></tr>
+<tr>
+  <td style='vertical-align:top;'>C.P. Safvan<br />M. Vinodkumar</td>
+  <td style='vertical-align:top;'>L. Avaldi</td>
+  <td style='vertical-align:top;'>K. Ueda (Exec)<br />D. Kato<br />K. Okada<br />M. Tashikawa<br />X-M. Tong</td>
+  <td style='vertical-align:top;'>M. Pajek</td>
+</tr>
+<tr><th>PORTUGAL</th><th>RUSSIA</th><th>SPAIN</th><th>SWEDEN</th></tr>
+<tr>
+  <td style='vertical-align:top;'>F. Ferreira Da Silva</td>
+  <td style='vertical-align:top;'>A. Grum-Grzhimailo<br />V. Shabaev</td>
+  <td style='vertical-align:top;'>F. Martín (Exec)<br />A. Palacios<br />A. Prosmiti</td>
+  <td style='vertical-align:top;'>E. Lindroth<br />H. Zettergren</td>
+</tr>
+<tr><th>SWITZERLAND</th><th>TURKEY</th><th>UNITED KINGDOM</th><th>UNITED STATES</th></tr>
+<tr>
+  <td style='vertical-align:top;'>F. Merkt</td>
+  <td style='vertical-align:top;'>O. Sise</td>
+  <td style='vertical-align:top;'>V. Averbukh<br />M. Charlton</td>
+  <td style='vertical-align:top;'>K. Bartschat (Exec)<br />A. Starace (Exec)<br />L. Argenti<br />R. Côté<br />T. Killian<br />U. Thumm</td>
+</tr>
+</table>
+
+
+</td>
+          </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="footer"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td align="right" valign="middle" class="footerLeft" ><span class="footerSponsorsTitle">icpeac XXX<br />
+sponsors</span></td>
+            <td align="left" valign="top" class="footerRight"><table border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="287" align="left" valign="top" style="padding-right:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.curtin.edu.au">Curtin University</a></li>
+                  <li> <a href="http://www.queensland.com/">Tourism and Events Queensland</a></li>
+                  </span></td>
+                <td width="287" align="left" valign="top" style="padding-left:15px;"><span class="footerSponsorLinks">
+                  <li><a href="http://www.anu.edu.au">Australian National University</a></li>
+                  <li><a href="http://www.griffith.edu.au">Griffith University</a></li>
+                  <li><a href="http://iupap.org">IUPAP</a></li>
+		  <li><a href="http://www.iop.org/">IOP/JPB</a></li>
+                  </span></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93820-12', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
